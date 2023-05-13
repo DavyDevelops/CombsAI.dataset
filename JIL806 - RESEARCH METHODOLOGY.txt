@@ -1,0 +1,2889 @@
+COURSE EDITOR: PROF A.M. MADAKI
+                              Faculty of Law, ABU, ZARIA
+
+                                                               1
+           NATIONAL OPEN UNIVERSITY OF NIGERIA
+
+91, Cadastral Zone, Nnamdi Azikiwe Express Way, University Village, Jabi, Abuja
+
+              SCHOOL OF POSTGRADUATE STUDIES
+        COURSE DEVELOPMENT FOR PG PROGRAMME
+
+PROGRAMME:      MASTER IN INTERNATIONAL LAW AND
+                DIPLOMACY
+
+FACULTY: LAW
+
+DEAN: DR. ERRNEST O. UGBEJEH
+
+COURSE CODE: MILD 806 (2 units)
+
+COURSE TITLE: LEGAL RESEARCH METHODOLOGY
+
+COURSE WRITER:
+
+                2
+Contents
+
+MODULE 1: WHAT IS LEGAL RESEARCH? .................................................................................................8
+  Unit 1: Introduction ......................................................................................................................... 8
+  Unit 2: What is Research? ...................................................................................................................9
+  Unit 3: What is Legal Research? ..........................................................................................................9
+  Unit 4: The Need for Legal Research ................................................................................................. 10
+  Unit 5: Subject Matter of Legal Research .......................................................................................... 12
+  Unit 6: Motivation in Research .......................................................................................................... 15
+  Unit 7: Aim and Objectives of Legal Research.................................................................................... 16
+  Question............................................................................................................................................ 18
+  Self assessment exercise.................................................................................................................... 18
+
+MODULE 2: RESEARCH METHODS AND METHODOLOGY ..................................................................... 19
+  Unit 1: Introduction ........................................................................................................................... 19
+  Unit 2: Research Methods................................................................................................................ 19
+  Unit 2.1: Doctrinal Method ............................................................................................................... 19
+  Unit 2.2: Empirical Method............................................................................................................... 19
+  Unit 2.3: Teleological Method............................................................................................................ 20
+  Question............................................................................................................................................ 20
+  Self assessment exercise.................................................................................................................... 20
+
+MODULE 3: TYPES AND PURPOSE OF RESEARCH .................................................................................... 22
+  Unit 1: Introduction .......................................................................................................................... 23
+  Unit 2: Descriptive Research ............................................................................................................. 23
+  Unit 3: Analytical Research ............................................................................................................... 24
+  Unit 4: Applied Research................................................................................................................... 25
+  Unit 5: Qualitative Research ............................................................................................................. 26
+  Unit 6: Quantitative Research ........................................................................................................... 26
+  Unit 7: Conceptual Research ............................................................................................................. 27
+  Unit 8: Purpose of Research............................................................................................................... 27
+  Question............................................................................................................................................ 27
+
+                                                               3
+  Self Assessment Exercise ................................................................................................................... 28
+MODULE 4: RESEARCH PLANNING AND DESIGNING.............................................................................. 28
+
+  Unit 1: Introduction ........................................................................................................................... 29
+  Unit 2: Planning and Designing a Research........................................................................................ 29
+  Unit 3: Research Tools ...................................................................................................................... 30
+  Unit 3.1: Municipal Law Research Tools ............................................................................................ 31
+  Unit 3.2: International Law Research Tools ....................................................................................... 32
+  Unit 4: Basic Tools of Data Collection ................................................................................................ 32
+  Question............................................................................................................................................ 33
+  Self Assessment Exercise ................................................................................................................... 33
+MODULE FIVE: HOW TO CHOOSE RESEARCH TOPIC .............................................................................. 34
+  Unit I: Introduction ........................................................................................................................... 34
+  Unit 2: The Topic should be Narrow................................................................................................... 35
+  Unit 3: Novelty of Research Topic ...................................................................................................... 36
+  Unit 4: Not Recently Researched or Undertaken ................................................................................ 36
+  Unit 5: The Topic must be Elegant and short ...................................................................................... 37
+  Unit 6: The Topic must be Researchable ............................................................................................ 37
+  Question............................................................................................................................................ 38
+  Self Assessment Exercise ................................................................................................................... 38
+MODULE SIX: WRITING AN ABSTRACT................................................................................................... 39
+  Unit 1: Introduction .......................................................................................................................... 40
+  Unit 2: Qualities of a Good Abstract .................................................................................................. 40
+  Unit 2.1: Introduction ....................................................................................................................... 40
+  Unit 2.2: Statement of the Problem .................................................................................................. 41
+  Unit 2.3: Discussing the Statement of the Problem and Solution....................................................... 42
+  Unit 2.4: Findings .............................................................................................................................. 43
+  Unit 2.5: Recommendations.............................................................................................................. 44
+  Unit 2.6: Conclusion........................................................................................................................... 44
+  Unit 3: Use of Abstract ...................................................................................................................... 44
+  Unit 4: Abstract Language ................................................................................................................ 45
+  Question............................................................................................................................................ 46
+  Self Assessment Exercise ................................................................................................................... 46
+
+                                                               4
+MODULE SEVEN: LITERATURE REVIEW.................................................................................................. 47
+  Unit 1: Introduction .......................................................................................................................... 48
+  Unit 2: Definition .............................................................................................................................. 49
+  Unit 3: Purpose of Literature Review................................................................................................. 49
+  Unit 4: Writing a Literature Review ................................................................................................... 49
+  Unit 5: Relationship between Literature Review and the Research Topic .......................................... 52
+  5.6. Literature Review and Research Question .............................................................................. 52
+  Unit 7: Quantitative Literature Review.............................................................................................. 53
+  Unit 8: Qualitative Literature Review ................................................................................................ 54
+  Unit 9: Evaluating a Literature Review .............................................................................................. 55
+  Unit 10: Samples of Literature Review .............................................................................................. 56
+  Unit 10.1: Case Law Review ............................................................................................................... 56
+  Unit 10.2: Sample of Textbook Review I ............................................................................................ 57
+  Unit 10.3: Sample of Textbook Review II............................................................................................ 58
+  Unit 10.4: Sample of Review of Statute ............................................................................................. 59
+  Unit 11: What a Reviewer Needs to Do ............................................................................................ 59
+  Question............................................................................................................................................ 60
+  Self-Assessment Exercise ................................................................................................................... 60
+
+MODULE EIGHT: PARTS OF THESIS, DISSERTATION AND LONG ESSAY PROJECTS .................................... 61
+  Unit I: Introduction ........................................................................................................................... 62
+  Unit 2: Preliminary Pages.................................................................................................................. 63
+  Unit 2.1: Title Page ............................................................................................................................ 63
+  Unit 2.2: Copyright Statement .......................................................................................................... 64
+  Unit 2.3: Dedication .......................................................................................................................... 65
+  Unit 2.4: Acknowledgement.............................................................................................................. 65
+  Unit 2.5: Certification........................................................................................................................ 66
+  Unit 2.5.1: Sample of Certification ................................................................................................... 66
+  Unit 2.6: Declaration ........................................................................................................................ 67
+  Unit 2.6.1: Sample of declaration ..................................................................................................... 67
+  Unit 2.7: Forward.............................................................................................................................. 68
+  Unit 2.8: Preface ............................................................................................................................... 68
+  Unit 2.9: Table of Statutes ................................................................................................................ 69
+
+                                                               5
+  Unit 2.10: Table of Cases................................................................................................................... 70
+  Unit 2.11: Table of Contents ............................................................................................................. 70
+  Unit 2.12: List of Abbreviations ......................................................................................................... 73
+  Unit 2.13: Bibliography ..................................................................................................................... 73
+  Unit 2.14: Glossary............................................................................................................................ 74
+  Unit 2.15: Appendix .......................................................................................................................... 75
+  Unit 2.16: Index ................................................................................................................................. 76
+  Question............................................................................................................................................ 77
+  Self Assessment Exercise ................................................................................................................... 77
+MODULE NINE: CITATIONS AND CROSS REFERENCING........................................................................... 80
+  Unit 1: Introduction .......................................................................................................................... 81
+  Unit 2: Citation of Statutes................................................................................................................ 82
+  Unit 3: Citation of Facts .................................................................................................................... 83
+  Unit 4: Citation of Textbooks ............................................................................................................ 83
+  Unit 5: Citation of Textbooks Written by Several Authors.................................................................. 84
+  Unit 6: Citation of Case Law .............................................................................................................. 85
+  Unit 7: Citation of Journals................................................................................................................ 86
+  Unit 8: Article Cited in an Edited Book............................................................................................... 87
+  Unit 9: Citation of Conference and Seminar Papers ........................................................................... 88
+  Unit 10: Citation of Thesis................................................................................................................. 90
+  Unit 11: Citation of Dissertation........................................................................................................ 91
+  Unit 12: Citation of Long Essays ........................................................................................................ 92
+  Unit 13: Citation of Information Obtained from the Internet............................................................. 92
+  Unit 14: Application of Cross References........................................................................................... 93
+  Unit 14.1: Ibidem .............................................................................................................................. 93
+  Unit 14.2: Op. Cit. ............................................................................................................................. 95
+  Unit 14.3: Loc. Cit. ............................................................................................................................ 96
+  Unit 14.4: Supra................................................................................................................................ 96
+  Unit 15.1: Foot Notes........................................................................................................................ 97
+  Unit 15.2: End Note .......................................................................................................................... 97
+  Unit 15.3: Quotations ...................................................................................................................... 98
+  Unit 16: Use of Computers................................................................................................................ 99
+
+                                                               6
+  Question 1....................................................................................................................................... 100
+  Question 2....................................................................................................................................... 101
+  Self Assessment Exercise ................................................................................................................. 101
+MODULE TEN: CONCLUSION................................................................................................................ 103
+  Unit 1: Introduction ........................................................................................................................ 104
+  Unit 2: Findings............................................................................................................................... 104
+  Unit 2.1: Lack of Funding................................................................................................................ 105
+  Unit 2.2: Lack of Awareness ........................................................................................................... 105
+  Unit 3: Recommendations.............................................................................................................. 105
+  Unit 3.1: Lack of Funding................................................................................................................ 105
+  Unit 3.2: Lack of Awareness ............................................................................................................ 106
+  Unit 4: Summary ............................................................................................................................ 106
+  Unit 5: Conclusion.......................................................................................................................... 106
+  Questions ........................................................................................................................................ 107
+  Self Assessment Exercise ................................................................................................................. 107
+Further Reading................................................................................................................................... 107
+APPENDIX I.......................................................................................................................................... 108
+ANSWERS TO THE SELF ASSESSMENT EXERCISES.................................................................................. 108
+
+                                                                                                                                                          Commented [u1]: Table of Contents should be typed in "Times
+                                                                                                                                                          New Roman"
+
+7
+                           MODULE ONE
+
+Unit 1:      MODULE 1: WHAT IS LEGAL RESEARCH?                                            Commented [u2]: Each Module should start with a brief
+         Introduction                                                                     introduction of the Module.
+
+Unit 2: What is Research?                                                                 Commented [u3]: Unit Heading should not be bold.
+
+Unit 3: What is Legal Research?                                                           Commented [u4]: Remove the fullstop.
+                                                                                          Commented [u5]: This sentence is not clear.
+Unit 4: Objectives of Legal Research
+                                                                                          Commented [u6]: Endeavour
+Unit 5: The Need for Legal Research                                                       Commented [u7]: Insert coma(,)
+
+Unit 6: Motivation for Legal Research
+
+Unit 1: Introduction
+       Every discipline of knowledge has its own peculiarities which people or
+
+adherents of it need to acquire for optimum performance or for specialty. Law as one
+
+of the disciplines in the social sciences has peculiarities which have become
+
+imperative for those who indulge themselves in its study, must strive to acquire
+
+them, most importantly, if the knowledge sought to be acquired. is not within the
+
+ordinary domain of the discipline --- i.e., trying to know the uncommonly known or
+
+the unknown. Let us be understood from the onset that the terms "uncommonly
+
+known" or the "unknown" do not mean that the area of knowledge must not be
+
+known at all. The person who is seeking to know the area of discipline may
+
+specialize in it only or be well sounded in it. In other words, research is the striving
+
+or the endeavoring to discover what is not known or what is not better known. At
+
+times the aim of research is to know better, or to master the area of the knowledge
+
+                                                               8
+which a researcher seeks to conduct his research. In the area of law, researchers                                 Commented [u8]: In which
+search for refined knowledge which is not common or which is not within the
+ordinary domain of other lawyers --- i.e., something of a higher realm or place. It                               Commented [u9]: Remove the phrase. Its tautology.
+means the striving or the endeavor to discover facts or information not within the                                Commented [u10]: Unit Heading should not be bold.
+ordinary knowledge of people in a certain discipline, e.g., such as law.
+Unit 2: What is Research?                                                                                         Commented [u11]: Separate the words.
+Research means systematic study or investigation designed to achieve specific goals.
+It means the process of discovering new facts or getting additional information about
+the subject matter of the research. Research is an exercise that allows us to gain
+insight beyondwhat can be gained from common sense or practical experience.1
+
+Unit 3: What is Legal Research?                                                                                   Commented [u12]: Unit Head should not be bold.
+       Generally, we say research is the process of discovering new facts or
+
+information for purpose of solving certain problems or challenges. Many researches
+are embarked upon for developmental purposes, for example, medicine, engineering
+and environment. Legal research means a research solely planned or embarked upon
+for the discovery or getting of information in the field of law of certain problems or
+
+1Nyemutu F.O. Roberts, Techniques of Data Collection. In: Solomon Akhere Benjamin, Enhancing Effective
+Legislative Research. Published by Policy Analysis and Reseaarch Project (PARP), National Assembly, Abuja (2015)
+60.
+
+                                                               9
+issues. It involves techniques for discovery or expounding of new laws, principles           Commented [u13]: "Legal Research"
+and legal ideology for the purpose of solving extant problems and challenges.                Commented [u14]: Qualifies
+
+       The term legal research is always associated with discovery of facts or               Commented [u15]: Living up
+information relating to law. The word "law" as an adjective, qualities what kind of          Commented [u16]: Who
+research it is --- i.e., law related research. It is the act of probing into documents such  Commented [u17]: Unit Heading should not be bold
+as statutes, regulation, byelaws, law journals, law textbooks, non-law textbooks
+(treaties), international legal instruments such as treaties, conventions and protocols
+with the view to discovering whether their application is living to the expectation of
+people when they are supposed to regulate and whether there are some limitations
+and challenges faced as a result of their application.
+Unit 4: The Need for Legal Research
+
+       The need for legal research cannot be overemphasized. This is because law is
+an organic subject-matter. It grows with time and it wears away with time. What is
+law about 100 years ago may not be law today. For example, with the advancement
+in the areas of science and technology, some laws have become obsolete, while in
+some areas, there is the need to make laws to meet with the current developments.
+Therefore, there is the need to research in the field of law to know which laws are
+extinct and needed to be replaced and which areas or subject-matters have developed
+but need to have law to regulate it. For example, in a third world country such as
+Nigeria, there is the need to research into the area of cybercrime in order to come up
+
+10
+with necessary legislations to meet the challenge of cybercrimes. A lot of research     Commented [u18]: legislation
+is needed to be embarked upon in this area. The need for research cut across the        Commented [u19]: Cuts
+board, for example, national and international laws. There is the need to embark on
+legal research with the view to knowing where the laws are not performing               Commented [u20]: Separate the words
+maximally. Legal research is needed to find out why the laws are not performing
+maximally. In some places, new laws are needed to be made or passed, while in           Commented [u21]: Rather than
+others, research is needed into the existing lawswith the view to knowing or            Commented [u22]: The Commitee
+discovering the problems or limitations of the existing laws.                           Commented [u23]: Fashioning
+                                                                                        Commented [u24]: Delete the word
+       Here in Nigeria, there is a problem relating to our Land Tenure Law. Before      Commented [u25]: Delete "un".
+the coming into the effect of the Land Use Act,1978, several researches have shown      Commented [u26]: coming
+that there was the need to develop statutory land law to regulate land in Nigeria than
+to depend on customary land tenure which has serious limitations as shown by
+research also. This led to establishment of committee saddled with the responsibility
+of fashion out a statutory law to regulate our land tenure system. As a result, the
+present Land Use Act, 1978 was enacted. In this circumstance, it was through legal
+research that led to the discovery that our customary land tenure system is not
+absolutelyun suitable for modern development; because of it myriads of limitations
+and unsuitability. The problem was solved also by designing and conducting
+researches with the view to come up with statutory land law such as the Land Use
+Act, 1978 which applies presently. Now, the Land Use Act has been in practice since
+
+11
+1978.Research is on-going to discover what are its problems, limitations and              Commented [u27]: Replace the ? with fullstop.
+challenges? All these are to be discovered through legal and perhaps non-legal            Commented [u28]: Insert coma.
+researches.                                                                               Commented [u29]: Replace "we" with "you"
+                                                                                          Commented [u30]: Unit Head should not be bold.
+       In this area we have seen that there is the need to make law and to advance
+the course of the law. These are possible through researches.                             Commented [u31]: Replace fullstop with colon(:)
+Unit 5:Subject Matter of Legal Research
+                                                                                          Commented [u32]: Delete "in a"
+       A legal research, as we have already said, is a research whose subject matter
+has to deal with law. We already said that the adjectival word "legal" qualifies what
+kind of research is in issue, namely, law.
+
+       The subject matter of a legal research is always or in most cases is zeroed to
+three important areas of research.
+
+   (1) When a lawyer is conducting his research as a barrister.
+    A barrister is someone who is acting as an agent to a principal. In other words,
+   when somebody is standing in a trial, he can appoint a lawyer to stand for him in
+   a court of law i.e., as a counsel. A barrister is a mouth organ, agent or
+   representative of a principal, i.e., an accused person or defendant who has a court
+   case to answer. To bring our case closer to our doorstep, supposing that A is
+   accused of battery or assault of B. A is being tried by a competent court. C a
+   barrister can be a counsel to A. In this respect, C a barrister (a lawyer who appears
+   before the court) can act as A's agent or counsel in the court. The responsibility
+
+12
+   of C is to defend A. That is, he speaks legally on behalf of A. If C is briefed to      Commented [u33]: remove coma (,)
+   defend A legally, it is for C to prepare very well to understand the fact and law       Commented [u34]: Ndunube Esq
+   surrounding the case before he goes to the court to defend A. In order to seeing
+   that C defends A efficiently in the court, C may undertake research in the area of
+   battery or assault to understand the law well. He may undertake research to find
+   out the relevant statutory law, case law, maxim (if any) and relevant facts to
+   enable him represent the accused person, well in the court. A lawyer may find it
+   necessary to embark upon a research when he is performing his duty as barrister.
+   That is somebody who represents another in a court of law and argues for the
+   course of that person.
+(2)When a lawyer is performing his responsibility as a solicitor.
+A solicitor is a lawyer who does not go to court to represent a client. He does all his
+practices in his office. He, (in some cases) has never seen the four walls of a court.
+As a solicitor, so to say, he can be briefed to write a will, to float a company, to draw
+a lease or sale agreement, and write a conveyance etc. As a lawyer- solicitor, he has
+many roles to play in a society. Supposing that, Mr. Tete, a retired, wealthy former
+Director-General of K.K.B. Investment Company Ltd. wants to write a will to guide
+the administrators of his estate after his death. He needs to have a lawyer who will
+write the will for him in conformity with the current laws governing the writing of a
+will. If Mr. Tete, chooses Mr. M. M. NdunubeEsq, to draw the will for him, if Mr.
+
+13
+Ndunube accepts the brief, he is required to perform his duties diligently, skillfully   Commented [u35]: "extant"
+and efficiently. To enable him do all these well, Mr. Ndunube has to do some             Commented [u36]: Separate the words
+research, most importantly, if he has not handled similar briefing recently. In this     Commented [u37]: "Wills"
+regard, Mr. Ndunube needs to conduct research into what is the extent law relating       Commented [u38]: "Wills"
+to wills in the jurisdiction where the property is situate. He would like to know what   Commented [u39]: ,
+arethe statutory requirements of a valid Will in the jurisdiction where the property is
+situate. In order to know these, he has to consult statutes, precedents, textbooks from  Commented [u40]: Suppose
+which he will understand the law of wills properly. He may like to consult relevant      Commented [u41]: Separate the words
+foreign textbooks to shade more ideas on the writing of wills. If there are case laws,
+he may like to read them to widen his knowledge in the area. In this circumstance
+Mr. M. M. Ndunube, Esq, has to plunge himself into the stream of research fellows
+and do the research thoroughly in order to come up with a will not only acceptable
+to Mr. Tete, but acceptable to the law of the land. A good knowledge of research in
+this regard is indispensable.
+(3)When a lawyer-academician wants to write conference papers-- national or
+international. Or he wants to do his ordinary business of teaching and research.
+It is obvious that he will conduct research. Supposing that he is to write an
+international conference paper on Internally Displaced Persons, he needs to
+understand the subject matter of the paper very well. This he can do by conducting
+researches onthe relevant conventions, protocols and treaties on IDP. If there are
+
+14
+case laws, journals, articles on the subject matter, he is to conduct research by using       Commented [u42]: Delete
+these tools to accomplish his objective or goal. To achieve this goal, he has to embark       Commented [u43]: Unit heading should not be bold
+on a serious research in order to produce an internationally accepted conference              Commented [u44]: Separate the words
+paper on internally displaced persons. Knowledge of research of research as an
+academic is indispensable.
+
+       In summary, the subject matter of legal research depends on the nature of the
+subject matter a researcher is researching about.
+Unit 6: Motivation in Research
+
+       In jurisprudence, we say where there is right, there is duty. We also say that
+where there is wrong, there is remedy. In legal research, the adage is that where there
+is research, there must be result or finding. Therefore, the motivation aspect in every
+research is the expectation for good research finding. It is the desire or the
+expectation to get good result that motivates a researcher to embark on research.
+Supposing that someone is an artisan engaged in drilling a well,the motivation to
+continue to drill is the desire or expectation that he will get water. When a researcher
+conducts a research, his expectation is that he should discover some findings. Once
+this is done, a researcher gets satisfaction --- i.e.,reward. If the finding/result is good,
+the motivation becomes high. If on the other hand, the finding/result is not good, the
+motivation becomes low. It has been argued that one of the motivation aspects of
+research is its implementation. When a result of research is implemented, the
+
+15
+researcher sees himself as a contributor to the development in the subject matter of     Commented [u45]: Unit Head should not be bold
+the research. He becomes an innovator, a discoverer and in inventor. In the field of
+science and technology this is always the case. But in humanity or social sciences,
+researchers hardly make researches whose finding/results are conspicuously
+noticeable and implementable. This is because; in humanity researches have become
+saturated to the extent that not many researchers are novel and exciting to human
+conscience. In the science and technology findings have not reached saturating point.
+Moreover, most findings are still novel and exciting, for example, computer and its
+attendant fascinating applications. In the third world countries, implementation of
+research is problematic, likewise initiation of it. This is because, implementation of
+some research findings are capital intensive. It is advised that such research findings
+that are novel must be funded by government, corporate organizations, and if
+possible, recourse be had to foreign countries and organizations. Other incentives
+are: monetary reward, reputation, social, political and economic reliefs of the masses
+in all ramifications.
+Unit 7: Aim and Objectives of Legal Research
+
+       Objective here means what a research wants to achieve, that propelled him to
+embark upon the research. It means the main or primary objective that necessitates
+the embarking of the research. The objective of any legal research is always
+contained in the research problem. Usually the objective of a legal research is to
+
+16
+solve the problem highlighted in the research problem. Before a researcher embarks                                         Commented [u46]: "Do Judges Make Law? The Recent Trend"
+upon a research, there must be a problem which he has foreseen and which problem                                           Commented [u47]: Objectives:
+he wants to discuss and solve it. In the topic: Do Judges Make Law? The Recent
+Trend, the objective of the research is to research into the topic with the view to
+knowing whether judges make law. If so, what is the recent trend? Usually, in a
+research, the aim and objectives of a research are enumerated one after the other, for
+example:
+The aim of this research is to discuss in detail, with the view to knowing or
+discovering the truth or reality of this open-ended debate among judges, legal
+academicians, legal practitioners, jurists and law students whether judges make law
+or not.
+Objectives
+
+   1. The objective of this research is to know whether judges make law.
+   2. If they do, what is the recent trend?2
+Why the recent trend?
+
+2. There is a debate whether judges make law or not. The judges of common law have admitted that they make law
+when they interpret and expound laws through the application of judicial precedent. In the process, judges apply the
+ratio decidendi of a previous case to the present case to determine it. Recently, the doctrine of judicial precedent has
+been attacked by some jurists. According to theses jurists, there are no two cases with similar facts and circumstances
+to warrant the application of judicial precedent . According to them, two different cases cannot have similar facts and
+circumstances to enable the application of the law contained in the previous case to the present case. Each case has to
+be determined according to its facts and circumstances, the Critical Legal Theory jurists have argued. This is the recent
+trend.
+
+                                                              17
+Question: An expert in Legal Research Methodology once said, "knowledge of        Commented [u48]: Close quotation
+research methodology is indispensable even when you are writing a letter to your  Commented [u49]: Self-Assessment Exercise
+boy/girl friend. Discuss.
+Self assessment exercise
+1. Knowledge of research methodology is needed by the following person
+
+       (a) Lawyer-academician
+       (b) Musician
+       (c) Carpenter
+       (d) Farmer
+2. In Nigeria there is the need to research into the following areas.
+       (a) Cybercrime
+       ( b) Forestry
+       (c) Mountain climbing
+       (d) Fish farming
+3. Motivation in research includes
+       (a) Fame and cash reward
+       (b) Purchase of cars
+       (c) Hard work
+       (d) Charting with important persons
+
+18
+       MODULE 2: RESEARCH METHODS AND METHODOLOGY                                     Commented [u50]: Sub-Headings/contents of Units are not
+Unit 1: Introduction                                                                  provided in contents of Module. See Unit 2.1,2.2,2.3
+Unit 2: Research Methods                                                              Commented [u51]: This Module has no Introduction. Give a
+Unit 2.1: Doctrinal Method                                                            brief Introduction to the Module.
+Unit 2.2: Empirical Method                                                            Commented [u52]: Unit Heading should not be bold.
+Unit 2.3: Teleological Method                                                         Commented [u53]: You are
+                                                                                      Commented [u54]: your
+Unit 1: Introduction                                                                  Commented [u55]: you
+When a researcher is planning or designing his research, it is necessary, right from  Commented [u56]: your
+the onset to determine what kind of research method he will adopt in order to         Commented [u57]: you
+accomplish his research. There are several methods for him to adopt. He can use as    Commented [u58]: you
+many methods as possible.
+                                                                                      Commented [u59]: Unit Heading should not be bold.
+Unit 2:Research Methods
+       Generally, in the legal research, there are three popular methods. These are:  Commented [u60]: Font Size for Unit sub-heading is 13, not
+                                                                                      14.
+(i) doctrinal method (ii) empirical method (iii) teleological method.
+                                                                                      Commented [u61]: The types of doctrinal methods are not
+Unit 2.1:Doctrinal Method                                                             stated.
+       Doctrinal research method is sometime referred to as arm-chair research or     Commented [u62]: Use Font Size 13.
+
+library oriented research. Doctrinal research is a kind of research whose materials   Commented [u63]: Separate the words
+are obtained from two differently classified kind of materials. They are:             Commented [u64]: you
+                                                                                      Commented [u65]: come
+Unit 2.2:Empirical Method                                                             Commented [u66]: you are
+       This method is popularly known as field oriented research. It is a method of
+
+researchwhere the researcher goes out to gather relevant materials and comes back
+to office or library to write the project. For example, if a researcher is writing a
+
+                                                              19
+project with this topic: Do Judges Make Law? The Recent Trend. The researcher            Commented [u67]: remove the fullstop
+would like to adopt two research techniques, namely, interview and questionnaire         Commented [u68]: you
+methods
+Unit 2.3:Teleological Method                                                             Commented [u69]: Font size 13.
+                                                                                         Commented [u70]: You use your
+       This is a method of research where a researcher uses his experience in life to    Commented [u71]: your
+accomplish his research. In teleological research method, the researcher accounts        Commented [u72]: you account
+vividly his experience in the area of research subject matter. Supposing that a retired  Commented [u73]: your
+Supreme Court Justice is a person writing on the topic: Do Judges Make Law? The
+Recent Trend, most of the materials which come from his experience, if he likes. He      Commented [u74]: will
+can cite several examples of cases which he handled while on sit as a justice. If he     Commented [u75]: seat
+adopts this method of research, it is said that the Justice has adopted a teleological
+method of research. Nowadays, because postgraduate students come for                     Commented [u76]: replace fullstop with coma.
+postgraduate studies immediately or few years after call to bar or discharge from
+NYSC. it is hard for one to see students framing research topics which necessitate
+the adoption of teleological method. Perhaps, this is due to lack of knowledge.
+
+Question: How many major research methods law students use in their researches?          Commented [u77]: This is not a high level Self-Assessment
+Discuss the components of each major method.                                             question. Answer can easily be obtained from the Course guide.
+Self assessment exercise
+1. Mr. Sunday is writing his Post Graduate Diploma Long Essay on the Rate of             Commented [u78]: Self-Assessment Exercise
+Divorce in Nigeria. Which of the following methods is best suited for the research?
+
+                                                              20
+       (a) Teleological method                                                   Commented [u79]: Separate the names
+       (b) Doctrinal Method                                                      Commented [u80]: Separate the words
+       (c). Empirical Method
+       (d) None of the above.                                                    Commented [u81]: Separate the words
+2. Mr. BadaruSomson, a onetime, Permanent Secretary, in the Ministry of Finance
+is writing his memoir.AsaPost Graduate Diploma student,what kind of research     Commented [u82]: This is not discussed in the Course guide.
+methodology will he adopt?                                                       Commented [u83]: Separate the names
+       (a) Doctrinal Method
+       (b) Empirical Method                                                      Commented [u84]: Where are the FEED Back?
+       (c) Teleological Method
+3. Mrs. Ezenwa is anPost Graduate Diploma student. He gathered heaves of books
+including:
+Constitution of the FRN, 1999 (aa); CAMA, 1990; Elias, T.O., Nigerian Land Law;
+Orojo, Campany and Allied Matters Act, 1990.
+Analyze the materials according to their sources.
+4. MrsAfia has the following materials to cite:
+       (a) Efik Adoption of Child Bye Law, 1958
+       (b) Nkom. A.A. Adoption of Child under Customary Law
+       (c) Judgment of Grade I, Customary Court of Cross River State.
+Which of the materials would he cite first?
+
+21
+              MODULE 3: TYPES AND PURPOSE OF RESEARCH             Commented [u85]: Give brief Introduction of the Module.
+Unit 1: Introduction
+Unit 2: Descriptive Research
+
+                                                              22
+Unit 3: Analytical Research
+Unit 4: Applied Research
+Unit 5: Qualitative Research
+Unit 6: Quantitative Research
+Unit 7: Conceptual Research
+Unit 8: Purpose of Research
+
+Unit 1: Introduction                                                                      Commented [u86]: State the contents of the Unit.
+Research is divided into several types,dependingon the purpose for whichthey are to       Commented [u87]: Unit heading should not be bold
+serve.                                                                                    Commented [u88]: Separate the words
+Unit 2:Descriptive Research                                                               Commented [u89]: Separate the words
+
+       The word descriptive means to say in word or in action what a research is or       Commented [u90]: "descriptive"
+it looks like. Sometime this kind of research is called narrative research. It describes
+the kind of research it is. For example in our topic: Do Judges Make Law? The             Commented [u91]: For eample,
+Recent Trend, what a researcher here does is to describe or narrate the situation. He     Commented [u92]: You do
+will say:                                                                                 Commented [u93]: You
+
+    "In discussion this topic I will say that judges in the performance of
+    their constitutional responsibility, their duty is to interpret and apply
+    law. I will say that it is not their duty to make law, because they are not
+    law-makers. The law makers are those who make law, while judges are
+    trusted with the functions of interpreting and expounding laws".
+
+                                                              23
+Though this topic is too technical, however, descriptive research is to say how the      Commented [u94]: Unit heading should not be bold
+research looks like. The shortcoming of this research is that at times it does not
+address the problem of research properly. In legal parlance, this kind of research is    Commented [u95]: Separate words
+not normally adopted.                                                                    Commented [u96]: You are
+Unit 3:Analytical Research                                                               Commented [u97]: You are
+
+       Analytical research is a kind of research where several elements that constitute
+law are critically examined and taken into consideration before determination or
+forming an opinion. Lawyers, judges, law-academicians resort to this kind of
+research a lot. Analytical research forms the fulcrum or basis of which many
+researches in legal field are based.
+
+       Analytical research is a research in which several disciplines are brought to
+bear or focus and examined for the purpose of shading more light on the subject-
+matter of research. The analytical approach becomes necessary because law is the
+melting pot of all disciplines. The subject-matter of research might need
+consideration of economic, religion, politics, scienceand technology, engineering,
+medicine, history and culture. Knowledge of these disciplines may be necessary for
+the exposition of facts of the subject-matter of research. They may shade lights on
+the direction or course which law may take for its proper application. The more the
+researcher is knowledgeable in these relevant areas, the better he is well equipped
+with the law and facts to apply for the solution of the problem. The more the
+
+24
+researcher understands the problem of the research the better his findings and           Commented [u98]: You understand
+recommendations. This is the reason why analytical method of research is far better      Commented [u99]: your
+than several kinds of research. A good research topic where analytical method is
+suitable can be understood from this topic: "Rent Control as a Necessary Means of        Commented [u100]: you are
+Affordability of Accommodation in Urban Cities in Nigeria." In analytical                Commented [u101]: separate the words
+consideration of this research, the researcher is to consider issues such as supply and
+demandtheory, politic--- in the sense of national policy, technology--- in the sense     Commented [u102]: Unit heading should not be bold
+of getting or provision of building materials, urbanization, population, etc (student
+can contribute more here). In fact, to a lawyer this is the most important kind of
+research design. However, a lawyer-researcher often finds it difficult to adopt this
+kind of research because of their limited knowledge of research. To many lawyers,
+research in law is only a matter of reading statutes, journals, law textbooks, byelaws,
+case laws, conventions, treaties and protocol. It is far beyond these, as it is shown
+above.
+Unit 4:Applied Research
+
+       This type of research is popularly known as functional research in legal
+parlance. A functional research or applied research is a kind of research which is
+designed in order to discuss whether certain laws are functioning or not. If they are
+not, why are they not functioning? If they are functioning, are they efficient and
+functioning to the expectation of the public or society? What is to be done if they are
+
+25
+not functioning? May examples are available in this country. For example we have           Commented [u103]: Bigamy
+many laws that are not applied or functioning. For example, law of bigamy, slavery,
+drinking of alcohol, adultery and many traffic offences. Many of these offences are        Commented [u104]: Unit Heading should not be bold
+committed with impunity. Their enforcement is crippled with difficulty because of          Commented [u105]: you
+the problem of law and society which we have already considered in the course of           Commented [u106]: you
+this lecture.                                                                              Commented [u107]: Unit heading should not be bold
+Unit 5: Qualitative Research
+
+       This is a kind of research which aims at the grade or level of the subject-matter
+of the research. In this regard the research is measured per level, e.g., high or low
+quality, good or poor quality; standard or substandard quality. It is a method of rating
+a research. For example, when we say, the quality of the analysis of the research is
+high or low; it is poor or high, it is of high standard or substandard, we are rating the
+quality of the research. Qualitative research aims at high or good research product.
+Unit 6: Quantitative Research
+
+       Quantitative research is often compared with qualitative research. While
+qualitative research deals with good or bad products, quantitative research deals with
+numbers. It is a research where the centrality of alteration is focused on quantity
+such as how many times or how much or what is the amount? While quantitative
+research deals with amount, how much or times, qualitative research aims at how
+good a product is rather than how many or what is the amount. The two kinds of
+research are sharply opposite and they are often compared with each other. They are
+
+                                                              26
+all aimed at measurement.That is, while quantitative deals with number, qualitative      Commented [u108]: This distinction in this sentence is not
+deals with amount or number.                                                             clear.
+Unit 7: Conceptual Research                                                              Commented [u109]: Unit heading should not be bold.
+
+       Conceptual research means research that is related to ideas or principles. For    Commented [u110]: Not clear. Check and correct pls.
+example, the idea of separation of powers, the principle of inalienability of land
+under customary law, the idea of legal person, the principle of lifting the veil, the    Commented [u111]: Unit heading should not be bold.
+idea of the nature of man, the idea that the United Nations Organization is not the      Commented [u112]: proffering
+government of the world etc. This kind of research is embedded in abstractism,
+summation and piori. This kind of research is full of probabilities and devoid of
+certainty. The discussion of this kind of research is based on uncertainty, and the
+finding too is undertrained. This research is absolutely abstract, without much facts
+and law. Recently, instead of designing a conceptual research, most researchers have
+at the introductory part or within the main body of research, a section usually devoted
+for discussing of conceptual terms. This section deals with explanation of conceptual
+terms or words used in research. Conceptual research is not much designed
+nowadays.
+
+Unit 8: Purpose of Research
+The purpose of every research is to find out or discover the problem related to the
+subject matter of the research with the view to proffer solution to the problem.
+Question: What is the difference between qualitative and quantitative
+techniques?
+
+27
+Self Assessment Exercise                                                      Commented [u113]: Where are the feed backs for the Self-
+                                                                              Assessment Excercises?
+1. Amongst the following types of research methods, which is more
+recommendable to adopt?
+
+       (a) Problem formation type
+       (b) Descriptive type
+       (c) Narrative type
+       (d) Analytical type
+2. The best type of research method to adopt by a lawyer is
+       (a) Conceptual
+       (b) Descriptive
+       (c) Analytical
+       (d) Narrative
+3. A research which has to do with numbers, how much, and how often is
+called---------------------------------
+4. A research which has to do with how poor or how good is called-----------
+
+           MODULE 4: RESEARCH PLANNING AND DESIGNING                          Commented [u114]: Where is the Introduction to the Module?
+Unit 1: Introduction                                                          Pls, provide brief Introduction to the Module 4
+Unit 2: Planning and Designing a Research
+Unit 3: Basic Research Tools
+Unit 4: Basic Tools of Data Collection
+
+                                                              28
+Unit 1: Introduction                                                                       Commented [u115]: Heading should not be bold
+As a postgraduate student, the very day or even before you plan to undertake
+postgraduate study you might have a plan of your research. If you do not have, soon        Commented [u116]: Separate the words pls.
+or after you have applied, you might have a plan for your research. Yet, if you have       Commented [u117]: Is it...
+not planned your research, after admission, you need to plan for your research.            Commented [u118]: Heading should not be bold
+Planning in this respect means thinking of a possible area where you will base the         Commented [u119]: Planet,where?
+topic of your research. For example, is it in the area of international law or municipal
+law? If it is in international law what area of international law? Is
+itCustomaryInternational Law or International Humanitarian Law (IHL)? If it is a
+national law, similarly what area of national law is it? Is it land law or constitutional
+law? Or, it is Corporate Management Law? etc. This is what is meant by planning.
+This planning starts from the time when a student has decided or formed an opinion
+to undertake postgraduate studies here at home or abroad.
+Unit 2: Planning and Designing a Research
+
+       Just like an architect plans and designs a house through drawing, a law student
+who is undertaking a postgraduate studies also needs to design his research.
+Designing a research entails the choice of an appropriate reasonable topic,
+designation of all chapters with relevant contents. It includes choice of research
+methodology to accomplish the research. Where will the research take place? Is it in
+the moon or on the earth planet? If it is on the earth planet where? What is the scope
+of the research? Why the research? That is, who may benefit from the research?
+
+                                                              29
+These and several other things are part of the research design. The answers to these         Commented [u120]: Unit heading should not be bold.
+questions are necessary for inclusion in research design, so that the implementers of
+the research design are guided by it so that the research is executed to conform to
+the design.A good research design would obviously yield a good research
+product.Conversely, a bad research design will yield bad research product. It is like
+an architect, who designs a good house. The expectation is that the design if executed
+to the letter will obviously produce a good house. Similarly, if an architect produces
+a bad architectural design, the result is that if the design is rigidly followed, the
+building will be bad eventually. This is how research design is. In research design,
+all the necessary aspect of the research should be incorporated. The more
+comprehensive the design is, the better the research when executed.
+
+       Research design or planning is a wishful thinking or expectation until it is
+accomplished. It gives a glimpse of how a research will look like. The design at any
+stage is not the final bus stop. That is, it can be altered. At any stage of the execution,
+it can be edited by way of addition or subtraction. This process continuous until the
+research is completed.
+Unit 3: Research Tools
+
+       Research tools vary from one research to another. It varies from one discipline
+to another. Therefore, the nature of the research determines the kind of tools to be
+used for accomplishment of the research. In this regard, research tools in the field or
+
+30
+realm of law stand distinctively clear from all other kinds of research. That is,         Commented [u121]: 1.Unit heading should not be bold.
+substantial part of the tools are in the form of documents ---whether the research is     2.Font size 13
+municipal or international law.
+Unit 3.1: Municipal Law Research Tools                                                 Commented [u122]: Opinio juris
+
+       Some necessary tools for execution of domestic or municipal research may
+include:
+
+   (i) Statutes ­ all legislatures. This includes byelaws
+   (ii) Case laws ­ decisions or pronouncements of the Supreme Court of Nigeria.
+   (iii) Law journals ­ reviewed by peers.
+   (iv) Textbooks ­ (of high authority/opinion jurists).
+   (v) Dictionaries ­ e.g., Black's Law Dictionary, Webster, Longman's and
+
+           Oxford dictionaries.
+   (vi) Law Reports ­ (all kinds ­ local and foreign)
+   (vii) Monographs ­ e.g., Ph.D. and LL.M. theses
+   (viii) Facts Findings ­ reports of tribunals ­ e.g., Failed Bank Tribunal,
+
+           Maitatsine Tribunal, 1982.
+   (ix) Conference and seminar papers (local or foreign).
+   (x) Newspapers and Magazines ­ (Local or foreign)
+   (xi) Treatises ­ e.g., written by Locke, Plato and Aristotle.
+
+31
+(xii) Government Policies and Orders ­ e.g., Financial Orders, Civil Service
+       Regulation or handbook.
+
+(xiii) Technical Committee Reports
+   These and many others not mentioned here consist tools for legal research.
+
+Unit 3.2: International Law Research Tools                                                Commented [u123]: Use Font size 13
+Research tools for international law includes                                             Commented [u124]: Includes:
+
+(i) Dictionaries ­ of any type                                                            Commented [u125]: Heading should not be bold.
+
+(ii) Conventions
+
+(iii) Treaties
+
+(iv) Protocols
+
+(v) Textbooks on International Law
+
+(vi) Resolutions of the General Assembly of the United Nations Organizations
+
+(vii) Resolutions of Security Committee
+
+(viii) Judgments of the International Court of Justice
+
+(ix) Judgments of all regional/sub-regional Committees etc
+
+(x)  Judgments of International Criminal Court.
+
+Unit 4: Basic Tools of Data Collection
+       It suffices to say that the basic tools of data collection are different from the
+
+above listed tools. When a researcher is faced with the responsibility to collect data,
+the tools we mentioned above are the pools into which he dips his hand to fetch data
+--- whether the research is of municipal or international law.
+
+                                32
+       Data collection in legal parlance is not more than the gathering of all relevant
+documents--- whether fact or law for analysis with the view to achieving research
+goal or question. In this regard, document such as dictionaries, cases, legislations
+and textbooks, monographs, workshop and conference papers are tools for collection
+of data. Data collection in this regard may include going out to collect information
+in a statistical form or collection of figures such as--- counting and recording of
+numbers or figures.
+Question: Mr. Femi has approached you to assist him to design his research.
+What are the relevant tools to be taken into consideration?
+
+Self Assessment Exercise                                                                 Commented [u126]: Align
+
+1. Research designing is a wishful thinking. Why?
+       (a) It is static
+       (b) It is flexible
+       (c) It is subject to subtraction and addition
+       (d) It is irremediable
+
+2. Municipal research tools include
+       (a) Convention
+       (b) Manuals
+       (c) Constitution
+       (d) Protocols
+
+3. International law research tools include
+       (a) Conventions and protocols
+       (b) CAMA and Penal Code
+       (c) Judgment of Supreme Court of Nigeria
+       (d) Judgment of Federal High Court
+
+4. Mr. Lapemi is doing research on: Do Judges Make Law? The Recent Trend.
+His tools include
+
+       (a) Case law and text books
+       (b) Judgment of ICC
+       (c) Treaties
+
+                                                              33
+       (d) Resolution of the United Nations General Assembly.                     Commented [u127]: Where is the Feed Back for the Exercise?
+5. Which is not data among the followings?
+
+       (a) Conference and seminar papers
+       (b) Monographs
+       (c) Statistical and accounting figures
+       (d) Animals specie
+
+           MODULE FIVE: HOW TO CHOOSE RESEARCH TOPIC                              Commented [u128]: Give brief Introduction for the Module
+Unit 1: Introduction                                                              Commented [u129]: Heading should not be bold
+Unit 2: The topic should be narrow
+Unit 3: Novelty of the Research
+Unit 4: Not recently researched
+Unit 5: The topic must be elegant and short
+Unit 6: The topic must be researchable
+
+Unit I: Introduction
+       Choice of research topic is always problematic for most researchers.
+
+Experience has shown that some students submit research topics for about four or
+
+34
+five times before a research topic is approved. In choosing a topic of research regard  Commented [u130]: Research,
+should be had for the following which are not in fact exhaustive.                       Commented [u131]: Separate the words
+Unit 2: TheTopicshouldbeNarrow
+                                                                                        Commented [u132]: is
+       The old adage is that "the wider the research topic, the shallower the research
+is likely to be". Conversely, "the narrower the research topic, the more in-depth the   Commented [u133]: articulately
+research is likely to be." In view of this maxim it is suggested that a research topic  Commented [u134]: separate the words
+should be framed in a restrictive manner. A student was asked: "what in the topic of    Commented [u135]: lower case "under"
+your research?" He said, "the topic of my research is Land Law in Africa".
+Everybody in the class laughed at him. This is because, the topic is too wide. If this
+topic is approved it means the student has to discuss the Land Law of every country
+in Africa. This is not a small task. More importantly, the research will not be
+indepthly and articulate discussed. The discussion will certainly be shallow. It is
+desirable that the topic be narrow so that it can be indepthlyand articulately
+discussed, for example, Customary Land Law of the Kaje People of Southern
+Kaduna State. Or the "Law of Inheritance Under Customary Law of the Nupe People
+of Niger State of Nigeria".
+
+       In the first topic, the discussion is limited to Kaje People in Southern Kaduna
+State. Not all the Kaje people wherever they are in Nigeria, but those in Kaduna
+State only.
+
+35
+       In the second example, the topic is circumscribed by customary law of the          Commented [u136]: Not bold.
+Nupe people of Niger State. The topic does not include the Nupe people of Kogi and        Commented [u137]: discovering
+Kwara State or elsewhere in Nigeria.                                                      Commented [u138]: goals
+Unit 3:Novelty of Research Topic                                                          Commented [u139]: elements
+
+       We have already said that the notion of research is the systematic study or        Commented [u140]: Research
+investigation into some certain facts or information with the view to discover some       Commented [u141]: Unit heading should not be bold
+specific goal. In planning and designing of research, effort should be made to seeing
+that the research element contains some element of novelty. This is why research is       Commented [u142]: you
+associated with the discovery of what is unknown or its advancement. This definition
+entails novelty--- something that is new, or its advancement. In humanity courses,
+such as law, it is difficult to make discovery. In most cases, it is advancement of the
+existing discoveries. However, in science and technology discovery is easily
+noticeable, or can be easily achieved. Notwithstanding the difficulty that exists, it is
+expected that researcher in law should break new grounds or advance the course of
+the existing subject-matter of researcher.
+Unit 4: Not Recently Researched or Undertaken
+
+       In most academic research, such as Ph.D. and LL.M.programmes, many
+universities have the policy that a topic of research if not novel, must be one which
+is not recently researched. This brings in the question of time which the research
+topic was previously researched. In the field of law, some universities have argued
+that for a student to research into an area which was already researched, it must be
+
+                                                              36
+shown that there is a new development in the area. In other words, some of the laws        Commented [u143]: Unit heading should not be bold
+in the previous research have become obsolete and outdated because of the organic
+nature of law. For example, the Penal Code Law of Northern Nigeria, 1959 has many          Commented [u144]: U it heading should not be bold
+of its sections outdated. With the development of science and technology, modern           Commented [u145]: you
+offences such as cybercrimes, money laundering, and offences bordering economic            Commented [u146]: topics
+and financial crimes are completely outside the realm of that Code.
+Unit 5: The Topic must be Elegant and short
+
+       A research topic must be clear and short. The wording of the topic should not
+be more than 23 words, internationally. The topic must depict the main kernel of the
+subject-matter of the research. It must not be unambiguous, inelegant, or imprecise.
+The topic must manifest the content of the research This is to say, the content of the
+research must not be different from what the topic at the spine of the book or title
+page purports to contain. Furthermore, it is required that both the topic as found on
+the spine or title page tally with the discussion in the book. For example, the topic:
+The Customary Marriage and Divorce of Kamuku People of Nigeria, it is expected
+that the research should deal with Kamuku Customary Law of Marriage and Divorce
+substantially, and not of the Gbagyi people.
+Unit 6: The Topic must be Researchable
+
+       If we accept or agree with this topic, does it mean that there are research topics
+that cannot be researched? Experience has shown that there are some topic which
+cannot be researched into. This view raises two major issues. Firstly, non-
+
+                                                              37
+researchable topic may arise from the fact that the relevant materials upon which the  Commented [u147]: you choose
+research is based are scanty. That is, the substantive law is scanty. Secondly, the
+subject matter of the research is not accessible. For example, when a student chooses  Commented [u148]:
+to undertake empirical research in a war zone, or where information relating to the    `you want"
+subject matter of the research is not accessible. These and many other factors are     Commented [u149]: separate the words pls
+necessary to be considered when a student wants to choose a research topic.
+Question: It is a well settled maxim that the wider the research topic, the
+shallower the research would be. Conversely, it is also a well establishedprinciple
+that the narrower the research topic the in-depth the research will be. Discuss.
+
+Self Assessment Exercise                                                               Commented [u150]:
+1. Miss Ene, anPost Graduate student has these topics from which to select her         Commented [u151]: "a Post"
+Long Essay dissertation topic. Choose one that is most suitable for her.
+                                                                                       Commented [u152]: Align the word.
+       (a) Land Law in West Africa.                                                    Commented [u153]: As Amended
+       (b) Customary Land Tenure of the Gbagyi people of Kaduna State.
+       (c) Marriage, Divorce and Custody of Children amongst the Efik of
+Nigeria.
+       (d) The Nigerian Constitution of 1999 (aa) and Democracy.
+2. Mr. Ndupe, a Post Graduate Diploma student wants to write on any of the
+following topics. Which one is more novel?
+
+38
+(a) Coronavirus: The Crashing Point of mankind.                   Commented [u154]: Earth
+(b) History and Coronavirus: Any Precedent?
+(c) The earth and the Moon Planets: Which Place to be?
+
+                     MODULE SIX: WRITING AN ABSTRACT              Commented [u155]: Give brief introduction for the Module
+Unit 1: Introduction                                              Commented [u156]: Separate the words pls
+Unit 2: Qualities of a Good Abstract                              Commented [u157]: Separate
+Unit 2.1: Introduction of subject Matter
+Unit 2.2: Statementof the Problem
+Unit 2.3: Discussing the Statement of the Problem and Solution
+Unit 2.4: Brief Statement of the Findings
+Unit2.5: Brief Statement of the Recommendations
+Unit 2.6: Brief Statement ofthe conclusion.
+Unit 3: Use of Abstract.
+Unit 4: Abstract Language.
+
+                                                              39
+Unit 1: Introduction                                                                    Commented [u158]: Not bold
+Abstract is the summary of the totality of research work. It is the kernel or the York
+of a research in a summary form. Its purpose is to provide a curious or an eager        Commented [u159]: Guidelines of many
+reader to know the cardinal content of the research work without necessarily reading    Commented [u160]: "Must be italicized"
+substantially the research work. It is an important part of a research work.            Commented [u161]: "Provisions"
+Internationally, it is not supposed to be more than 1/7 of the totality of the work.    Commented [u162]: Heading should not be bold
+However, in most Postgraduate Study Guidelines this international requirement has       Commented [u163]: Font size should be 13, and it should not
+been modified substantially. For example, A.B.U, Postgraduate Studies Guidelines        be bold.
+which is similar with the Guidelines many Postgraduate Schools, requires that an
+abstract should not be more than one page of single line spacing and it must
+italicized. It should be one block and not paragraphed. Similarly, the Uniform
+Research Citation and Referencing of the Nigerian Association of Law Teachers
+2016, makes some provision with most universities requirement.
+
+Unit 2: Qualities of a Good Abstract
+       A good abstract has elements or essentials which make it good. The essentials
+
+or elements include the following:
+
+Unit 2.1: Introduction
+       A good abstract should contain a brief introduction of the subject-matter of
+
+the research. It should be short, concise, precise but captures boldly, the background
+of the research.
+
+40
+Unit 2.2: Statement of the Problem                                                      Commented [u164]: Font Size should be 13.
+       A good abstract should lay-bare the statement of the problem of the research.    Commented [u165]: "Do judges make law? The Recent Trend"
+
+This means the statement of the research should be clearly disclosed or exposed, so     Commented [u166]: "Denning"
+that a reader knows at a glance the problem of the research without reading into the    Commented [u167]: Place the reference properly pls.
+substantial part of the research works before he has a glimpse of the work. For         Commented [u168]: seriously
+example, in the topic: Do Judges Make Law? The Recent Trends, the research is
+expected to say that, in connection with the topic there are two schools of thoughts.
+One school has the view that the cardinal responsibility of judges is to interpret and
+apply laws. It is not their constitutional responsibility to make laws. They are not
+legislators. According to the second school of thought judges make law, though it is
+not their constitutional responsibility. It is undeniable that judges make law when
+they interpret, expound and apply laws. It is because of the fact that judges make law
+that the common law is developing. Nobody can deny that the common law which
+is applied in 15th century is the same common law that is being applied. Great judges
+such as Lord Dennning had on several occasions said that "it may be that there is no
+law to apply in this case. If it were so, the earlier we make one, the better."A.G. v.
+Butterworth (1516). However, in recent time the doctrine of judicial precedent upon
+which the common law judges used to base their arguments have been serious
+attacked. It has been argued that there is no situation where two or more cases have
+similar facts and circumstances. There must be difference, however minute or small.
+That the common law judges were lazy and relied on assumption that there could be
+
+                                                              41
+a situation where two laws have similar facts and circumstances to warrant to law         Commented [u169]: that
+applied in an earlier decision could be applied to the case in hand. According            Commented [u170]: Studies,
+philosophers of Critical Legal Studies law is underestimated. It differs from one case
+to another. There can be no two cases with similar facts and circumstances, this          Commented [u171]: Precedent
+school argued that the judges of common law, apart from being lazy and assumption,        Commented [u172]: Font Size should be 13.
+are not critical in their analysis of cases before they apply the laws in the cases. The
+critical studies philosophers have advised judges not apply the doctrine of judicial
+precedence, because it is a distortion of law.
+Unit 2.3: Discussing the Statement of the Problem and Solution
+
+       A good abstract is supposed to contain a brief summary of the discussion of
+how the statement of the problem was discussed and solved. Here the researcher is
+required to summarize the content of the body of the thesis or dissertation. For
+example, in the above topic, the research can say the problem was discussed and
+solved by doctrinal and empirical methods. By doctrinal method all relevant
+principles such as the doctrine of precedent was discussed with all its ramifications.
+That is, the meaning of judicial precedent, why courts apply it, its advantages and
+disadvantages etc. By empirical method, two approaches were adopted, namely
+questionnaire technique and interview technique.
+
+       By questionnaire technique, these were paired and distributed to target group
+members. Their responses were analyzed and the result was obtained. Out of 100
+
+42
+questionnaires distributed 80 were returned. Out of 80, 65 respondents said judges     Commented [u173]: Font Size is 13.
+male law. 15 respondents said that judges do not make law. The views of the            Commented [u174]: Delete "..."
+respondents show that 81.25% agreed that judges make law, while 18.75% said
+judges don't make laws.                                                                Commented [u175]: "Do"
+                                                                                       Commented [u176]: "Is"
+       By the technique of face to face or one to one interview, 17 judges were
+interviewed. Eleven (11) judges agreed that judges do make law. This represents
+65%. Six (6) judges said that they do not make laws. This view represents 35%. In
+all these techniques, the findings are that judges make law. This is a clear example
+of quantitative kind of research which we discussed while we are comparing
+qualitative with quantitative kinds of research.
+Unit 2.4: Findings
+
+       Finding is an integral part of design of a good research. All researches must
+have by necessity, the desire to get result...whether good or bad. Finding is the end
+of result of a good research. Finding is usually contained in the last chapter of
+research. It is required that a researcher must state his finding at the end of his
+research. This is what everybody is eager to get or see after a long and difficult
+research was done.
+
+       In our research topic: DO Judges Make Law? The Recent Trend, the result of
+this finding in questionnaire technique in that judges make law. This represents
+81.25%, totaling 65 respondents. Only 18.75% said judges do not make law. This
+
+43
+represents 15 people. In the one on one interview, the mighty of respondent said that     Commented [u177]: "Majority"
+judges make law. out of 17 judges who were interview 11 of them said judges make          Commented [u178]: respondents
+law. This represents 65%, while 6 judges said judges do not make law. This                Commented [u179]: Out
+represents 35%.
+Unit 2.5: Recommendations                                                                 Commented [u180]: Font Size should be 13
+
+       It is important that recommendations be made at the end of every research.         Commented [u181]: Font Size should be 13.
+Recommendation is the view of the researcher informed by the findings of the
+research. It is deserved that the number of findings should be equaled to the number      Commented [u182]: Unit Heading should not be bold.
+of recommendations. A good abstract should contain recommendations, equal to the          Commented [u183]: you
+number of findings.                                                                       Commented [u184]: you have
+Unit 2.6: Conclusion
+
+       A good abstract should contain concluding statement which must be also
+brief. It is cardinal principle that conclusion does not open new ideas or subject
+matters.
+Unit 3: Use of Abstract
+
+       As we have earlier said, abstract is an important part of research work. It is a
+summary of the totality of the work. If one reads an abstract, it will be taken as if he
+has read the work from the beginning to the end of the abstract is good. Therefore,
+one important use of abstract is to provide a curious reader with the content of
+research work.
+
+44
+       Most journal publishers such as universities, often request subscribers to         Commented [u185]: Separate the words
+include abstracts in their articles. In other words, all articles for publication often   Commented [u186]: Not clear
+contain abstracts. Sometime, from abstract, editors may form the opinion of sending       Commented [u187]: institutions
+an article to external reviewerormoderator or not. Also, institution such as              Commented [u188]: Separate the words
+CarnegieFoundation, Ford Foundation, Social Science Research Council of Nigeria,
+IIE which give financial assistance to scholars or researchers, often request that        Commented [u189]: Separate the words
+applicants or candidates include abstract of their proposal in their applications.
+Abstract in this regard, aids the institutions to form or make decisions toeither accept  Commented [u190]: Unit heading should not be bold
+or reject award of scholarship or financial aid. Abstract helps to decide whether the
+topic of research is good, viable or researchable to warrant the institution award
+scholarship or financial aid.
+Unit 4: Abstract Language
+
+       This is an area where semantism plays a great role in shaping research
+methodology. Perhaps logic is more appropriate to use. This is because logic is
+always irreversible or incontrovertible. In the frequency of occurrence of abstract, it
+is understood that abstract is best written when the totality of the subject-matter of
+research has been written. Though, the place of abstract is at the preliminary part,
+but it is mostly written when everything is said and done. Yet, some scholars have
+argued that the language of abstract is always in the past tense. This is why we say
+logic is more appropriate to use. For example, in relation to our topic: Do Judges
+
+45
+Make Law? The Recent Trend,a researcher in writing the abstract is required to use     Commented [u191]: "Do Judges make Law? The Recent Trend"
+
+present tense, but others said past tense. Thus, there are two schools of thought. In  Commented [u192]: You
+                                                                                       Commented [u193]: You adopt
+consonance with the well established rule of interpretation, where there are two
+
+interpretations and each is reasonable, any of the interpretations is acceptable. A
+
+student should not be punished or condemned because he adopts either of the
+
+interpretations.
+
+Question: What are the characteristics of a well written Abstract?
+
+Self Assessment Exercise
+1. If X reads an abstract, he would have considered to
+
+       (a) Have read the totality of the project.
+       (b) Have read the literature review.
+       (c) Have read the preliminaries of the project.
+       (d) Have read the body of the work.
+
+2. Abstract is distinguished from organizational layout because;
+       (a) Abstract is the summary of the totality of the project.
+       (b) Abstract lists the major and subtopics of the project.
+       (c) Abstract specifies the contents of the project.
+       (d) Abstract deals with the layout of the project.
+
+3. Which of these is not an element of a good abstract?
+       (a) Single spacing
+       (b) Single bloc
+       (c) Written in italic
+       (d) Written in capital letters.
+
+4. Abstract language should be in the past tense because;
+       (a) It is placed at the end of project.
+       (b) It is placed in the middle of project.
+       (c) It is one of the last bits of project.
+       (d) It is the kernel of project.
+
+46
+                    MODULE SEVEN: LITERATURE REVIEW                Commented [u194]: Provide brief introduction of this Module.
+Unit 1: Introduction
+Unit 2: Definition
+Unit 3: Purpose of Literature Review
+Unit 4: Writing a Literature Review
+Unit 5: Relationship between Literature Review and Research Topic
+Unit 6: Literature and Research Questions
+Unit 7: Quantitative Literature Review
+Unit 8: Qualitative Literature Review
+Unit 9: Evaluating a Literature Review
+Unit 10: Samples of Literature Review
+Unit 10.1: Sample of Case Law Review
+
+                                                              47
+Unit 10.2: Sample of Textbook Review I
+Unit 10.3: Sample of Textbook Review II
+Unit 10.4: Sample of Statute Review
+Unit 11: What a Reviewer Needs to Do
+
+          Question
+       Self Assessment Exercise
+
+Unit 1: Introduction                                                                      Commented [u195]: The Unit heading Should not be bold.
+We have said that a good research is one which opens a new frontier of knowledge.         Commented [u196]: shading
+In normal research language, a good research is one which "breaks a new-ground"
+or it advances a new ground." Furthermore, a good research is one which is novel.
+
+        Be it as it may, no matter what kind of adjective we use to qualify research,
+the truth is that at times, a researcher is provoked by what some other researchers
+have said or done in connection with the research topic which is being undertaken.
+In this regard, the research topic is not a novel one, but it can be pursued in order to
+advance the subject matter of research. That is to say, some other scholars or
+researchers have made research into that area previously. Literature review is the
+study of what other researchers or writers have said in connection with the topic of
+research to be undertaken. It is the study of relevant or connected literature with the
+research topic which is to be undertaken with the view to shade light on the topic of
+the research to be undertaken.
+
+48
+Unit 2: Definition                                                                        Commented [u197]: should not be bold
+Literature review is the critical assessment of the views of what the previous writers    Commented [u198]: Should not be bold.
+said about the subject matter of the research. It could be in the textbooks, journals,
+case laws,magazines and newspapers.                                                       Commented [u199]: you
+                                                                                          Commented [u200]: Unit heading should not be bold
+Unit 3: Purpose of Literature Review                                                      Commented [u201]: delete
+       The purposes of literature review are many. Firstly, literature review provides
+
+an opportunity to critically study what other writers have said in the area of subject
+matter of the research.
+
+       Secondly, it provides an insight into whether the research in hand is worth
+pursuing or not. Thirdly, it shows whether the topic in hand will break a new ground
+or advance the course of the broken new ground. Fourthly, it gives the legitimacy to
+continue with the research.Fifthly, the gaps and lacunae created by previous writers
+necessitate the research in order to feel the gaps or lacunae.Sixthly, if we want to
+know whether a research has broken a new ground or not, the answer is to be found
+from the literature review.
+
+Unit 4: Writing a Literature Review
+       Literature review is the systematic study of what someone said previously in
+
+connection with the research topic in hand. The statement may be from textbooks,
+journals, provision of a statute or case laws. These materials--- i.e., books, statutes,
+case laws including conventions, protocols, treaties etc can be reviewed.
+
+49
+       To write a literature review of a textbook, the relevant areas of the textbook      Commented [u202]: are
+is thoroughly and critically read, digested and well understood. The idea, principle,
+and law which triggered the review is mentioned and critically criticized.These are        Commented [u203]: you
+criticized for lack of merit, coherency, relevancy, or understanding or they are           Commented [u204]: Yo
+obsolete. The researcher is required to mention the shortcomings of the previous
+writers and say how he will remedy the gaps or lacunae.                                    Commented [u205]: You
+                                                                                           Commented [u206]: your
+       In another way, the researcher can agree with what a previous writer on the
+area of research has said on some other aspects of the research. He will then proceed
+to disagree with some other issues, pinpointing the shortcomings of the previous
+writer, e.g. that the previous writer erred for not saying what he ought to have said
+in the work. He will then end the criticism by saying that the error or mistakes will
+be corrected in his own research work.
+
+       It is important that criticisms should be limited to the views expressed by the
+previous writer. What he has not said should not be criticized or mentioned. If a
+reviewer does this, it is always referred to as a "wild attack" or "wild criticism." This
+should be avoided.
+
+       In literature review, all textbooks, journals, case laws, protocols, treaties, and
+conventions etc should be acknowledged. That is to say, the source of the material
+should be acknowledged at the footnote or end note. For example, according to
+Elias,T. O. gift of land is always subject to good behaviour. [Nigerian Land Law,
+
+50
+Routledge and Kegan Paul, London, (1974) p.110]. The statement in brackets and          Commented [u207]: researchers
+underlined is what is called citation, acknowledgement or reference. It is always at
+the foot of the page where the statement was made. For example, see below.3It is        Commented [u208]: you
+ethically bad, among researches, not to have made acknowledgement or referencing        Commented [u209]: you
+when a book is reviewed. If non-acknowledgement or non-referencing is rampant, it       Commented [u210]: Separate the words
+may lead to accusation of plagiarism. This is a criminal
+offence.                                                                                Commented [u211]: "Uncover"
+It is important that when a researcher is reviewing a literature, he should find fault
+with the authors, laws, protocols, conventions, caselaws,etc that are being reviewed.
+This is more acceptable to the situation where a researcher agrees wholesomely with
+the statement of the previous writers. For example, where a researcher reviewed
+many literatures and agreed with them, without any shortcoming at all.It means there
+is no basis for the researcher to proceed on, on the research. This is because, in a
+situation where there is no short-coming. It means there is no problem which
+necessitates the research. The legitimacy for embarking on a research is that, there
+is a problem which the research is to uncovered and recommendation is proffered to
+cure it. Where there is no problem, research is not needed. Where a researcher agreed
+with the previous authors, laws, protocols, treaties, etc which he reviewed, it means
+that there is nothing wrong for a research to be embarked upon.
+
+3.Elias, T.O. Nigerian Land Law, Routledge and Kegan Paul,London,(1974)page 110.
+                                                              51
+Unit 5:Relationship between Literature Review and the Research Topic                      Commented [u212]: Heading should not be bold
+       Often when a research is to be embarked upon, the topic of the research
+                                                                                          Commented [u213]: you
+determines the kind of literature review to be undertaken. The topic of the research      Commented [u214]: "Do Judges make Law? The Recent Trend"
+manifests whether the literature review will include materials such as statute, case      Commented [u215]: You need
+law, journals, protocols, conventions etc. The topic of the research determines which
+subject of law is in issue. For example, constitutional law, criminal law, law of torts,
+Islamic law or Public International Law. Therefore, the topic of research shows the
+pattern of the legal materials to be assembled for purpose of review. A topic of
+research is always a precursor and guides the research on what relevant materials he
+will search, gather and review. A topic of research is a pointer to what subject or
+discipline the research relates and therefore deserve for review,for example, in our
+usual topic of Do Judges Make Law? The Recent Trend, the topic suggests relevant
+subject areas that the researcher will make enquiries to execute the work. He needs
+to critically read books relating to Nigerian Legal System jurisprudence, and Legal
+Method. A topic, therefore, may need more than one area of specialization before it
+is accomplished.
+5.6. Literature Review and Research Question
+
+       Research question is a hypothesis made which is based on the revelation made
+in the statement of the problem. A research question always seeks to answer the
+question posed in statement of the problem in a different way. Research question is
+another version of the statement of the problem put forward by a researcher in a
+
+                                                              52
+different way. Literature review is what previous writers said on the topic of research    Commented [u216]: "Do Judges make Law? The Recent Trend"
+which is always directed to the answering, explaining or shading more light on the         Commented [u217]: you
+research question. For example, in our topic: Do Judges Make Law? The Recent               Commented [u218]: Heading should not be bold
+Trend, a researcher may come out with a research question as follows: is the doctrine
+of judicial precedent still infallible in the development of law? In this regard, the      Commented [u219]: Situate the reference properly pls.
+relationship between the research question and the topic of the research is that the
+research question is indirectly soliciting the answer to the statement of the problem
+as posed by the research topic.
+Unit 7: Quantitative Literature Review
+
+       Earlier on, we mentioned some research techniques. Prominent among them
+are quantitative and qualitative research techniques. Qualitative research techniques
+seeks to collect data in numeric form such as can be subjected to mathematical
+analysis --- can be increased, divided, measured or presented in proportion etc
+[Roberts, F.O.N, Techniques of Data Collection. In: Solomon AkhereBejamin,
+Enhancing Effective Legislative Research, A Publication of Policy Analysis and
+Research Project (PARP), National Assembly Abuja (2010) 64]. Quantitative
+research technique is used to quantify the size, distribution, and association of certain
+variables in a study population, the important question being: how many? How
+often? And how significant? The answers to these questions can be counted and
+expressed in numbers.
+
+53
+       A quantitative literature review is one which deals with probing into numbers    Commented [u220]: Heading should not be bold
+or measurements in a previous research. It seeks to find fault or agree with the data   Commented [u221]: ?
+provided on a certain topic of research. It seeks to verify the questions--- how many,  Commented [u222]: ?
+how often and how significant the research problem is.
+Unit 8: Qualitative Literature Review                                                   Commented [u223]: Is it a quotation? Where is part 8.5?
+                                                                                        Provide Source?
+       A qualitative research technique which involves the identification and
+exploration of a number of often mutually related variables that gives insight into
+human behaviour (motivations, opinions, attitudes) in the nature and causes of
+certain problems and the consequences of the problems for those affected (Ibid). It
+is about perception and so the important questions to ask are why? What? And How?
+
+       Qualitative research technique produces qualitative data that are often
+recorded in narrative form.Qualitative data collection technique targets
+interpretative material practices that make the world visible (Ibid). Such technique
+seeks data that turns the world into a series of presentations design to interpret
+phenomenon in terms of what the phenomenon means to people.
+
+               Quantitative research technique deals with numbers or
+               amounts of something rather than with how good it is.
+               While qualitative research technique deals with how good
+               something is rather than with how much of it there is.
+
+       This quotation is to be taken to part 8.5 above.
+
+                                                              54
+       A quantitative research technique is one which places high premium on               Commented [u224]: Heading should not be bold.
+number and amount. While a qualitative research technique places high premium on
+quality, e.g. good, high, low or bad.
+
+       The difference between quantitative and qualitative research techniques is
+that, in quantitative research technique, the researcher seeks the answer to his
+research by way of numeric form such as how many, how much and how often.
+While in qualitative research method, the researcher seeks answer to his research
+question by reference to good or bad rather than how much of it there is. Qualitative
+literature review emphasizes on the quality of the subject matter of the research
+problem, while the quantitative literature review finds fault with the quantitative or
+amount of the subject-matter of the research problem.
+Unit 9: Evaluating a Literature Review
+
+       Literature reviews are always described to be high or poor. It is high when the
+literature review is rich with relevant materials. It is poor when the literature review
+is not rich, but rather poor or bad. That is to say the materials are not relevant to the
+topic of the research. An evaluation of a literature review is high when the necessary
+materials such as statutes, case laws, journal articles, protocols, treaties, conventions
+and all other facts and information are fully discussed, criticized and shortcoming
+conspicuously pointed out. The evaluation is low when the indices enumerated
+above are poor or bad. It is always the responsibility of a reader to evaluate literature
+
+55
+review. This is because a writer of a literature review will not evaluate himself well.    Commented [u225]: Unit heading should not be bold.
+It is another reader that can properly evaluate a literature review but certainly not the  Commented [u226]: Font Size is 13. It should not be bold
+writer.
+Unit 10: Samples of Literature Review                                                      Commented [u227]: Separate the words
+Unit 10.1: Case Law Review                                                                 Commented [u228]: Separate the words
+At time there may be need for a researcher to review a case law which is one of his
+tools for research. Supposing that Mr. Senora, a Ph.D. student is writing his thesis
+on the topic: Do Judges Make Law? The Recent Trend, he may like to review the
+case of DPP.v. Shaw4 as follows:
+In this case, the issue before the British House of Lords (now Supreme Court) was
+whether the mere publication of a telephone directory of prostitutes was an act
+punishable under the U.K. law.The House of Lords critically reviewed the case
+before themand held that in U.K. statutes, mere publicationof telephone directory
+was not an offence, because by virtue of rule of law, an act is not an offence unless
+there is a law prohibiting it. In this case, there was no law prohibiting the publication
+of the directory. However, it would be wrong for the accused persons to be set free,
+just because there was no law dealing with the subject matter of the case. To do so,
+would amount to corruption of public moral. The accused persons were accordingly
+convicted for "corruption of public moral," an offence which was not prescribed by
+
+4(1961) ALL ER at p.446.
+
+                                                              56
+any British law. The British House of Lords (Supreme Court) therefore made law in        Commented [u229]: Font Size should be 13.
+this case. The short comings of making law by courts are that firstly, the law is not
+popular because there is no much publicity as it is the case with laws made by           Commented [u230]: Separate the words
+parliament. Secondly, the law is not gazetted so as to give it wide publicity. Thirdly,  Commented [u231]: Separate the words
+the law is not signed in a ceremonious way like it is done when a parliament passed      Commented [u232]: "subject to good behaviour"
+a new law. Fourthly, there was no public participation. In fact, laws made by judges     Commented [u233]: Separate the words
+in the courts are always hidden. This is against fair hearing.
+Unit 10.2: Sample of Textbook Review I
+M. G. Yakubu,5 has argued that gift of land under Native Law and Custom by a head
+of family or by concurrence of head and principal members is permanent and
+irrevocable. According to him gift under customary law has the effect of conferring
+upon the person on whom the gift was made (donee) absolute title and it is not
+subject to good behaviour. This means that even if the person to whomthegift was
+mademisbehaves, the gift cannot be revoked. The phrase subject to good behaviour
+was not defined, but it in some cases; judges have taken it to mean "challenge of the
+grantor's title". Any misbehavior which does not challenge the grantor's title is not
+misbehaviorto warrant revocation of gift.According to M. G. Yakubu, misbehavior
+is not a ground for revocation of a gift validly made. Therefore, other minor
+misbehavior such as given evidence against the person who made the gift, or abusing
+
+5 . Modern Land Law in Nigeria, MacMillan Publishers, Lagos (1984) 12
+                                                              57
+his child as "bastard" or calling his wife "ashawo" will not warrant the revocation      Commented [u234]: Separate the words
+of gift.These are not challenges of the grantor's title.The short coming of M. G.
+Yakubu's positionthat gift under customary law is not subject to good behavior is        Commented [u235]: Font Size should be 13.
+too sweeping and can cause problem to some family members if not the person who
+made the gift himself.                                                                   Commented [u236]: you
+Unit 10.3:Sample of Textbook Review II                                                   Commented [u237]: you
+Prof. T. O. Elias6has argued that gift of land under customary law is subject to good    Commented [u238]: You
+behaviour. According to the legal luminary, if a gift of land was made, it can be        Commented [u239]: you
+revoked if the person in whose favour the gift was made (donee) later misbehaves.        Commented [u240]: you
+The short coming of the author is that he did not clarify whether the rule "subject to   Commented [u241]: you intend
+good behaviour" applies both to a family member and a non-family member. This            Commented [u242]: your
+lack of clarification has introduced uncertainty and vagueness into the rule. In this
+work, the researcher will fill the gap or lacunae created by this erudite scholar.
+
+       In these samples, students are to try and find out the shortcoming which the
+author of this work has pointed out in the sample reviews. Always, the yardstick for
+a proper or correct literature review is that the reviewer should limit himself to what
+the writer said. The reviewer should point out the shortcomings of the work he
+viewed. At the conclusion of each review, he should say what he intends to do in his
+
+6. Op. Cit. at page 42
+                                                              58
+own work. For example, he can say, "the researcher intends to fill this gap or lacuna    Commented [u243]: you
+in the course of this research."                                                         Commented [u244]: Font Size should be 13.
+Unit 10.4:Sample of Review of Statute
+Section 22 of the Land Use Act7 provides that no alienation in urban land is valid       Commented [u245]: Unit heading should not be bold
+until the consent of the governor of the state where the land is situated is sought and
+obtained. There is no limit in point of time when governor can continue to withhold
+his consent. Secondly, apart from lack of definiteness of time during which he can
+withhold consent, there is no mentioning of the type of transactions which he can
+withhold his consent. The importance of mentioning the type of transactions which
+he can withhold his consent is to let the public be aware of those transactions so that
+they keep off from them. Thus, the power to withhold consent is arbitrarily imposed.
+This does not accord with the modern concept of good governance. This work in an
+appropriate place will shade more light and proffer some solutions to the short
+coming.
+Unit 11: What a Reviewer Needs to Do
+In summary, in literature review, what the reviewer is to do are as follows:
+(a) Identify where your work relates to the work which you want to review. In
+
+       other words, the work you want to review must be connected or have nexus
+
+7 Cap. L5, LFN, 2004.
+                                                              59
+       with your work e.g. principle, doctrine, maxim, legal substance or procedural  Commented [u246]: Separate the words
+       substance etc.
+(b) Review the doctrine, maxim, legal or procedural substances by finding fault
+       with the previous writer(s).
+(c) Comment on the faults you have found with the author that necessitated the
+       review.The review should be in-depth, clearly and properly or articulately.
+(d) Commentaboutwhat you intend to do with the fault you found with work.
+
+Question: Literature review is an important part of project writing. The more a
+reviewer agrees with previous writers, the more he strips himself the power to
+continue with the research. Conversely, the more the reviewer disagrees with
+previous writers, the more he legalizes the continuation of his research.
+
+Explain this statement.
+
+Self-Assessment Exercise
+   1. The purpose of literature review is to:
+       a. Find out short coming of the previous writers and recommend solutions
+       b. To agree with the previous writers
+       c. To praise the previous writers
+       d. To castigate previous writers
+
+   2. What a reviewer is to find out is.
+       a. Lapses, lacuna of the previous writers.
+       b. Imagine what the previous writers said.
+       c. Praise himself.
+       d. Promise to overcome the problem.
+
+   3. Wild literature review means:
+       a. The literature is in-depth
+       b. The literature is shallow
+
+                                                              60
+   c. The previous writer did not discuss what he was criticized upon
+   d. The previous writer was wrong absolutely
+
+4. The legitimacy of continuing with a research is measured by
+   a. The short-comings of the literature review
+   b. The efficiency of the literature review
+   c. Wildness of the literature review
+   d. The justness of the literature review
+
+5. Qualitative Literature aims at:
+   a. Discovering the poor and good aspects of a project
+   b. How much the result of a literature will be
+   c. Discover how the research was conducted
+   d. Ignoring the quantitative aspect of a research
+
+6. In reviewing a statute, case law and textbook , the cardinal principle is to:
+   a. Find out the fault in each of them
+   b. Agree with the materials
+   c. Legalize with the contents of the materials
+   d. They are reviewable
+
+7. A reviewer needs to:
+   a. Comment about what he intends to do with the fault found with the
+       previous writers
+   b. Castigate the previous writers
+   c. Praise the previous writers
+   d. Recommend to the previous writers what they will do.
+
+                                                                                  Commented [u247]: Do not italicize the questions pls.
+
+   MODULE EIGHT: PARTS OF THESIS, DISSERTATION AND LONG                           Commented [u248]: Provide brief introduction for the Module
+                                     ESSAY PROJECTS
+
+Unit 1: Introduction
+
+                                                              61
+Unit 2: PRELIMINARY PAGES                                                             Commented [u249]: Unit Heading should not be in upper Case.
+Unit 2.1: Title Page
+Unit 2.2: Copyright Statement
+Unit 2.3: Dedication
+Unit 2.4: Acknowledgement
+Unit 2.5: Certification
+Unit 2.5.1: Sample of certification
+Unit 2.6: Declaration
+Unit 2.6.1: Sample of Declaration
+Unit2.7: Forward
+Unit 2.8: Preface
+Unit 2.9: Table of Statutes
+Unit 2.10: Table of Cases
+Unit 2.11: Table of Contents
+Unit 2.12: List of Abbreviations
+Unit 2.13: Bibliography
+Unit 2.14: Glossary
+Unit 2.15: Appendix
+Unit 2.16: Index
+
+Unit I: Introduction                                                                  Commented [u250]: Unit Heading should not be bold.
+Like any other legal textbook, research work such as theses, dissertations and long
+
+essays have different parts. A complete research work such as a thesis, dissertation
+
+or long essay is normally divided into (a) preliminary pages, (b) main body of the
+
+                                     62
+research, always divided into chapters, (c) bibliography and (if any) appendices. In       Commented [u251]: Unit heading should not be bold.
+this part we are going to discuss these parts and what they constitute in details.         Commented [u252]: Unit sub-heading should be font size 13
+
+Unit 2: Preliminary Pages                                                                  Commented [u253]: Separate the names
+Unit 2.1:Title Page
+
+       A title page is the page which contains the title or topic of a research work. In
+dissertations, theses and long essays it includes the name of the student, and his
+registration number. For example,
+
+                Critical Analysis of the Governor's Power to Grant Right
+                                    of Occupancy in Nigeria
+
+                                                 By
+
+                                     MatenmiMatundiSeko
+                                 LLM/LAW/01971/2019-2020
+
+                 Being an LL.M Dissertation Submitted to the Faculty of
+                   Law, National Open University of Nigeria (NOUN),
+
+                 Abuja in Partial Fulfillment for the Requirements of the
+                              Award of Master of Laws (LL.M)
+
+                                          January, 2020
+N.B. Nothing more should be added to the title page.
+
+       Title page is what differentiates one research work from all other works. It is
+the name by which the research is known. Just like individuals are known by their
+names, research works are similarly known by their title. It is to be added that, a title
+page should not bear the topic "Title Page". It is required that the title of a research
+is written just as it is exemplified above.
+
+                                                              63
+Unit 2.2: Copyright Statement                                                          Commented [u254]: Font Size 13
+       A copyright statement is a statement which prohibits other persons from
+
+producing someone's research work by way of electronic, mechanical,
+photocopying, recording or otherwise without the permission of the author. The legal
+historical background to this statement is long and checkered. But, briefly stated, a
+research work successfully completed is regarded as the property of the researcher
+such as his car, his house, his television, gown and cap etc. By law of property, the
+research work and all the other properties mentioned are to be used exclusively by
+the owner or author. Research work is an intellectual property which is subject to
+stealing or any other form of crime. In order to protect commission of crimes against
+intellectual property, copyright law was devised to protect intellectual property
+rights. To protect a research work there is usually a formally written copyright
+statement as follows:
+
+               All rights reserved. No part of this publication may be
+               reproduced, stored in a retrieval system or transmitted in
+               any form, or by any means, electronic, mechanical,
+               photocopying, recording or otherwise, without prior
+               permission of the copyright owner and the application for
+               which shall be made to the author.
+© National Open University of Nigeria, 2020
+
+64
+With the development in science and technology, this statement is every               Commented [u255]: Font size 13
+day flaunted with impunity. It is a serious challenge to individual
+intellectual development and the economic benefit attendant to it.
+P.S: Students to think how modern science and technology has watered-down the
+efficacy of the copyright statement. Does the inclusion of copyright statement in
+research work not inimical to propagation of knowledge in the work?
+Unit 2.3: Dedication
+
+       This is the section or part of a dissertation, thesis and long essay where a
+researcher or writer expresses his thanks or appreciations to people who are
+intimately connected with him for their contributions. For example, a wife can
+dedicate her research to her husband or children. A researcher can dedicate his work
+to his father or mother. Recently, we have seen where students dedicate their
+research work to Allah or Jesus Christ.
+
+       Dedication is always made to intimate persons. The number of such intimate
+persons is supposed to be small. Usually, the persons for which the work is to be
+dedicated for in a research should not be more than three. If there are more,
+supervisors do not question them. It is part of preliminary section of a research.
+Unit 2.4: Acknowledgement
+
+       This is another part of research work where a researcher expresses his
+gratitude to people (some may be intimate) who have contributed to his success
+during the course of his research. They may include husband, wife, father, aunt,
+
+                                                              65
+uncle, friends, school mates, class mates, roommates, sport mates, scholarship          Commented [u256]: Separate the words
+boards, financial assistance institutions, etc. The number of persons to acknowledge    Commented [u257]: This explanation of the purpose is not
+is not as restricted as it is in dedication. Acknowledgement can run into several       clear. There is contradiction.
+pages, e.g. five or six pages. One of the purposes is that those who could not be
+accommodated in the acknowledgementcan be accommodated under the dedication.            Commented [u258]: Font Size 13.
+There is no limit as to the number of persons to be acknowledged. The difference
+between dedication and acknowledgement is that in dedication very intimate persons      Commented [u259]: Font size should be 13
+are mentioned. Secondly, number of dedicatees is very few compared with                 Commented [u260]: Separate the names
+acknowledgment which has no limit so to say.
+Unit 2.5: Certification
+
+       This is the part of dissertation, thesis or long essay project where the writer
+vouched that he has complied with the guidelines, rules and regulation governing
+writing of theses or dissertations of one particular university, e.g. National Open
+University of Nigeria, Abuja (NOUN).
+Unit 2.5.1:Sample of Certification
+
+               This dissertation titled Critical Analysis of the Governor's
+               Power to Grant Right of Occupancy in Nigeria by
+               MatendiMatundiSeko meets the regulation governing the
+               award of the Degree of Masters of Law (LL.M.) of the
+               National Open University of Nigeria, Abuja and is
+
+66
+approved for its contribution to knowledge and literary
+
+presentation.
+
+Certification is often signed by the following members of faculty and Dean of
+
+postgraduateschoolviz:                                                                Commented [u261]: Separate the words
+                                                                                      Commented [u262]: Separate
+Dr. Mimi, TeguSerma         Chairman
+                                                                                      Commented [u263]: Separate the names
+Dr. Karma Udai              Member                                                    Commented [u264]: Not bold, Font size 13
+
+Dr. Tsei-Tsei Si            H.O.D. Private Law                                        Commented [u265]: Font Size 13
+                                                                                      Commented [u266]: Separate the names
+Prof. ZindagaUche           Dean, School of Postgraduate
+
+                            Studies (NOUN)
+
+Unit 2.6:Declaration
+       This is the part of a thesis, dissertation or long essay where the writer or
+
+researcher, makes a solemn statement (declaration) that he is the real author of the
+research work. In addition, some researchers do vouch to say that all the references
+in the research have been duly acknowledged and any error found in the research
+should not be attributed to anybody except the researcher.
+
+Unit 2.6.1:Sample of declaration
+               I MatendiMatundiSekodeclarethat this dissertation titled a
+               Critical Analysis of the Governor's Power to Grant Right
+               of Occupancy in Nigeria has been carried out by me in the
+               Department of Private Law, Faculty of Law, National
+               Open University of Nigeria, Abuja. No part of this
+
+                        67
+dissertation was previously presented for another degree
+or diploma at this or any other institutions.
+
+MatendiMatundiSeko                                                                       Commented [u267]: Separate the names
+                                                                                         Commented [u268]: Font size 13
+Name of student                           Signature  Date                                Commented [u269]: Separate the words
+
+Unit 2.7: Forward                                                                        Commented [u270]: enhances
+       Students normally do not provide for forward in their research work. This is      Commented [u271]: ends
+
+not part of the requirementsin the guidelines of most universities. However, forward     Commented [u272]: separate the words
+                                                                                         Commented [u273]: font size 13.
+is usually provided in good law textbooks. Forward is written by a very important
+personality. If possible, it is written by someone who has knowledge of the subject
+
+matter of the book. The purpose of forward is to boost the image of the book and the
+
+writer. It also publicizes a book and enhance its value and estimation in the eyes of
+
+the public. It promotes the book. It always end with: "I strongly recommend this
+book for judges, legal practitioners, legal luminaries and students". This statement
+is aimed at promoting the book to its readers. It is usually signed by the
+
+writerfollowed by date, months and year.
+
+Unit 2.8: Preface
+       Preface is not part of the requirements for dissertation, thesis and long essay.
+
+However, a good law textbook always contain preface. Preface is a part of a book
+which explains the underlying fact or motive which necessitated the writing of a
+
+                    68
+book. It also explains how a book is to be used. It is written by the author of a book
+
+himself. It is usually signed and dated with year and place of writing.
+
+Unit 2.9: Table of Statutes                                                              Commented [u274]: Font Size 13
+       This is peculiar with legal research. A table of statutes is an arrangement of    Commented [u275]: Not clear
+                                                                                         Commented [u276]: Sheriffs
+all statutes cited in a research work in alphabetical order with the pages where they
+
+are cited against each statute.
+
+It is important to differentiate table of statutes from list of statutes. List of
+
+statutes is a list of statutes arranged alphabetically without the pages in which they
+
+appear in the work. Table of statutes is more useful than list of statutes because, in
+
+legal research, time is the essence of finding information. In a book where table of
+
+statutes are provided, it is easier to locate the statutes in the work.Whereas it may
+
+take a long time to locate such statutes in the work, if it is a list of statute if not
+
+impossible. Here is an example of table of statutes:
+
+Constitution of the Federal Republic of Nigeria, 1999
+
+Cap. 23, L.F.N, 2004                                   p.61
+
+Companies and Allied Matters Act, Cap. C20, L.F.N, 2004 23
+
+Land Use Act, Cap. L5, L.F.N, 2004 - - - - 90
+
+Marriage Act, Cap. M16, L.F.N, 2004 - - - - 75
+
+Sherrifs and Civil Process Act, Cap. S6, L.F.N, 2004 - 102
+
+Territorial Waters Act, Cap. T5, L.F.N. 2004- - - 105
+
+                                 69
+Unit 2.10: Table of Cases                                                                  Commented [u277]: Font Size should be 13;
+       Table of cases is also a peculiar part of a law textbook or research work. It is
+                                                                                           Commented [u278]: Font Size should be 13;
+the part of research work which contains names of cases alphabetically arranged            Commented [u279]: Subtopic
+with the page numbers of where the cases are cited. For example:
+AmoduTijani v. Secretary Southern Provinces (1921) 1, NLR 32 - 10
+Lewis v. Bankole (1908) NLR, 82 - - - - - - 12
+Omojele v. Omoteru (1957) WRNLR 32 - - - - - 50
+Yunusa v. Adesubokan (1971) NNLR, 82 - - - - - 61
+Zanuwa v. Zanuwa (1998) 2, NWLR, Pt 82, p. 8 - - - - 18
+
+       Similarly, there is a difference between table of cases and list of cases. A list
+of cases is a list of cases arranged in alphabetical order, without the number of pages
+where they are mentioned or appeared. In table of cases, the pages where they are
+cited is shown, while in list of cases the pages where they are cited are not shown.
+Unit 2.11:Table of Contents
+
+       A table of contents is the list of all major and subtopics discussed in a research
+work with the pages where they appear indicated against each topic or subtopic. In
+this regard, no subtopic or under-stubtopic (sub-sub topic) should be left without
+being captured in the table of contents. The advantage of the table of contents is that
+it facilitates in finding information in the text. What a researcher needs to do is to
+find under what major or sub-topic the information instead. Once the major or sub-
+topic is known, the researcher will go direct to the page shown against the topic and
+
+                                                              70
+get the information. In some cases, a subtopic is shown right from the page where
+discussion started to the page where the discussion ended. The purpose of table of
+contents is to seeing that all major and minor topics are recorded for easy
+reference,for example:
+Title Page - - - - - - - i-ii
+Forward - - - - - - - iii-iv
+Preface - - - - - - - v-vi
+Abstract - - - - - - - vii
+
+                                        CHAPTER ONE
+                               GENERAL INTRODUCTION
+Introduction - - - - - - - 1
+Statement of the Problem - - - - - 2-10
+Aim and Objectives- - - - - - 11
+Scope - - - - - - - - 12
+Methodology- - - - - - - 13
+Literature Review- - - - - - - 15
+Justification- - - - - - - 16
+Organizational Layout - - - - - 18
+
+                                        CHAPTER TWO
+
+                                                              71
+CLARIFICATION OF TERMS AND HISTORICAL DEVELOPMENT OF
+
+                         JUDICIAL PRECEDENT
+
+2.1. Introduction                                      22
+
+2.2. Precedent                                         25
+
+2.3. Ratio Decidendi                                   30
+
+2.4. Historical Development of Judicial Precedent      45
+
+                                CHAPTERTHREE
+
+                   REVIEW OF PREVIOUSLY DECIDED CASES
+
+3.1. Introduction                                      49
+
+3.2. DPP.v.Shaw                                        50
+
+3.3. Ryland v. Fletcher                                56
+
+3.4.BakinSalati v. Telle Shehu                         60  Commented [u280]: Separate the name
+                                                           Commented [u281]: ?
+                                CHAPTER FOUR
+
+                JUDICIAL PRECEDENT:THE RECENT TREND
+
+4.1. Introduction                                      76
+
+4.2. Common Law Judges: Their Views                    81
+
+4.3. The Recent Trend                                  70
+
+                                CHAPTER FIVE
+
+                                C O N C L U S I O N
+
+                                     72
+5.1. Introduction                                  81
+
+5.2. Findings                                      92
+
+5.3. Recommendations                               105
+
+5.4. Summary                                       109
+
+5.5. Conclusion                                    120
+
+Unit 2.12:List of Abbreviations                                                             Commented [u282]: Font Size should be 13;
+       A list of abbreviation is a list that contains all abbreviations used in a research  Commented [u283]: are
+
+project. It is a list because in most cases, the pages where the abbreviations appear       Commented [u284]: Font Size should be 13;
+
+is not shown against each abbreviations. The list of abbreviations must be arranged
+
+in an alphabetical order. For example:
+
+C.L.O.             - Civil Liberty Organization
+
+I.C.C.             - International Criminal Court
+
+I.C.J.  - International Court of Justice
+
+S.C.    - Security Council
+
+U.N.O.             - United Nations Organization
+
+Unit 2.13:Bibliography
+       This is a part of dissertation, thesis and long essay project where the author or
+
+researcher lists all materials consulted during the writing of the project. This includes
+textbooks, journals, magazines, newspapers and internet sources with their citations.
+We reiterate that materials listed under bibliography must bear their full citations.
+The materials should be arranged in alphabetical order. It is suggested that students
+
+                                        73
+should enhance their table of bibliography. This is to say, a table of bibliography       Commented [u285]: Font Size should be 13;
+may be categorized into:                                                                  Commented [u286]: Separate the words
+A - Textbooks
+B - Journals
+C - Magazines and Newspapers
+D - Internet Sources
+
+       In each category materials should be arranged in alphabetical order except
+internet sources. However, for internet sources, the date the source was consulted
+should be provided. The common mistake some researchers do while comparing
+table of bibliography is the inclusion of cases and statutes in the table of
+bibliography. It is here reiterated that in the table of bibliography cases and statutes
+are excluded. This is because; they have their own table in the project.
+Unit 2.14:Glossary
+
+       This is the part of research work which contains words with technical
+meanings. The purpose of glossary is to facilitate the understanding of the text of the
+research or generally the content of the research. The understanding of the technical
+words will increase the understanding of the totality of the research work. For
+example,
+Fee simple--- (highest interest in a property) __________________page i0
+Fee tail--- (limited to direct offspringof the heir) ___________________21
+
+74
+Null ---(having no legal effect) _________________________________4                     Commented [u287]: Font Size should be 13;
+Nullapeona sine lege---(no punishment without a law authorizing it)___20
+Quic quid, plantatur, solo solocedit---(he who owns land own what is naturally
+standing on the land and what is beneath it)______________________15
+There should be a table containing these technical words with their meaning shown
+against them. The technical words should be arranged alphabetically with the pages
+where they appear shown by their side.
+Unit 2.15:Appendix
+
+       This is a document which shades light or increase the understanding or
+meaning of research work, but cannot be placed inside the text. Instead, it is placed
+at the end of the work. It was argued that if such document is placed inside the text,
+it will make the text clumsy and detract the attention of a reader. For example, a
+student writing a thesis on Fundamental Rights can reproduce Chapter Four of the
+Constitution of the Federal Republic of Nigeria, 1999 (as amended) and attach it at
+the back of the work for easy reference by readers. Recently, many authors who
+wrote on the Nigerian Land Use Act, have reproduced the text of the Land Use Act,
+1978 and attached it to their work for easy reference. Legal practitioners often
+enclose appendixes when making submissions to court. Sometimes, maps are placed
+at the end of research work for easy references. Students are advised to attach
+questionnaires of the researches as appendixes.
+
+75
+Unit 2.16: Index                                                                          Commented [u288]: Font Size should be 13;
+       Index is not required as part of students project such as thesis, dissertation or
+
+long essay. But it may be an added portion of a research project. In many legal
+textbooks, index is usually included. The advantage is to enable researcher gets
+information very timeously. This is because; words that are listed in the work have
+beside them, the pages where those words appear. With this information, if a word
+is found in the index, the user will go straight to the page which is indicated beside
+the word and get information about that word. Index is arranged in alphabetical order
+in order to ease the rigour of getting the word whose information is sought. For
+example,
+A
+Abbreviations 27
+
+B               39,41
+Bibliography
+
+C               98,10
+Chapterization
+
+D
+
+Dedication      20
+
+                       76
+E
+
+Endnotes  35
+
+Question:It has been said that a man without part of the body is like a log without
+
+head or feet. Similarly, a project without parts is like a log. Differentiate parts of
+
+project (if any) and mention their constituents.
+
+Self Assessment Exercise
+   1. Title page is what differentiates
+       a. One project from others
+       b. Is a means of knowing the contents of a project
+       c. Is Alpha and Omega of a project
+       d. It reveals all the secrets of a book
+
+   2. The difference between dedication and acknowledgement is:                         Commented [u289]: Questions should not be italicised
+      a. The limit of names and their relationship with a writer                        Commented [u290]: Separate the words
+      b. Their intimacy with the writer
+      c. Their contributions to the writer
+      d. Their importancewith the writer
+
+   3. In LL.M. Certification, the following is not a certifier
+
+                                                            77
+   a. H.O.D.                                                 Commented [u291]: Evidence
+   b. Dean of Postgraduate School
+   c. Co-ordinator of Postgraduate Programme
+   d. Member, Supervisory Committee
+   e. Chairman, Supervisory Committee
+
+4. The difference between forward and preface is:
+   a. Forward is written by the author
+   b. Forward is written by a third party
+   c. Preface is written by Dean of Law
+   d. Preface is written by a very important personality
+
+5. Which of these is not part of table of statutes
+   a. Land Use Act, 1978
+   b. Penal Code of N.N., 1960
+   c. Orojo, Cases and Material on CAMA, 1990
+   d. Evidnce Act, 2011
+
+6. Which of these is not part of bibliography
+   a. Meek, Land Law in Nigeria and Cameroon
+
+                                                         78
+       b. Elias, T.O. Nigerian Land Law, 1974
+       c. Coker, G.B. Property Law Among the Yorubas
+       d. Amadu Tijani V. Secretary, Southern Provinces (1921) 2, A.C, 399
+
+   7. The difference between table of Cases and list of Cases is that
+       a. Cases are arranged alphabetically with pages where they appear
+       b. Cases are written in capital letters
+       c. Facts of cases are given
+       d. Cases are not arranged alphabetically but their pages are shown
+
+   8. Index and glossary serve same purpose, in what way?
+       a. They show the pages where words appear
+       b. Glossary is a table of special words
+       c. Index is a table of words, places, things etc
+       d. Glossary is superior than index
+
+   9. Mr. Dadi is writing on the Fundamental Objectives of State Policies. In order
+       to make the text of the law easily accessible, what can he do?
+
+10. Mr. Sule, a supervisor said to an LL.M. student, "Please, enhance the table of
+bibliography. Show to the student how to do it.
+
+                                                              79
+         MODULE NINE: CITATIONS AND CROSS REFERENCING             Commented [u292]: Provide brief introduction to the Module
+Unit 1: Introduction
+Unit 2: Citation of statutes
+Unit 3: Citation of facts
+Unit 4: Citation of textbooks
+
+                                                              80
+Unit 5: Citation of textbooks written by several Authors
+Unit 6: Citation of Case laws
+Unit 7: Citation of Journals
+Unit 8: Citation of Articles Cited in an Edited Book
+Unit 9: Citation of Conference and Seminar Papers
+Unit 10: Citation of Thesis
+Unit 11: Citation of Dissertation
+Unit 12: Citation of Long Essay
+Unit 13: Citation of Information Obtain from the Internet
+Unit 14: Application of cross-references
+Unit 14.1: Ibidem
+Unit 14.2: Op.Cit.
+Unit 14.3: Loc. Cit.
+Unit 14.4: Supra
+Unit 15: Foot Notes
+Unit 15.2: End Notes
+Unit 15.3: Quotations
+Unit 16: Use of Computer
+
+Unit 1:Introduction                                                                   Commented [u293]: Heading should not be bold
+       Researches reports such as thesis, dissertations and long essays which are
+
+submitted to postgraduate schools in partial fulfillment of the award of Ph.D. LL.M.
+
+and Postgraduate Diplomas are written in compliance with approved guidelines. The
+
+81
+guidelines are made to imbibe ethos of academic writing into students. Here, in the        Commented [u294]: you
+legal parlance, it is required that if students make reference to statutes, case laws,     Commented [u295]: you
+journals, textbooks, magazines, newspapers, international instruments such as              Commented [u296]: you
+treaties, conventions, protocols or articles,they must acknowledgethe sources where        Commented [u297]: separate the words
+the information were obtained. In addition, all assertions of facts must be
+acknowledged. This section deals with citations and acknowledgments.                       Commented [u298]: Unit Heading should not be bold
+Unit 2: Citation of Statutes
+                                                                                           Commented [u299]: You say
+       It is required that all statutes cited in a research work must bear full citations
+for easy of reference by researchers if they want to verify the wordings of the
+statutes. For example, if a researcher says Section 1(3) of the Constitution of the
+Federal Republic of Nigeria, 1999 (as amended) provides,
+
+               If any other law is inconsistent with the provision of
+               the Constitution, this Constitution shall prevail, and
+               that other law shall to the extent of the inconsistency
+               be void -- Cap. C23, Laws of the Federation of
+               Nigeria, 2004
+The underlined is the full citation of the Constitution. It is always
+cited at the foot note as follows:8
+
+8.Cap. C23, LFN, 2004.
+                                                              82
+Thisinformation helps a reader or another researcher to trace the                        Commented [u300]: Separate the words
+law quickly and find out the correctness or otherwise of the law
+quoted.                                                                                  Commented [u301]: Align the paragraphs
+Citation therefore helps a reader or researcher to locate the law                        Commented [u302]: Unit Heading should not be bold
+and to know the authenticity of the law or otherwise.
+Unit 3: Citation of Facts                                                                Commented [u303]: You make
+                                                                                         Commented [u304]: your
+       Similarly, all assertions of facts must be authenticated. For example, a          Commented [u305]: you
+statement that the World Bank approves $22.2b for six projects in Nigeria,it is          Commented [u306]: you
+expected that if a student makes this statement or assertion in his project, he will be  Commented [u307]: you are
+required to show sources where he got the information. For example, he is required       Commented [u308]: you
+to say that he got it from the Daily Trust, Thursday, February 20, 2020, columns two
+and three, page 16. These particulars are to be shown at the footnote of the page        Commented [u309]: Unit Heading should not be bold
+where the information was provided as follows9                                           Commented [u310]: Separate the words
+Unit 4: Citation of Textbooks
+
+       In a standard library, textbooksare shelved according to the surname of the
+writers. Supposing that you want to cite the book "The Defendant's Rights" by
+David Fellman,published by Rineheart& Company, Inc. New York, (1958) page
+80,you have to follow the steps or format below.
+
+    (i) Name of the author
+
+9.Daily Trust, Thursday,February, 20, 2020, columns 2 and 3, page 16.
+                                                              83
+   (ii) The title of the book                                                         Commented [u311]: note
+   (iii) The name of the publishers                                                   Commented [u312]: Unit Heading should not be bold
+   (iv) Place of publication
+   (v) Year of publication                                                            Commented [u313]: Separate the words
+   (vi) Page that was consulted
+At the foot noe , it will appear as follows:
+    David Fellman, the Defendant's Rights, Rineheart and Company Inc.New
+
+       York (1958)50.
+This is the format of citing any textbook, writing by one author.
+
+Unit 5: Citation of Textbooks Written by Several Authors
+       To cite a textbook written by more than one author, the format as shown below
+
+is the same, except that you add the word et al. The Latin word et al means and
+others. For example:
+1. Introduction to Legal Method by John H. Farrar and Anthony M. Dougdale.
+To cite this book you simply write:
+1. Farrar, J. H. and Dudgate, A. M. Introduction to Legal Method, Sweet and
+
+       Maxwell, London (1990), p.132
+       This example conforms tothe format above. Or you can cite the book as
+follows:
+1. Farrar, J. H. et al, Introduction to Legal Method, Sweet and Maxwell, London
+(1990), p.132
+       The word et al is used to include other names even if they are more.
+
+                                                              84
+Unit 6: Citation of Case Law                                                              Commented [u314]: Unit Heading should not be bold
+       By case law, we mean laws that are contained in previously decided cases that      Commented [u315]: Separate the words.
+                                                                                          Commented [u316]: Separate the words
+are expounded and applied to a case in handIt is traditional that judges cite case laws   Commented [u317]: contained
+when they interpret and expound cases and apply the ratiodecidendi to the case in
+hand. For example, a court can apply the law contains in the case of Lewis v. Bankole     Commented [u318]: you
+(1908) NLR, 82 to a case with similar facts and circumstances with the case at hand.
+This, judges, do so, through the doctrine of judicial precedent.                          Commented [u319]: separate the words
+                                                                                          Commented [u320]: you
+       Similarly, students are enjoined to cite cases when the need to cite them arises.
+At the postgraduate level, there is a maxim which says "do not cite cases out of the      Commented [u321]: "Proposition".
+blues". This means, before a case is cited, its proposition should be given. That is to
+say, the gistof the fact or principle should be given. In the example we gave above,      Commented [u322]: ?
+i.e. the case of Lewis v. Bankole (1908) N.L.R. 82, a student may give its proposition    Commented [u323]: Separate the words
+as follows:
+
+          Native law and custom varies from place to place and from
+          family to family. It is flexible and not always immutable.
+This is what is called proposition
+It is after this proposition that the fact of the case is given. The holding which is
+congruent or incongruent (as the case may be) is selected and applied. The citation
+of Lewis v. Bankole is (1908) N.L.R. 82.
+Where one case is cited several times, at the table of cases, it will be written once.
+The pages where they appearsare shown against the first citation. For example:
+
+                                                              85
+Lewis v. Bankole (1908)1, NLR, 82, 21, 25, 50, 70.                                         Commented [u324]: you
+       This means that Lewis v. Bankole was cited at pages, 21, 25, 50 and 70.
+
+Therefore, you do not need to write it four times to show that the case was cited four
+times.
+
+Unit 7: Citation of Journals
+       Citation of journals is similar to the citation of books. Supposing that a student
+
+wants to cite an article titled Boko Haram and the Law: An Appraisal of the Rule of
+Law-Based and the Security-Based Approaches to Counterterrorism by Nuradden
+A. Ayagi. The article was published in Ahmadu Bello University Law Journal, Zaria,
+Vol. 36 (2016) at page 88. How will a student cite this correctly? The correct citation
+is as follows.
+Ayagi, N. A. BokoHarom and the Law: An Appraisal of the Role of Law-Based
+and the Security-Based Approaches to Counterterrorism, Ahmadu Bello University
+Law Journal (ABULJ) Zaria, Vol. 36, (2016) 88.
+
+If you want to compare this citation with that of textbook, your comparison will look
+like the following:
+Surname: Ayagi
+Initials: N.A.
+Topic of the article: Boko Haram and the Law: An Appraisal of the Role of Law-
+
+                       Based and the security-Based approaches to Terrorism.
+
+                                                              86
+Publisher: ABU Law Journal.                                                             Commented [u325]: Unit Heading should not be bold
+Place of publication: Zaria.                                                            Commented [u326]: You want
+Volume of the journal: Vol. 36                                                          Commented [u327]: an
+Year of publication: (2016)
+                                                                                        Commented [u328]: separate the words
+The page that was consulted: 88
+This is very similar with the way textbooks are cited.                                  Commented [u329]: Separate the words
+
+Unit 8: Article Cited in an Edited Book
+       This is usually called double citation. It is a citation within citation. For
+
+example a student wants to cite an article written by Prof. F. C. Nwoke and Dr. A.
+O. Alubo in a edited book. The article is titled Re-Inventing State Responsibility for
+Expropriation/Nationalization of Alien Property. The article was published by the
+Department of Public Law, Faculty of Law Zaria, in a book edited by Dr. S. M. G.
+Kanam and A. M. Madaki. It was published in the Contemporary Issues in Nigerian
+Law, Legal Essays in Honour of Hon. Justice UmoruFarukABdullahi, CON,
+President, Court of Appeal, Abuja (2006) 345. How can this article be cited
+
+correctly? The correct citation of this article is as follows:
+Nwoke, F. C. and Alubo, A. O., Re-Inventing State Responsibility for
+Expropriation/Nationalization of Alien Property. In: Kanam, S. M. B. and Madaki,
+A. M. Contemporary Issues in Nigerian Law. Legal Essays in Honour of Hon.
+Justice UmaruFarukAbdullahi, CON, President, Court of Appeal, Abuja (2006),
+p.345
+
+The format of this citation looks as follows:
+
+                                                    87
+1- Surnames of the authors                                                               Commented [u330]: you
+2- Initials of the authors
+3- Title of the article by the authors                                                   Commented [u331]: Unit heading should not be bold.
+4- This is followed by the word In:
+5- Surname of the editors of the book                                                    Commented [u332]: suppose
+6- The initials of the editors                                                           Commented [u333]: you
+7- The title of the book                                                                 Commented [u334]: you
+8- Publishers of the book
+9- Place of publication
+10- Year of the publication
+11- The page consulted
+
+       You can see that the first segment of the citation is similar to the second
+segment of the citation. This is why we say it is a double citation. You try to analyze
+the citation according to the format.
+Unit 9: Citation of Conference and Seminar Papers
+
+       Conference and seminar papers are good materials for consultation when
+writing thesis and dissertation. They contain current issues. Supposing that a student
+wants to cite the following conference paper, how will he do it? The paper is as
+follows:
+
+88
+       National Conference on Peace, Security and Human Rights in Nigeria: The       Commented [u335]: remove fullstop, and insert coma.
+Challenge of Land Tenure System in Curbing Unsavoury Relationship between
+Herdsmen and Farmers in Nigeria. The paper was written by Prof. S. Y. Shangayi
+of the Centre for Land Tenure and Land Use, University of Dakar, Senegal. The
+
+conference was organized by Faculty of Law, ABU, Zaria. It was held at ABU Hotels
+and Suites, Kongo, Zaria from 31st July ­ 2nd August, 2018. The student consulted
+the paper at page 15. As complicated as this paper is, it can be correctly cited as
+follows:
+Shangayi, S. Y., National Conference on Peace and Security in Nigeria: The
+
+       Challenge of Land Tenure System in Curbing Unsavoury Relationship
+       between Herdsmen and Farmers in Nigeria. Being a paper, presented at the
+       National Conference on Peace, Security and Human Rights in Nigeria
+       Organized by Faculty of Law, Ahmadu Bello University, Zaria, held at ABU
+       Hotels, Zaria from July 31st, 2018 ­ 2nd August, 2018. page 15.
+
+       In conferences and seminars, the format will take this form:
+
+   - Surname of the presenter
+   - Initials
+   - Title of the paper
+   - Name of the conference
+   - Organizers of the conference
+   - Venue of the conference
+
+   - Date of the conference
+   - Time of the conference
+
+                                                              89
+   - Year of the conference                                                             Commented [u336]: you
+   - Page consulted                                                                     Commented [u337]: you graduate
+                                                                                        Commented [u338]: you
+       P.S. Students should try and match the citation with the format.
+       In universities and some tertiary institutions, there is the requirement that    Commented [u339]: Unit heading should not be bold.
+before a student graduates, he must submit dissertation, thesis or long essay project.
+It is expected that these research works would contain information which will be
+helpful to some research students, lecturers, and other persons outside universities.
+Unit 10: Citation of Thesis
+       A thesis is a supervised research work written by a student for the requirement
+of conferring a Ph.D. degree for a university or research institute. As a research
+work, a thesis is often cited, if information was obtained from it.
+       The method of citing thesis is similar to the method of making double
+citations. For example, to cite a thesis with the following title:
+"An Appraisal of the Legal and Institutional Framework for Mortgage Finance in
+Nigeria", a student must make sure that the relevant information is captured in the
+citation as follows:
+   - The surname of the writer of the thesis
+   - The initials of the writer
+   - The year the thesis was submitted
+   - The title of the thesis
+
+90
+   - The title must be followed by the word (unpublished)                             Commented [u340]: Not bold.
+                                                                                      Commented [u341]: It should not be bold
+   - Then, a long statement as follows:
+
+               Being an (unpublished) thesis submitted to the school of
+               postgraduate studies, National Open University of
+               Nigeria, Abuja in partial fulfillment of the Requirements
+               for the Award of the Degree of Doctor of Philosophy
+               (Ph.D) in Law, January, 2019 page 320.
+Students should try to write the citation.
+
+P.S. If you write it properly, your citation will look like this:
+
+       Ma'aji, S.M. (2019), An Appraisal of the Legal and Institutional
+       Framework for Mortgage Finance in Nigeria. Being an
+       (unpublished) Thesis submitted to the School of Postgraduate
+       Studies, National Open University of Nigeria, Abuja, in partial
+       fulfillment of the award of the Degree of Doctor of Philosophy in
+       Law (Ph.D.) page 320.
+
+Unit 11: Citation of Dissertation                                                     Commented [u342]: Unit heading should not be bold.
+       Dissertation is a supervised research work written for the purpose of meeting
+
+the requirements for the conferment of Master's degree e.g. LL.M. It is cited in the
+same way just like Ph.D. thesis. For example, in our topic: Do Judges Make Law?
+The Recent Trend, the dissertation was written by Mr. Olawole Ganiyu and it was
+submitted in 2015. The citation should contain the following information:
+
+   - The surname of the writer
+   - The initials of the writer
+   - The year, the dissertation was written in brackets (1990)
+   - The title of the dissertation, followed by the word (unpublished) in brackets
+
+                                                              91
+   - Then a long citation as follows:                                                   Commented [u343]: You are
+                                                                                        Commented [u344]: Unit heading should not be bold.
+               Being an (unpublished) dissertation submitted to the
+               School of Postgraduate Studies National Open University
+               of Nigeria, Abuja in partial fulfillment of the
+               Requirements for the Award of the Degree of Master's
+               Law (LL.M.) page 175.
+P.S.: Students to write the citation properly.
+
+Unit 12:Citation of Long Essays
+       As from the year 1975, the National Universities Commission made it
+
+compulsory for all students to write long essays before they graduate. In conformity
+
+with this requirement, nearly all universities in Nigeria have made it compulsory for
+
+students to write long essays before they graduate. A typical citation of a long essay
+
+may look like this:
+
+       Gali, M. A. (2018) An Analysis of Revocation of Right of Occupancy
+       under the Land Use Act, 1978 (unpublished) being a Long Essay
+       Project Submitted to the Faculty to the Faculty of Law, National Open
+       University, Abuja in Partial Fulfillment of the Requirements for the
+       Award of Bachelor of Law Degree (LL.B) with Specialization in
+       Islamic Law, page. 105.
+
+P.S. Students are to analyze the citation to see whether it has conformed with the      Commented [u345]: you
+requirement set out in the citations of Ph.D. and LL.M. above.                          Commented [u346]: Unit heading should not be bold.
+
+Unit 13:Citation of Information Obtained from the Internet
+       With the development of science and technology, the world as a whole is
+
+witnessing a very sophisticated and the fastest means of communication call
+"internet". With the use of internet one can get information from a very far distance
+
+92
+easily. Once the source of information is used, and the information is obtained,       Commented [u347]: You use
+according to research ethic and norm, the user is required to acknowledge the source.  Commented [u348]: you
+For example, if a researcher sees this: ONLINE: To learn more about events in your     Commented [u349]: have
+area, go to: bit.ly.HLSalumnievents. If one uses this information and accessed         Commented [u350]: you make
+research facts or data and made use of it, he has to acknowledge the person who        Commented [u351]: your
+posted the information which he makes use of it in his research. Usually, the person   Commented [u352]: access
+who provided the information will give his e-mail. This e-mail will give him a source  Commented [u353]: access
+of acknowledgement. It is required that the date of accessment and time be quoted.
+This is necessary because soon after the accessment, the information may not be        Commented [u354]: Unit heading should not be bold.
+there again. If another person goes there to get same information or data he will not
+find it.                                                                               Commented [u355]: Font Size should be 13.
+
+       P.S. Try this: Log in at amicus.law.harvard.edu
+The information you get after having accessed the internet is the one you will
+acknowledge.
+Unit 14:Application Cross References
+
+       In order to avoid repetitions in citing of documents,experts of research
+methodology have devised what is called cross references. They include Ibidem
+(Ibid), opere citator (op.cit.), loco citator (loc.cit) and supra (as above) .
+Unit 14.1: Ibidem
+The abbreviations of this word are Ibid, Ibd and Id. This Latin word means this
+citation is the same with the one immediately preceding it or above it. For example,
+
+                                                              93
+   1. Amodu Tijani v. Secretary Southern Provinces (1921) A.C. 399                      Commented [u356]: Tijani
+   2. Ibid.                                                                             Commented [u357]: Tijani
+                                                                                        Commented [u358]: Tijani
+       This means the footnote number two is the same with footnote number one.
+Exception                                                                               Commented [u359]: Tijani
+                                                                                        Commented [u360]: Tijani
+   (a) Where there is an interception of citation, ibidem (Ibid) cannot be used e.g.
+       1. AmoduTijini v. Secretary Southern Provinces (1921) A.C. 399
+       2. Lewis v. Bankole (1908) NLR 82
+       3. AmoduTijini v. Secretary Southern Provinces (1921) A.C. 399
+
+Because of the interception of the case of Lewis v. Bankole in footnote No. 2,
+AmoduTinaji v. Secretary Southern Provinces in footnote No. 3 has to be rewritten
+in full.
+
+   (b) Where there are multiple citations
+   Where there are multiple citations, the citation following them cannot be Ibid or
+   Id. For example,
+
+       1. AmoduTinaji v. Secretary Southern Provinces (1921) A.C. 399, see also
+           Caucrick v. Harding (1926) 7, NLR 48, Ogumefun v. Ogumefun (1930)
+           10, NLR 82
+
+       2. AmoduTinaji v. Secretary Southern Provinces (1921) A.C. 399. Footnote
+           No. 2 cannot be Ibid. this is because footnote No. 1 has multiple citations
+
+94
+           (many citations)---i.e., more than one citations. Ibid is mostly used when        Commented [u361]: you
+           citing statutes.                                                                  Commented [u362]: Font Size should be 13.
+       The advantage of Ibid., Ibd. and Id. is that it makes the work neater and it
+saves space and time. It also saves a reader from boredom which will result from
+monotonous reading and writing.
+Unit 14.2: Op. Cit.
+       The full meaning of this abbreviation is Opere Citator. This means "in the
+work cited or referred to". It means the present citation is the same with the one
+previously cited in this work or referred to in this work. For example:
+       James, R. W. Modern Nigerian Land Law, Op. Cit. This means this citation
+is the same with one previously cited somewhere in this work. It is because of the
+simplicity of this citation that student often cite it. It is a lazy student's citation. It
+has little advantage. However, if maximum advantage is to be derived from this
+citation, further information has to be supplied. For example:
+       James, R.W. Modern Nigerian Land Law, Op.cit, p. 19. This means, the
+citation of this book is the same with the citation given at page 19. Yet, to make it
+simpler for readers, more information can be given, for example,
+       James, R. W. Modern Nigerian Land Law, Op. Cit f. n. 5, p. 19. This means,
+the citation for this book is the same with one previously given in footnote No. 5 at
+page 19.
+
+95
+       It is hoped that students will take pain to write this citation properly when it  Commented [u363]: you
+becomes necessary to use it.                                                             Commented [u364]: Font Size should be 13.
+Unit 14.3: Loc. Cit.
+                                                                                         Commented [u365]: Font Size should be 13,.
+       The full spelling of the words is loco citato. It means in the place cited or     Commented [u366]: "supra"
+quoted in the work, for example,                                                         Commented [u367]: "supra"
+1. Constitutional Law: Cases and Materials, 10th Edition. Loc. Cit.                      Commented [u368]: you
+
+       If cited as it is, it has no any advantage at all. To be more advantageous it
+should be cited as follows:
+1. Loc.cit, page 5, f. n. 10.
+The additional information makes the citation more useful. It is recommended that
+students who adopt this type of citation should supply more information in order for
+it to be more useful.
+Unit 14.4: Supra
+The word supra is used when same case is cited often, successively or when there
+are some interceptions of other cases, provided that the same case can be located
+easily. The word supra means the citation of this case is the same with the one cited
+above or somewhere in this text or report. However, it is traditional in legal writing
+to use supra only when citing cases. That is to say, it is not usual to see supra being
+used when we cite statutes, textbooks and facts.
+Query: Can supra be used instead of loc.cit., op.cit.?
+
+96
+Unit 15.1: Foot Notes                                                                    Commented [u369]: Font Size should be 13.
+       These are further information, explanations, elaborations and adumbrations
+                                                                                         Commented [u370]: Replace with fullstop
+given at the bottom of the page where the related information or data was given in       Commented [u371]: End of quotation?
+the main text. It is usually shown by indication of a figure or letter. For example, in  Commented [u372]: Font Size should be 13.
+the case of Lewis v. Bankole10,it was held that customary law is flexible and not
+immutable. In this regard, if a correct command is given to computer, it will
+automatically create a footnote at the bottom of the page where Lewis v. Bankole
+appeared or cited. See it below..
+
+       Another example of foot note can be given in relation to citing of statutes. For
+example, where the statement "the supremacy of the constitution is contained in
+Section 1(3) of the Constitution of the Federal Republic of Nigeria, 1999 (as
+amended)11. See it below. It was argued that the information below is better written
+at the foot-note than in the text of the book or research report.
+
+       According to the spirit and tenor of the Research Methodology, foot notes
+make a research work neater and beautiful.
+Unit 15.2: End Note
+
+       The twin sister of foot note is end note. In the same vein, end notes similarly
+explains, elaborates and adumbrates further information which a research found it
+
+10 . (1908) NLR, 82
+11.Cap. C23, LFN. 2004.
+
+                                                              97
+necessary to be included at the end of every chapter of a book, or at the end of a        Commented [u373]: Font Size should be 13.
+conference or seminar paper. End note shades more light on what was written in the
+content of a book, seminar or conference paper. It serves the same purpose with foot
+note. Nowadays, with the coming of computer software e.g., Microsoft, the
+difference between end note and foot note is the command. If a researcher in the
+process of typing his research work, commands references, he will see end note and
+foot note. If he chooses end note, the details will appear at the end of the chapter,
+conference or seminar paper. Similarly, the idea of adopting end note is to make the
+references tidier, neater and easier to read without much detracting by that detailed
+information.
+Unit 15.3: Quotations
+
+       Academic lawyers, judges and legal practitioners are fond of quotations.
+Quotation is used when a researcher wants to write what a third person has said
+exactly, without mixing words. Quotation is what the men of wisdom referred to as
+"hearing from the host's mouth". This means from the person who said it directly
+and exactly. In legal parlance, quotation is used to quote judges, statutes, jurists and
+any information that is necessary to be quoted. For example, Section 2(1)
+Constitution of the Federal Republic of Nigeria provides:
+
+98
+"Nigeria is one indivisible and indissoluble sovereign state
+to be known by the name of the Federal Republic of
+Nigeria."
+
+       According to some universities' guidelines quotation of one line or less than    Commented [u374]: delete
+one line needs not be brought to the centre of a page, while quotations more than       Commented [u375]: brought
+two lines are to conspicuously bring to the centre of a page with open and close
+inverted commas. In quotation, at least there should be one inch gap from the right     Commented [u376]: Unit Heading should not be bold
+and left hand margins as shown above.
+                                                                                        Commented [u377]: you
+       The purpose of quotation is to separate the words of the researcher from those   Commented [u378]: your
+of the third parties such as judges, statutes, jurists and other necessary statements.  Commented [u379]: you
+Research works with quotations rightly provided, make the work neat and beautiful.
+Unit 16: Use of Computers
+
+       The present generation of researchers should thank the development of
+science and technology as a result of which computer was invented. Nowadays
+computer is used to do work which were manually or analogically done before. For
+example, one can access a document in New York, Beijing or Tokyo from his sitting
+room. He can similarly send messages at a twinkle of an eye to some other persons
+in far away countries at speed light. Document which could be seen in about one or
+
+99
+two books before, can be accessed in plenty copies from the internet. In fact many     Commented [u380]: remove the fullstop
+researchers are having their hay-days.
+
+       However, the way the present researchers are using information or data
+generated through internets is worrisome and it is a matter of great concern to the
+older generation of researchers. The concern lies with the activities of the present
+generation of researchers who search for materials or data. copy, cut and paste the
+data or information without studying their suitability or relevance. Nowadays, some
+researchers download materials from computers and present them to their
+supervisors without studying them to know whether the downloaded materials are
+relevant or not. If they are relevant, they do not take time to read them before they
+present them to their supervisors or examiners. The present researchers are not
+patient and painstaking to read downloaded materials with the view to winnowing
+or jettisoning the irrelevant part of the downloaded materials before they present
+them for supervisors or examiners. As a result of this, an examiner or supervisor
+hardly reads from students materials whose originality stem from them. They copy,
+cut and paste.
+
+Question1                                                                              Commented [u381]: Separate the words
+Write proper citation of the following laws:
+MarriedWomenProperty Law of Kaduna State, Section 64, Cap.69, 1991, Law of
+Kaduna State, page 12.
+
+                                                             100
+Page 112, Oxford Advanced Learners Dictionary of Current English. Six Edition,        Commented [u382]: Do not italicize the questions pls.
+Oxford, 2004.                                                                         Commented [u383]: Do not italicize the questions pls
+
+Question2                                                                             Commented [u384]: use
+With the advent of science and technology, computer, the most sophisticated means
+of gathering information and dissemination same was invented. However, the abuse
+of this system is as much as disabuse of it. Allegations have been made against
+present generation of researchers for being lazy. What they do is to download, cut
+and paste information whether relevant or not. Discuss.
+
+Self Assessment Exercise
+   1. It is preferable that whenever you want to cite a case, you should start with:
+       a. Proposition
+       b. Ratio decidendi
+       c. Ruling
+       d. Judgment
+
+   2. Do not cite a case out the blues. This means:
+       a. Do not ambush your reader
+       b. Make a proposition first
+       c. Do not look strange when citing a case
+       d. Be very familiar with the facts of your cases
+
+   3. Which is the best formula to use when citing a textbook?
+       a. Surname, Initials, title of the book, place of publication, year and page
+           consulted
+       b. Initials, surname, place of publication, year and page consulted
+       c. Surname, initials, place of publication, year of publication
+       d. Initials, surname, title of the book, page consulted
+
+   4. One of the exceptions to the Use of Ibid is
+       a. When the Citation preceding it is multiple
+       b. When the one preceding it is op.cit.
+       c. When the one preceding it is Supra
+       d. When the one preceding it is loc. Cit.
+
+   5. Which one of the following cross-references is not popular?
+
+                                                             101
+   a. Supra
+   b. Infra
+   c. Ibid.
+   d. Loc-cit.
+
+6. The lazy student way of citation is:
+   a. Op. cit.
+   b. Loc. Cit.
+   c. Supra.
+   d. Ibid.
+   e. All of the above.
+
+7. Write this citation correctly
+   a. Usman, A ­ meaning of Law
+   b. Usman A ­ meaning of Law
+   c. GaladimaM ­ meaning of Law
+   d. Usman A ­ Ibid.
+
+8. The use of quotation becomes necessary when a researcher wants to:
+   a. Say what a third party said exactly and correctly
+   b. Say what he wants
+   c. Differentiate what he said from what others said
+   d. Make emphasis on what he said
+
+9. The sister twin of end note is foot note. It is used when:
+   a. There are relevant information which shade more light to report or text of
+       the research
+   b. Facts are to be brought at the end of a page
+   c. Information in the text is to be written at the end of the chapter, end of
+       seminar or conference paper
+   d. Information are to be synchronized
+
+10.Most postgraduate studies guidelines emphasize that:
+   a. Foot note is preferable than end notes
+   b. End notes is preferable than foot notes
+   c. The choice is left for student to adopt which one he/she prefers
+   d. End and foot notes are used when the research has reached fixation stage
+
+                                                        102
+MODULE TEN: CONCLUSION                                            Commented [u385]: Provide brief introduction to Module 10
+Unit 1: Introduction
+Unit 2: Findings
+Unit 2.1: Lack of funding
+Unit 2.2: Lack of Awareness
+Unit 3: Recommendations
+Unit 3.1: Lack of funding
+Unit 3.2: Lack of Awareness
+Unit 4: Summary
+Unit 5: Conclusion
+
+                                                             103
+Unit 1:Introduction                                                                     Commented [u386]: Unit Heading should not be bold.
+The word "Conclusion" is used here from two perspectives. One, it means that after
+this chapter, there will be no more chapter. In other words, this is the last chapter.  Commented [u387]: you
+Secondly, when conclusion is used in a write-up, for example, in findings,
+recommendations and conclusion, it means, after conclusion, there will be no more       Commented [u388]: to be included
+topic or subhead to be discussed. Logically, conclusion seals up any further writing.   Commented [u389]: fullstop
+If a researcher continues with discussing more topics or subheads, it means that, that  Commented [u390]: Unit heading should not be bol
+is not a conclusion but something else.                                                 Commented [u391]: you
+                                                                                        Commented [u392]: you discover
+       Usually, the last chapter of a research may be headed conclusion simpliciter.    Commented [u393]: your
+Sometimes it is headed findings, recommendations and conclusion. More recently.         Commented [u394]: you
+we see summary, findings, and recommendations. In all these topics, the last one is
+to be discarded. This is because, in the last chapter if one starts with summary, it
+means he will not capture the contents of findings and recommendations. Findings
+and recommendations will be excluded in the summary. This is bad, because;
+findings and recommendation are toincluded in the summary..
+Unit 2: Findings
+
+       This is where a researcher enumerate one by one what he discovers during his
+research. The best way to write a finding of a research is to number each finding and
+if possible give each number a subhead. For example, we may have as follows:
+
+104
+Unit 2.1:Lack of Funding                                                                Commented [u395]: Sub-heading font size is 13, not bold
+       In the course of this research, it was discovered that the organization is not   Commented [u396]: Sub-heading font size is 13.
+
+adequately funded. This contributes to non-performance of the object-clause of the      Commented [u397]: Unit Heading should not be bold
+organization.
+                                                                                        Commented [u398]: fullstop
+Unit 2.2: Lack of Awareness                                                             Commented [u399]: Sub-heading font size should be 13.
+       One fundamental finding or discovery in this research work is that the
+
+community is not aware about the existence of the organization. The consequence
+of this is that no complaint is reported to it frequently as it ought to be. The
+organization handles very few cases in a year due to the fact that members of the
+community do not know of its existence.
+
+Unit 3:Recommendations
+       Findings are like illness or ills. Recommendations are the cure or solutions to
+
+the ills or illness. The fundamental aim of every research is to discover the problems
+and to solve them. Recommendations are the solutions proffered to solve the
+problems. When this happens it means the research is successful.
+
+       The best way to proffer solution or recommendations for each problem
+identified is to use subtopics which were used for findings For example, in the above
+findings, the recommendations will be written as follows:
+
+Unit 3.1: Lack of Funding
+       It is recommended that the state government should see to it that the
+
+organization is well funded to enable it perform to the optimum capacity. Lack of
+enough funding may lead to redundancy and truancy of staff of the organization.
+
+                                                             105
+Unit 3.2: Lack of Awareness                                                               Commented [u400]: Sub-heading font size is 13.
+       It is recommended that the organization should arrange public enlightenment        Commented [u401]: know
+
+programmes twice every year. The purpose of this is to let the public knows about         Commented [u402]: Unit sub-heading should not be bold
+its existence, duties and activities.                                                     Commented [u403]: Unit sub-heading should not be bold
+
+       Therefore, conclusion is a response to findings. The subtopic used for findings
+should be used for recommendations, and ultimately the numerical number. This
+should be adopted as much as possible. But where there is the need to change, it
+should be done very sparingly and understandable.
+
+       Findings and recommendations are always connected with the statement of
+the problem. Findings aim at what comes out from the research problem.
+Recommendation aims at solving the problem identified in the research.
+Unit 4: Summary
+
+       This means the nutshell of what was discussed in the totality of the research
+work. It is the summary or review of the work in a concise way. If possible, pages,
+major topics and subtopics should not be referred to. This is because there is no
+particular topic or subtopic for which the summary is written. If there is the need to
+make particular reference to such topics, there is no problem.
+Unit 5: Conclusion
+
+       This may be added to the last chapter if, the last chapter is arranged to include
+it. As we have already said, after the discussion under conclusion, there should be
+no more discussion of any major or subtopic. After the discussion under conclusion,
+
+106
+the researcher should put away his pen. Legally, he is foreclosed or barred from  Commented [u404]: you
+                                                                                  Commented [u405]: your
+further discussion. Conclusion marks the end of the research work, seminar or     Commented [u406]: you are
+
+conference paper.                                                                 Commented [u407]: Questions should not be bold.
+
+Questions:                                                                        Commented [u408]: (e)?
+
+Describe two instances when the word "Conclusion" can be used.
+
+Self Assessment Exercise
+   1. Which of the format for conclusion is most preferred?
+       a. Summary, conclusion, findings and recommendations
+       b. Conclusion, summary, findings and recommendations
+       c. Findings, introduction, and recommendations
+       d. Introduction, findings, recommendations, summary and conclusion
+
+   2. The best way to write findings is:
+       a. Every finding be given subtopic and explanation
+       b. To enumerate the findings
+       c. Each finding has solution
+       d. Findings are usually defined
+
+   3. The best way of writing recommendations is:
+       a. Give subtopic for each recommendation and explain
+       b. Proffer solution to each finding
+       c. Enumerate findings
+       d. Number of recommendation to be equaled number of findings.
+       e.
+
+                                       Further Reading                            Commented [u409]: Bibliography. Not Further Reading
+Aboki, Y. Introduction to Legal Research Methodology, Ajibaye Printing
+Production, Kaduna
+
+             (2013)
+
+                                                             107
+Ajala, A.O., Data Analysis Techniques. In: Solomon Akhere Benjamin, Enhancing       Commented [u410]: Arrange the references properly pls!
+Effective
+
+               Legislative Research. Policy Analysis and Research Project (PARP),
+National
+
+               Assembly, Abuja (2015)
+Ibrahim Adamu, Preliminary Steps in Research Project for Students of Graduate
+Studies, Dpt.
+
+               Of Public Administration, Institute of Administration, Ahmadu Bello
+University,
+
+               Zaria (1999).
+Nigerian Association of Law Teachers' Uniform Citation Guide (NALT), 2015
+Nyemutu Roberts, F. O. Techniques of Data Collection. In : Solomon Akhire
+Benjamin,
+
+               Enhancing Effective Legislative Research, Policy Analysis and
+Research Project
+
+               (PARP), National Assembly, Abuja (2015).
+
+APPENDIX I
+
+             ANSWERS TO THE SELF ASSESSMENT EXERCISES
+POSTGRADUATE DIPLOMA INTERNATIONAL LAW AND
+DIPLOMACY
+MODULE 1
+1. A
+2. A
+3. A
+MODULE 2
+
+                                                             108
+1. C                                                              Commented [u411]: Crosscheck pls.
+2. B
+3. i. Primary source
+
+       ii. Primary source
+       iii. Secondary source
+       iv. Secondary source
+4. A
+MODULE 3
+1. D
+2. C
+3. Quantitative
+4. Qualitative
+MODULE 4
+1. C
+2.` C
+3. A
+4. A
+5. D
+MODULE 5
+1. B
+2. a
+MODULE 6
+1. A
+
+                                                             109
+2. A
+3. D
+4. C
+MODULE 7
+1. A
+2. A
+3. C
+4. A
+5. A
+6. A
+7. A
+MODULE 8
+1. A
+2. A
+3. C
+4. B
+5. C
+6. D
+7. A
+8. A
+9. Create appendix for Chapter III of the Constitution and attach it.
+MODULE 9
+1. A
+
+                                                             110
+2. A
+3. A
+4. A
+5. D
+6. A
+7. B-Ibd.
+8. A
+9. C
+10. A
+MODULE 10
+1, C
+2. A
+3. A
+
+                                                             111
+112
+

@@ -1,0 +1,2798 @@
+COURSE
+GUIDE
+
+CLL 809
+LAW OF MARINE INSURANCE I
+
+Course Team
+
+Prof. Augustine R. Agom (Course
+Developer/Writer)
+Prof. D.C. John (Course Editor)
+Dr. Ernest O. Ugbejeh (Dean)
+
+NATIONAL OPEN UNIVERSITY OF NIGERIA
+i
+
+CLL 809
+
+COURSE GUIDE
+
+© 2022 by NOUN Press
+National Open University of Nigeria
+Headquarters
+University Village
+Plot 91, Cadastral Zone
+Nnamdi Azikiwe Expressway
+Jabi, Abuja
+Lagos Office
+14/16 Ahmadu Bello Way
+Victoria Island, Lagos
+e-mail: centralinfo@nou.edu.ng
+URL: www.nou.edu.ng
+
+All rights reserved. No part of this book may be reproduced, in any
+form or by any means, without permission in writing from the publisher.
+Printed 2022
+ISBN: 978-978-058-499-3
+
+ii
+
+CONTENTS
+Introduction………………………………………
+Working through this Course……………………
+Course Materials…………………………………
+Modules and Study Units………………………..
+References /Further Reading……………………..
+Assessment………………………………………..
+Self-Assessment Exercises………………………..
+Final Examination and Grading…………………..
+Course Score Distribution………………………..
+How to get the Most from the Course…………….
+Tutors and Tutorials………………………………
+
+iv
+iv
+iv
+v
+v
+vii
+vii
+viii
+ix
+x
+x
+
+iii
+
+CLL 809
+
+COURSE GUIDE
+
+INTRODUCTION
+The maritime industry is very important in the conduct of the business of
+the carriage of persons, goods and services. It is feasibly the most costeffective way to move large cargoes from one country to another over a
+large distance. According to the International Maritime organisation
+(IMO) over 90% of the worlds trade is carried by sea. The contribution of
+marine transport in the movement of industrial plants, machinery,
+equipment, goods and services across long distance is indeed immense.
+The associated challenges of maritime mishap can be quite ruinous
+without a hedging scheme to protect maritime stakeholders. Maritime
+activities would simply be impossible without the risk mitigating presence
+of marine insurance.
+WORKING THROUGH THIS COURSE.
+The course is divided into two: Law of Marine Insurance 1(CLL805) and
+Marine Insurance 11(CLL815). Law of Marine Insurance 1 provides a
+basic understanding of the regulatory framework for marine insurance law
+in Nigeria. Law of Marine Insurance 311 is an expose on the legal issues
+in marine insurance. Right and obligations of parties to marine insurance
+contracts and the legal relationship of marine insurance intermediaries are
+discussed. These are undertaken as specific issues under the various study
+units in very simple and digestible language.
+COURSE MATERIALS
+The major components of the course are.
+a)
+b)
+c)
+d)
+e)
+
+Course Guide
+Study Units
+Textbooks
+Assignment File/Seminar Paper
+Presentation Schedule
+
+STUDY UNITS
+This course is divided into four (4) module and broken down to 12 study
+units as follows –
+Module 1-Nature of Marine Insurance Law
+Unit 1
+Unit 2
+Unit 3
+
+iv
+
+Importance of Marine Insurance
+Meaning of Marine Insurance Contract
+Nature of Marine Insurance Contract
+
+CLL 809
+
+COURSE GUIDE
+
+Module 2 Historical Development of Marine Insurance
+Unit 1 Pre-colonial Era
+Unit 2 Post-Colonial Era
+Unit 3 Institutional Framework for the Regulation of Marine Insurance
+Law in Nigeria
+Module 3 Classification of Marine Insurance
+Unit 1 Mutual Insurance and Commercial Insurance
+Unit 2 Kinds of Marine Policies
+Module 4 General Principles of Marine Insurance
+Unit 1 Good Faith (Uberrimae Fidei)
+Unit 2 Insurable Interest
+Unit 3 Subrogation
+Unit 4 Double Insurance and Contribution
+All these units are demanding. They also deal with basic principles and
+values, which merit your attention and thought. Tackle them in separate
+study periods, you may require several hours for each.
+We suggest that the modules be studied one after the other, since they are
+linked by a common theme. You will gain more from them if you have
+first carried out work on the law of contract. You will then have a clearer
+picture into which to paint these topics. Subsequent units are written on
+the assumption that you have completed previous units.
+Each study unit consists of one week’s work and includes specific
+Learning Outcomes, directions for study, reading materials and SelfAssessment Exercises (SAE). Together, these exercises will assist you in
+achieving the stated Learning Outcomes of the individual units and of the
+course.
+REFERENCES / FURTHER READING
+References and further reading materials are provided at the end of each
+study unit. The need to consult these materials cannot be overemphasised
+to deepen and broaden understanding of the issues at stake. You should
+read them where so directed before attempting the exercise.
+ASSESSMENT
+There are two aspects of the assessment of this course, the Tutor-Marked
+Assignments and a written examination. In doing these assignments you
+are expected to apply knowledge acquired during the course. The
+v
+
+CLL 809
+
+COURSE GUIDE
+
+assignments must be submitted to your tutor for formal assessment in
+accordance with the deadlines stated in the presentation schedule and the
+Assignment file. The work that you submit to your tutor for assessment
+will count for 30% of your total score
+SELF-ASSESSMENT EXERCISES
+Self-assessment questions are raised at the end of each module to measure
+the level of successful engagement with the legal issues covered. The
+answers in the body of the main text are distilled and put up at the end of
+the course material. This will enable you to understand and apply legal
+principles to practical situations in resolving legal matters in the field of
+marine insurance law.
+FINAL EXAMINATION AND GRADING
+The duration of the final examination for this course is three hours and
+will carry 70% of the total course grade. The examination will consist of
+questions, which reflect the kinds of self-assessment exercises and the
+tutor marked problems you have previously encountered. All aspects of
+the course will be assessed. You should use the time between completing
+the last unit and taking the examination to revise the entire course. You
+may find it useful to review yourself assessment exercises and tutor
+marked assignments before the examination.
+COURSE SCORE DISTRIBUTION
+The following table lays out how the actual course marking is broken
+down.
+Assessment
+Marks
+Assignments 1-4 (the best three of Four assignments. Best three
+all the assignments submitted)
+marks of the four counts at 30%
+of course marks.
+Final examination
+70% of overall course score
+Total
+100% of course score.
+Course Overview and Presentation Schedule
+Module /
+Title of Work
+Weeks Assessment
+Unit
+Activity
+(End of
+Unit)
+Assignment
+MODULE NATURE OF MARINE
+1
+1
+INSURANCE LAW
+Unit 1
+Importance of Marine Insurance
+Unit 2
+Meaning of Marine Insurance
+Contract
+
+vi
+
+CLL 809
+
+COURSE GUIDE
+
+Unit 3
+
+Nature of Marine Insurance
+Contract
+MODULE HISTORICAL
+2
+DEVELOPMENT OF
+MARINE INSURANCE
+Unit 1
+Pre-Colonial Era
+Unit 2
+Post-Colonial Era
+Unit 3
+Institutional Framework for the
+Regulation of Marine Insurance
+Law in Nigeria
+MODULE CLASSIFICATION OF
+3
+MARINE INSURANCE
+Unit 1
+Mutual Insurance and
+Commercial Insurance
+Unit 2
+Kinds of Marine Policies
+MODULE GENERAL PRINCIPLES OF
+4
+MARINE INSURANCE
+Unit 1
+Good faith (Uberrimae Fidei)
+Unit 2
+Insurable Interest
+Unit 3
+Subrogation
+Unit 4
+Double Insurance and
+Contribution
+
+Assignment
+2
+
+Assignment
+3
+
+Assignment
+4
+
+HOW TO GET THE MOST FROM THE COURSE
+It is very important that the discussion on this course is participatory. It is
+equally important that the references are consulted. The effusive
+references to provisions of the Marine Insurance Act, 2004 in the course
+guide is to enable you become very familiar with the law.
+TUTORS AND TUTORIALS
+There are 11 hours of tutorials provided in support of this course. You
+will be notified of the dates, times and location of the tutorials, together
+with the name and phone number of your tutor, as soon as you are
+allocated a tutorial group. Your tutor will mark and comment on your
+assignments. Keep a close watch on your progress and on any difficulties
+you might encounter. Your tutor may help and provide assistance to you
+during the course. You must send your Tutor Marked Assignments to
+your tutor well before the due date. They will be marked by your tutor
+and returned to you as soon as possible.
+Please do not hesitate to contact your tutor by telephone or e-mail if:
+
+
+You do not understand any part of the study units or the assigned
+readings.
+vii
+
+CLL 809
+
+
+
+
+COURSE GUIDE
+
+You have difficulty with the self-assessment exercises.
+You have a question or a problem with an assignment, with your
+tutor’s comments on an assignment or with the grading of an
+assignment.
+
+You should try your best to attend the tutorials. This is the only chance to
+have face to face contact with your tutor and ask questions which are
+answered instantly. You can raise any problem encountered in the course
+of your study. To gain the maximum benefit from course tutorials, prepare
+a question list before attending them. You will gain a lot from
+participating actively.
+
+viii
+
+CLL 809
+
+COURSE GUIDE
+
+Module / Unit
+MODULE 1 NATURE OF MARINE INSURANCE
+LAW
+ Unit 1 Importance of Marine Insurance
+ Unit 2 Meaning of Marine Insurance Contract
+ Unit 3 Nature of Marine Insurance Contract
+
+MODULE 2 HISTORICAL DEVELOPMENT OF
+MARINE INSURANCE
+ Unit 1 Pre-Colonial Era
+ Unit 2 Post-Independence Era
+ Unit 3 Institutional Framework for the Regulation of
+Marine Insurance in Nigeria
+
+Page
+13
+19
+23
+
+28
+33
+37
+
+MODULE 3 CLASSIFICATION OF MARINE
+INSURANCE
+ Unit 1 Mutual Insurance and Commercial Insurance
+ Unit 2 Kinds of Marine Policies
+
+43
+46
+
+MODULE 4 GENERAL PRINCIPLES OF MARINE
+INSURANCE
+ Unit 1 Good faith (Uberrimae Fidei)
+ Unit 2 Insurable Interest
+ Unit 3 Subrogation
+ Unit 4 Double Insurance and Contribution
+
+49
+54
+58
+61
+
+ix
+
+MAIN
+COURSE
+
+Module 1
+
+Nature of Marine Insurance Law
+
+Unit 1
+Unit 2
+Unit 3
+
+Importance of Marine Insurance……
+1
+Meaning of Marine Insurance Contract…1
+Nature of Marine Insurance Contract…. 8
+
+Module 2
+
+Historical Development of Marine
+Insurance………………………….
+
+Unit 1
+Unit 2
+Unit 3
+
+16
+
+Pre-colonial Era……………………
+Post-Colonial Era…………………..
+Institutional Framework for the
+Regulation of Marine Insurance
+Law in Nigeria………………………
+
+16
+22
+
+Module 3
+
+Classification of Marine Insurance
+
+31
+
+Unit 1
+
+Mutual Insurance and Commercial
+Insurance…………………………….
+Kinds of Marine Policies…………….
+
+31
+35
+
+General Principles of Marine
+Insurance……………………………
+
+39
+
+Good Faith (Uberrimae Fidei)………..
+Insurable Interest……………………..
+Subrogation…………………………..
+Double Insurance and Contribution….
+
+42
+44
+46
+48
+
+Unit 2
+Module 4
+
+Unit 1
+Unit 2
+Unit 3
+Unit 4
+
+29
+
+CLL809
+
+MODULE 1
+
+MODULE 1
+UNIT 1
+
+NATURE OF MARINE INSURANCE LAW
+
+IMPORTANCE OF MARINE INSURANCE
+
+UNIT STRUCTURE
+1.1
+Introduction
+1.2
+Learning Outcomes
+1.3
+Importance of Marine Insurance
+1.3.1 Benefits
+1.4
+Risks and Features of Marine Insurance
+1.5
+Summary
+1.6
+References/Further Reading/Web Sources
+1.7
+Possible Answers to Self-Assessment Exercises
+
+1.1 Introduction
+Generally, this module shows why the law of marine insurance occupies
+a pride of place in Nigeria’s legal system and in the legal systems of all
+serious nations of the world Maritime adventure has tremendous benefits
+to nations of the world. It is however fraught with risks that are
+mitigated by marine insurance.
+
+1.2 Learning Outcome
+By the end of this unit, you will be able to:
+ discuss the contributions marine insurance makes to a country’s
+economy and global relations.
+
+1.3 Importance of Marine Insurance
+Marine insurance has everything to do with maritime activities. Coastal
+nations are directly in the frontline of marine insurance business. Nigeria
+is a coastal country with large inland waterways to complement. The
+ocean and waterways provide marine transport for goods, services and
+hospitality. The country is a major player in global maritime industry.
+Nigeria’s major export earning is from crude oil sales transported across
+the sea to trading partners. Plants, machinery and technological
+equipment are imported through the country’s waterways. There is no
+gainsaying the fact that marine insurance bears directly on Nigeria’s
+economy as a maritime hub. What then are the benefits of marine
+insurance?
+
+1
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+1.3.1 Benefits
+1.3.1 Marine Insurance is a Major Boost to Maritime Activities
+through Loss Mitigation
+
+It enables the ship owner, buyer and seller of goods and financiers to
+carry on their business while relieving themselves of the profound fear
+of burdensome financial consequences of assets loss. Hull and
+machinery coverage is designed to insure risks to the vessel itself.
+Modern commercial ships are larger and more valuable than before in
+terms of financial outlay. These vessels are often mortgaged and the
+financial entities that financed the purchase or construction may require
+the ship owners to maintain highly rated hull and machinery insurance
+covering the vessel and its equipment. The cargo carried on the vessel is
+often highly valuable. Modern container vessels can carry large numbers
+of containers, bulk carriers may carriers may hold hundreds of thousands
+of tons of commodities, and supertankers may store up millions of
+barrels of oil. Such high value cargo underscores the need for insurance
+coverage. Considering what is involved, insurers may syndicate the
+coverage by the involvement of others through co-insurance or reinsurance especially when the value is high and consequently the risks
+for one firm to adequately provide a cover. Commercial maritime
+voyages also carry risks to third parties, including the possibility of
+collision, personal injury, marine pollution and other open liabilities.
+Marine insurance safeguards against these perils.
+1.3.2 The nation’s maritime sector is a major employer of labour and
+contributor to the country’s gross domestic product. Stevedoring
+companies and allied businesses engage labour and stimulate
+economic activities thereby. Credit financiers are directly and
+indirectly impacted upon as a result of maritime activities through
+the provision of letters of credit and different financial
+accommodation rendered to the sector. All these exist and play
+their distinctive economic roles because the indeterminate risks
+of maritime life are hedged by marine insurance.
+1.3.3 Nations operating port activities with commercial and hospitality
+travels into each other’s port have mutual interest to protect and
+respect for each other’s economic interests. This aids
+international relations and co-operations. Marine insurance
+provides a leverage and backup for international investments. The
+assurance of indemnity makes international trade worth the risk
+and provides an encouragement for trade and finance. Modern
+marine insurance is more than a tool of risk management.
+2
+
+CLL809
+
+MODULE 1
+
+1.3.4 Marine insurance has become a tool for preserving international
+order and peace. Recently the international community has
+resorted to marine insurance prohibitions to address security
+concerns emanating from Iran and North Korea. In 2002 and
+2006, Iran publicly announced progress in building nuclear
+reactor and enriched uranium. This was followed with missile
+tests which were randomly condemned as threat to world peace.
+In 2010, the United Nations Security Council issued a wide
+variety of sanctions against Iran in Resolution 1929. The
+resolution banned the supply of enrichment related technology to
+Iran and called on all States to inspect and seize vessels
+reasonably believed to be involved in the prohibited nuclear
+activities. The resolution also called on States to prevent the
+provision of financial services, including insurance or reinsurance
+when there are reasonable grounds to believe these services
+would contribute to Iran’s weapon’s programme. A United
+Kingdom Treasury Order in 2009 banned all persons operating in
+the UK financial sector from transacting any business with the
+Iranian national carrier, the Islamic Republic of Iran Shipping
+Lines. This effectively shut out the liner’s access to the Lloyds of
+London marine insurance market. This had a considerable impact
+on the vessel’s ability to maintain adequate insurance and engage
+in lucrative maritime trade. In like manner, the European Union
+in Article 11, EU Council Regulation 267/2012 states “It shall be
+prohibited…to provide, directly or indirectly, financing or
+financial assistance, including financial derivatives, as well as
+insurance and re-insurance related to the import, purchase or
+transport of crude oil and petroleum products of Iranian origin or
+that have been imported from Iran” This had considerable impact
+on the Iranian economy and the country had to return to the
+negotiating table on the matter leading to the Joint
+Comprehensive Plan of Action (JCPOA) with the UN in 2015
+requiring the country to cease uranium enrichment, dismantle its
+nuclear programme and allow inspection by the UN International
+Atomic Energy Agency in return for lifting of sanctions. In Arash
+Shipping v. Groupama [2011] EWCA (Civ) 620(Eng.) a
+composite insurance policy over the Iranian fleet of oil tankers,
+one of the largest oil tankers in the world, was cancelled five
+months after the policy was affected following the coming into
+effect of the European Union Council Regulation (EU No.961,
+2010 imposing sanctions on Iran. The notices of cancellation of
+policies served by the co-insurers of the policies were held valid
+and effective.
+
+3
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+1.3.5 In the 1990s, North Korea up scaled plutonium enrichment in
+apparent pursuit of nuclear weapon, began to engage in the
+testing of weapons of mass destruction and threatened to
+withdraw from the nuclear non-proliferation treaty. In response
+the UN Security Council in Resolution 2094 in 2013 mandated
+“Member States shall not provide public financial support for
+trade with the Democratic People’s Republic of Korea including
+granting of export credits, guarantees or insurance to their
+national or entities involved in such trade if the support would
+contribute to North Korea’s weapon development. Following
+North Korea’s recalcitrance in 2016 when it announced a further
+test of hydrogen bomb, the UN Security Council by Resolution
+2270 prohibited member States from registering any vessel or
+ensuring any vessel carry the Flag of the DPRK. This was
+extended by Resolution 2321 requiring member States to prohibit
+“insurance or reinsurance services to vessels owned, controlled or
+operated, including through illicit means, by the DPRK”
+Resolution 2397 directed member states to prohibit its nationals
+or entities registered under its laws from providing insurance or
+re-insurance services to vessels having business relations with the
+DPRK.
+1.3.6 The rationale for the use of marine insurance prohibitions for
+sanctions purposes is that by limiting access to this integral
+source of risk management, the countries find it more difficult to
+access maritime transport or to generate trade revenue to meet
+strategic national development. These marine insurance
+prohibitions have had hurtful economic impact on these countries
+that have shown willingness to return to negotiations on the
+issues at stake.
+
+1.4
+
+Risk and Features of Marine Insurance
+
+1.4.1 The associated risks of maritime adventure are very huge and
+unless hedged, successful maritime activities are at risk. Here, the
+subject of insurance comes to the rescue. The subject of insurance
+is concerned with risks management and risks financing. Its
+primary function is risk transference and distribution. By
+effecting insurance, the insured/assured transfers the risk of
+economic losses to the insurer who in turn redistributes the risk
+through investment and reinsurance. The insured is actually
+buying an invisible product called “peace of mind”. With huge
+financial outlay in vessels acquisition, commodities and
+manufactured goods/plants, owners and creditors contemplate,
+for good reasons, some protection to mitigate possible losses in
+
+4
+
+CLL809
+
+MODULE 1
+
+the event of accident. Marine insurance provides that financial
+cushioning in the event of loss or damage.
+
+1.4.2 A distinctive feature of marine insurance is its international
+dimensions. The coverage on goods shipped by sea usually
+involves transport between one country and another. The
+consignor/seller of the goods and the consignee/buyer are often in
+different countries. The insurer of the vessel (hull) or goods
+(cargo) may be in a third country having no contact with the
+shipment except the provision of the contract only. For reasons of
+capacity the assured, especially in developing countries may
+prefer to deal with insurers in developed countries (UK, US,
+Germany) with the capacity to assume the weight of the financial
+risk involved. Consequently, the regulation of maritime and
+marine insurance is a subject of national and international
+interests. In Arash Shipping v. Groupama [2011] EWCA (Civ)
+620(Eng.) the composite insurance policy taken out on Iranian
+fleet of oil tankers was underwritten by a syndicate of insurance
+firms in France, Cyprus, Sweden, UK, Bermuda and Republic of
+Korea.
+1.4.3 Furthermore, the Article VII (1) International Convention on
+Civil Liability for Oil Pollution Damage 1992 provides that the
+owner of a ship registered in a contracting State and carrying
+more than 2,000 tons of oil as cargo shall be required to maintain
+insurance to cover his liability from Oil pollution damage under
+the circumstance. The import of this convention is that ship
+owners in Nigeria are compelled to procure the necessary
+protection and Indemnity insurance cover for their vessel that are
+engaged in the carriage of oil as cargo in order to undertake the
+liability that could arise from any oil spill from the vessel
+operation. Also, the Bunkers Convention 2001 requires registered
+owner of a ship having gross tonnage greater than 1000 to
+maintain insurance to cover the liability of the registered owner
+for pollution damage. These conventions are applicable in
+Nigeria by virtue of part XXIII, Merchant shipping Act, 2007.
+The subject of marine insurance in Nigeria has national and
+international implication for the country and thus deserving of
+serious engagement with.
+1.5
+
+Summary
+
+Marine insurance fosters maritime adventure. Consequently, Nigeria and
+other nations of the world take marine insurance seriously. In addition to
+providing enabling environment, it is also the subject of legal regulation.
+5
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+Marine insurance is a major boost to maritime activities through loss
+mitigation. It sustains the maritime sector which is a major employer of
+labour and contributor to a country’s gross domestic product. Marine
+insurance prohibition has become a tool for preserving international
+order and peace. It has also enabled Nigeria comply with her
+international obligations with respect to some maritime activities.
+
+1.6
+
+References/Further Reading/Web Sources
+
+Richard L. Kilpatrick, Jr “Marine Insurance Prohibitions in
+Contemporary Economic Warfare” International Law Series,
+Stockton Center for International Law, Volume 95,2019, 272.
+Dr. Oluwole Akinyeye “Evaluating Potentials of the Legislative
+Framework Impacting on the Nigerian Marine Insurance
+Industry” The Maritime Newsletter, Olisa Agbakoba Legal,
+https://oal.law.2018/01
+Birds, J. Birds Modern Insurance Law, Sweet & Maxwell. 2004(ISBN
+0-42187800-2)
+Nwokoro I.A and Ndikom Obed B.C. “An Assessment of the Condition
+of Marine Insurance to the Development of Insurance Markets in
+Nigeria” Journal of Geography and Regional Planning, Vol.5 (8),
+April,
+2012.
+Available
+on
+line
+http://www.academicjournals.org/JGRP.
+Prof. Marko Pavliha Overview of Maritime Insurance Law, IMO
+International Maritime Law Institute.
+
+6
+
+CLL809
+
+MODULE 1
+
+UNIT 2
+
+MEANING OF MARINE INSURANCE
+
+UNIT STRUCTURE
+2.1
+Introduction
+2.2
+Learning Outcomes
+2.3
+Meaning of Marine Insurance
+2.4
+Definitions
+2.4.1 Textual Definitions
+2.4.2 Statutory Definitions
+2.5
+Summary
+2.6
+References/Further Reading/Web Sources
+2.7
+Possible Answers to Self-Assessment Exercises
+
+2.1 Introduction
+Marine insurance is an arrangement where at an agreed price, a party
+called the insurer undertakes a risk of marine adventure on behalf of
+another called the insured or assured. Marine insurance is essentially
+about risk management.
+
+2.2 Learning Outcome
+By the end of this unit, you will be able to:
+ state the nature of the obligations exchanged between the parties to a
+marine insurance.
+
+2.3
+
+Meaning of Marine Insurance
+2.3.1 Generally, an insurance contract can be described as a
+contract whereby the party called the “insurer” promises in
+return for a money consideration called the “premium” to
+pay to the other party called the “insured” or the “assured”
+a sum of money or to provide him with some
+corresponding benefit upon the occurrence of one or more
+specified events. It is largely driven by the principles of
+contribution and the law of large numbers. It may be
+defined with emphasis on its financial or legal nature.
+Because insurance allows losses to be predicted in advance
+of its occurring, it allows the cost to be financed and
+redistributed in advance of their occurring by collecting
+premium payment from the assured/insured in exchange for
+promise to be indemnified in the event of a loss. In most
+cases only a small percentage of the losses do occur.
+
+7
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+2.3.2 Etymologically, ‘marine’ is derived from the Latin word ‘mare’
+which literally means ‘sea’. Marine is an adjective, meaning ‘of
+or pertaining to the sea’. Marine insurance is a specie of
+insurance. It has been variously defined.
+2.4
+
+Definitions of Marine Insurance
+2.4.1 Definition by Text Authors
+According to Agomo
+“Insurance is a contract where one party called the
+insurer for a consideration called premium paid by
+another called insured, agrees to pay money or to
+provide compensation in kind to the insured or his
+beneficiary on the happening of the insured event”
+
+To R. Thomas (Cited in “Overview of Marine Insurance Law” by Prof.
+Dr. Marko Pavliha)
+“The Contract of Marine Insurance is a special
+(insurance) contract of indemnity which protects
+against physical and other losses to moveable
+property and associated interests, as well as against
+liabilities occurring or arising during the course of a
+sea voyage”
+In the words of Dr. Oluwole Akinyeye
+“Marine insurance can rightly be described as the
+matriarch of all insurance. It can be defined as a
+contractual relationship in which an insurer agrees
+to undertake the liability flowing from maritime
+risks or perils that could arise from the
+entrepreneurial activities of an insured ship owner
+or maritime trader, upon the payment of a
+consideration referred to as a premium”
+2.4.2 Statutory Definition
+According to Section 3, Marine Insurance Act, CAP M2, Laws of
+the Federation, 2004
+“A contract of marine insurance is a contract
+whereby the insurer undertakes to indemnify the
+assured, in a manner and to the extent thereby
+agreed, against marine losses, that is to say, the
+losses incidental to marine adventure1
+
+8
+
+CLL809
+
+MODULE 1
+
+This definition mirrors section 1, UK Marine Insurance Act, 1906 and
+the Indian Marine Insurance Act, 1963. A more detail definition is to be
+seen in the old Indian Insurance Act, 1938. Section 2 (13-A) defines
+marine insurance business as
+“The business of effecting contracts of insurance
+upon vessels of any description, including cargoes,
+freights and other interest, goods, wares,
+merchandise and property whatever description
+insured for any transit by land or water or both,
+and whether or not including warehouse risks or
+similar risks in addition or incidental to such
+transit, and includes any other risk customarily
+included among the risk insured against in marine
+insurance policies”
+As stated under the Marine Insurance Act, 2004 (MIA), it has so much
+to do with losses incidental to marine adventure. Marine adventure is a
+voyage where the ship or goods on board/freight are exposed to
+maritime perils. Maritime perils mean the perils consequent on or
+incidental to navigation on the sea. This includes the risks of fire, war,
+pirates, thieves, barratry, loss or damage caused by any latent defect in
+the machinery of hull, negligence of the master, officers, crew or pilot,
+repairers, charterers; pollution Hazards; and collision liability. The risk
+of loss may extend to financial losses, such as those resulting from loss
+of freight, passage money, commission or profit as well as certain types
+of liabilities incurred to third parties. These risks are subjects of marine
+insurance coverage. Marine insurance in terms of scope may be ocean
+marine insurance or inland marine insurance.
+
+2.5
+
+Summary
+
+Marine insurance can be severally defined from the perspectives of
+textbook authors, case law and legislation. Central to the various
+definitions is the fact that it is a contract between the assured and the
+insurer, where for a price called the premium, the insurer undertakes to
+indemnify the assured against losses associated on a maritime adventure.
+Marine insurance hedges against risks in maritime adventures. The risks
+contemplated may relate to the ship, consignments or related risks.
+
+9
+
+CLL809
+
+2.6
+
+LAW OF MARINE INSURANCE I
+
+References/Further Readings/Web Sources
+
+Robert H. Brown, Witherby Encyclopedic Dictionary of Marine
+Insurance: Insurance Terms and Clauses, Dictionary of Marine,
+2003, Witherby & Co. Ltd, ISBN 978-1856092227
+Prudential Insurance Company v. IRC (1904)2KB 558; Lead way
+Assurance Co. Ltd v. J.U.C. Ltd (2005) 5 NWLR, Pt.919,539:
+Ajaokuta Steel Co. v. Corporate Insurers Ltd (2004) 16
+NWLR,Pt.899,369: Sun Insurance Nig. PLC v. Umez
+Engineering
+Construction Company Ltd. (2015). 11 NWLR,Pt.1471, 576.
+1)
+C.K.Agomo (2003) Modern Nigerian Law of Insurance
+(University of Lagos Press, Lagos) p.11.
+
+10
+
+CLL809
+
+MODULE 1
+
+UNIT 3
+
+NATURE OF MARINE INSURANCE
+
+UNIT STRUCTURE
+3.1
+Introduction
+3.2
+Learning Outcome
+3.3
+Nature of Marine Insurance
+3.3.1 Contractual
+3.3.2 Aleatory
+3.3.3 Indemnity
+3.4
+Summary
+3.5
+References/Further Reading/Web Sources
+3.6
+Possible Answers to Self-Assessment Exercises
+
+3.1 Introduction
+Marine insurance has certain peculiar features which confers on its
+justiciability. These features also distinguished it from other legal
+relationship.
+
+3.2
+
+Learning Outcome
+
+By the end of this unit, you should be to:
+ identify and differentiate marine insurance from other legal
+relationships.
+
+3.3
+
+Nature of Marine Insurance
+3.3.1 Marine Insurance is Contractual
+The general principles of the law of contract apply and parties
+can negotiate their terms. The immediate parties to the contract
+are the insured/assured and the insurer. The parties must have
+contractual capacities. The insured must have the legal capacity
+to enter into the contract. The insurer must also have the legal
+capacity. In Nigeria, the insurer must be an incorporated limited
+liability company and duly registered by the National Insurance
+Commission or a statutory corporation for the purpose.
+
+3.3.2 Contracts of Insurance are Aleatory
+The happening of the event insured against is uncertain. They are,
+however, not wagering, gambling or investment contract where the
+insured may contemplate a profit from the arrangement.
+
+11
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+3.3.3 Marine Insurance is Contract of Indemnity
+The basic principle of insurance is that the insured is to be indemnified
+for the pecuniary loss suffered under the contract. In the words of Lord
+Ellenborough in Brotherston v. Barber (1816) 5 M & S, 418, 425
+“The great principle of the law of insurance is that
+it is a contract for indemnity. The underwriter does
+not stipulate under any circumstance, to become
+the purchaser of the subject matter insured; it is
+not supposed to be in his contemplation: he is to
+indemnify only”
+The assured is to be placed in the same position or near as possible as he
+was before the happening of the event insured against. Explaining the
+underlying philosophy, Brown stated:
+In theory, the purpose of any form of insurance is to replace that which
+has been lost. It is not intended that the assured should make a profit
+from his loss. But that he should merely be in no worse position than he
+was before the loss occurred…it is not practicable to expect the insurer
+to replace an object which is lost, nor is it reasonable to expect him to
+remove the damage thus restoring the damaged object to the whole
+sound object. As a compromise, any recompense must be of a monetary
+nature and this system of reimbursement is called “Indemnity”
+Ideally, the insured should be compensated only to the extent of his loss.
+In practice, however, this is not always the case. Thus, the policy of
+insurance is not a perfect contract of indemnity. In Irving v. Manning
+(1847) 1 HLC 287, a valued policy of insurance put the agreed value of
+the vessel, General Kyd, at 17,000 pounds. The vessel was severely
+damaged by storms and the owner deemed the ship a total loss because it
+was estimated that the cost of repairs would have amounted to 10,500
+pounds, while her market value, on being repaired was 9,000 pounds.
+The Court held that the assured was entitled to the insured value of
+17,000 pounds. According to Patteson J
+“A policy of insurance is not a perfect contract of
+indemnity. It must be taken with this
+qualification that the parties may agree
+beforehand in estimating the value of the subject
+assured, by way of liquidated damages, as indeed
+they may in any other contract to indemnify”.
+
+12
+
+CLL809
+
+MODULE 1
+
+In Richards v Forestal Land, Timber and Railway Co. Ltd [1941]3
+All ER 62, HL, goods on the board of a German vessel were lost at the
+outset of the second world war when the ship was scuttled in order to
+avoid capture. On the purpose of the Insurance Act, Lord Wright stated:
+The law is merely dealing with a particular branch of the law of
+contracts-namely, those of marine insurance. Subject to various
+imperative provisions or prohibitions and general rules of the common
+law, the parties are free to make their own contract and to exclude or
+vary the statutory terms. The object both of the legislature and of the
+courts has been to give effect to the idea of indemnity, which is the basic
+principle of insurance, and to apply it to the diverse complications of
+fact and law in respect of which it has to operate. In this way, the law
+merchant has solved or sought to solve the manifold problems which
+have been presented by insurances of marine adventures.
+While the overriding principle of insurance is that of indemnification for
+losses sustained, the parties are free to contract on whatever terms they
+think fit. Common law and the Act endorse the fact that the value fixed
+by the policy is conclusive of the insurable value of the subject matter
+insured. This allows the parties to set the insurable value at the figure
+they so wish, provided that any over valuation does not offend the duty
+of good faith, the rule on disclosure of material fact, fraud,
+misrepresentation or the rule against wager. In practice, a contract of
+insurance is by no means a complete indemnity but indemnity is always
+the basis of the contract. In fact, it is around it that the other fundamental
+principles of marine insurance like double insurance, the right to
+contribution, return of premium, and subrogation coalesce.
+
+3.3.4 Marine Insurance Contract is Regulated by Law
+The agreement of the assured and insurer is core to marine insurance.
+This is however within the context of enabling laws. The Marine
+Insurance Act, 2004 (MIA) is the primary legislation on the subject of
+marine insurance in Nigeria. The Insurance Act 2003 and the National
+Insurance Commission Act, 2004 provide prudential and conduct of
+business regulations for the entire insurance industry in Nigeria, of
+which marine insurance is subset. Although there is absence of
+international law on marine insurance, several countries have enacted
+domestic legislation on the subject. In some countries, the regulation
+exists primarily in the form of specific enactment on marine insurance or
+as a section contained in a larger insurance enactment. In some civil law
+countries, the law exists as a chapter in the national commercial or
+maritime code. Several countries have substantially adopted the UK
+Marine Act 1906, complemented by the general law of contract. In these
+jurisdictions, their exact content may vary; certain fundamentals of
+marine insurance constitute their subjects of coverage. These include
+13
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+insurable interest, disclosures and representations, form and content of
+policy, double insurance, premium, nature of policies, types of risks,
+assignment of policy, claims etc. Considering the contractual nature of
+marine insurance, the law gives large discretion to the parties in drawing
+up the terms and conditions of their contract. This allows industry
+practice to guide the parties in the formation of marine insurance.
+
+SELF-ASSESSMENT EXERCISE 1
+What is peculiar about marine insurance and why should a developing Country
+like Nigeria attach importance to the subject of marine insurance?
+
+3.4 Summary
+Marine insurance is contractual; the rules of contract apply. The assured
+and insured must have requisite legal capacities to enter into the
+contract. The obligation is essentially hinged on the happening of
+uncertain event but marine insurance is not gambling, wagering or
+investment contract. On the happening of the risk(s) insured against, the
+assured can only be indemnified to the extent stipulated by law. The
+Marine Insurance Act, Cap M2, 2004 regulate the subject of marine
+insurance in Nigeria. Marine insurance is a legal relationship between
+the assured and the insurer. This relationship has some distinct features.
+It is based on the happening of uncertain event(s) such that the assured
+may be restored to the position he was before the happening of the event
+in what is called indemnity.
+
+3.5 References/Further Reading/Web Sources
+Marine Insurance Act, 1906 UK; The Marine Insurance Act, 1963 India.
+Chapter 11, Marine Insurance in the Insurance Act,1914, Philippines.
+Title VIII, Commercial Code, Venezuela.
+Insurance Act, 1977, Iran.
+Noussia, K. (2007) The Principle of Indemnity in Marine Insurance
+Contract: a comparative approach
+R.H.Brown, Marine Insurance-The Principles (London: Witherby and
+Co.Ltd,1970) p.19.
+14
+
+CLL809
+
+MODULE 1
+
+3.6 Possible Answer to Self-Assessment Exercise 1
+i. Nigeria is a coastal country and a major player in global maritime industry.
+Marine insurance enhances this industry and thus a major contributor to her
+GDP.
+ii. Marine Insurance aids international trade. Nigeria’s major export earning is from
+crude oil sales transported across the sea to trading partners.
+iii. Marine insurance impacts on balance of trade.
+iv. Marine insurance industry is a major employer of labour.
+
+v. Marine insurance industry facilitates international relations
+
+15
+
+CLL809
+
+MODULE 2
+
+LAW OF MARINE INSURANCE I
+
+HISTORICAL DEVELOPMENT OF THE
+LAW OF MARINE INSURANCE
+
+UNIT 1 PRE –INDEPENDENCE ERA
+UNIT STRUCTURE
+1.1
+1.2
+1.3
+1.4
+1.5
+1.6
+
+Introduction
+Learning Outcome
+Pre-Independence Era
+Summary
+References/Further Reading/Web Sources
+Possible Answers to Self-Assessment Exercises
+
+1.1 Introduction
+Law of Marine Insurance in Nigeria has ancient origin. By facts of
+history the UK Marine Insurance Act, 1906 has influence the
+development of the law on the subject in so many other jurisdictions. By
+the same token the British insurance market as largely represented by
+the Lloyds of London has had great impact in the practice and
+dominance of marine insurance globally. The history of marine
+insurance is inextricably tied to activities of sea farers and maritime
+adventurers. At various times the marine insurance industry has been
+subject to some form of regulation. The UK Marine Insurance Act, 1906
+has become the watershed in the history of the law of marine insurance.
+1.2 Learning Outcome
+By the end of this unit, you will be able to:
+ discuss the source of the Marine Insurance Act, 2004.
+1.3 Pre-Independence Era
+1.3.1 Marine insurance is the oldest form of welfare indemnity
+scheme, and it is known to have been practiced for over 800
+years. According to Dr. Pomintr Sooksripaisarnkit “Marine
+insurance is one of the most primitive forms of any insurance
+arrangements on earth”. There are several claims to the origin
+of marine insurance. The practice has been linked to the
+practice of Bottomry in the ancient records of Babylonians
+and the Code of Hammurabi where manufacturers of goods
+advanced their materials to traders who gave them receipts
+for the materials and a rate of interest was agreed upon. If the
+trader was robbed during the journey, he would be freed from
+the debt but if he came back, he would pay both the value of
+the materials and the interest. The early maritime merchants
+16
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+in Greece, the Carthaginians, Phoenicians, Romans and the
+Lombards secured vessels and goods carried on board of their
+vessels. There is evidence that around the 7th Century BC,
+there was a Phoenician maritime law covering general
+average and marine insurance. Traces of marine voyage
+insurance were found in the Talmuds of Jerusalem and
+Babylon. A credible account suggests that the Jews in
+Lombardy around the 12th Century had a scheme for the
+protection of their properties in France. In 1601 “An Act
+concerning Matters of Assurances Amongst Merchants” was
+the first statute on marine insurance in UK and the Act dared
+to establish a court of insurance for marine insurance
+disputes.
+The growth in ocean trade provided the needed impetus for
+marine insurance. In the pre-colonial times very wealthy
+merchants alone or in consortium with others undertook
+continental expeditions for military and trade purposes.
+1.3.2 It was quite common for merchants to exercise political power in
+trust for their home government over the territories they were
+granted monopolies by charter. A familiar example was the East
+India Company which in its hey days was said to have conquered
+a sub-continent, ruled over 250 million people, raised and
+supported the largest standing army in the world, deployed 43
+war ships and employed its own bishops. Another example was
+the Royal Niger Company which administered a large part of
+today’s Nigeria.
+1.3.3 British merchant fleets dominated world tonnage at the time. The
+UK’s prominence in general commerce and finance gradually
+made London the international market centre for marine
+insurance. For this reason, a distinctive feature of marine
+insurance is the profound impact the British market have had on
+the conduct of marine insurance internationally. The UK Marine
+Insurance Act, 1906 is the main law from which so many
+jurisdictions have sourced their laws on this subject.
+1.3.4 Legal and documentary aspects of marine insurance were the
+subject of consideration by the United Nations Commission on
+Trade and Development (UNCTAD) at its very first session of its
+conference in Geneva 1964. It was recommended that the
+competent international organisations should examine the
+question of the adoption of uniform clauses for marine, land and
+air transport insurance. At the second UNCTAD Conference in
+New Delhi in 1968, developing countries expressed concerns of
+17
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+neglect in the body of shipping laws at the time and thus the need
+for review. Marine insurance was an area contemplated for
+drafting appropriate conventions or revising existing legislation.
+Consequently, the UNCTAD Committee on Shipping set up a
+Working Group on International Shipping Legislation in 1969 to
+consider the simplification and unification of clauses in marine
+Insurance policies. The Working group prepared two separate
+reports; one on Marine cargo Insurance presented in 1975. The
+report contained descriptive analysis of marine cargo insurance,
+institutional aspects, role in world trade, analysis of the
+commercial and economic problems experienced by marine cargo
+insurance business in developing countries and recommendations
+for improvements to improve the balance of payment positions of
+the economies of developing countries. The second report
+considered hull and cargo insurance. It analysed marine insurance
+contractual relationship, the legislation, policy, conditions and
+practices that affects the process of obtaining insurance, system
+of rating, rights and duties of parties, an analysis of the effects of
+the absence of international legislation, particularly in developing
+countries and considers the possibility of developing an
+international legal base for marine insurance contract. The
+attempt by the UNCTAD Model Clauses on Marine Hull and
+Cargo Insurance 1984 to water down the monopoly of the
+London market and its Institute Clauses have not been effective
+and marine insurance stakeholders still prefer the Lloyd’s S.G
+Form (developed from the practice of Lloyds of London) and the
+Institute Clauses (developed from the practice of the Institute of
+London Underwriters).
+1.3.5 Traditionally the British insurance market has been considered to
+be the main marine insurance market in the world. The market
+consists of private entitles carrying on business in some major
+cities in UK especially in London and Liverpool. Prominently is
+the Lloyds of London. This is an association of insurers with
+unlimited personal liability for the risks underwritten. These
+insurers are grouped into syndicates with each under an
+underwriting agency who is responsible for appointing a
+specialist underwriter to accept risks on behalf of the other
+members. All risks are brought to the Lloyds syndicate through
+authorised intermediaries called Lloyds brokers. The London
+market also comprised of insurance corporations most of whom
+are members of the Institute of London Underwriters (ILU)
+formed in 1884 which furthers the interest of members in matters
+of marine insurance.
+
+18
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+1.3.6 The British market dominated for quite a while in international
+maritime and marine insurance and was later joined by the United
+States and Netherlands, France, Japan, Norway and Russia. This
+growth has also witnessed internationalisation of risk
+management. National markets in marine insurance may share
+risk coverage with the markets in other jurisdictions especially
+between developing and developed economies. This has given
+birth to international reinsurance companies carrying on
+wholesale insurance business and dealing with national market
+that undertake retail insurance businesses. Consequently, marine
+insurance now involves increasingly complex contractual
+relationships of assureds, assurers, co-insurers and reinsurers
+spread across numerous national boundaries raising issues of
+contract enforcement and conflict of laws.
+1.3.7 Currently there are no uniform international conditions for
+marine insurance; instead, varied policy forms produced by
+numerous national marine insurance markets are used. Of the
+variety, the policy form produced by the London Insurance
+market for hull and cargo insurance has gained some notoriety.
+The reason for this is the historical economic predominance of
+the British market for insurance placement on both direct and
+reinsurance basis particularly for developing countries and the
+high level of expertise existing on the subject and established
+precedent from practice over the years.
+
+1.4 Summary
+There is no gainsaying the fact that colonialism indeed gave the British a
+head starts in maritime adventure complemented by marine insurance
+business. Consequently, the law and practice of marine insurance have
+greatly been impacted upon by the British precedent. Marine Insurance is
+the oldest form of insurance business. As early as the 7th century,
+maritime adventures enjoyed some form of marine insurance protections.
+The Marine insurance Act, 1906 have become the main source of
+legislation on the subject from where other jurisdictions have drawn their
+laws on the subject. While the history of the law of marine insurance can
+be traced to different times and practices of different countries, the effect
+of the UK Marine Insurance Act, 1906 and the business of the Lloyd’s
+market underwriters are profound.
+
+19
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+1.5 References/Further Readings/Web Sources
+Dr. Pomintr Sooksripaisarnkit, Marine Insurance, Maritime Law and
+Practice in Hong Kong, (Dec.2015) Sweet and Maxwell, Asia,
+Chapter 8
+Nicholas Berketis The history of Marine Insurance-Its Origin Athen
+University of Economics & Business
+https://eclass.aueb.gr>file.php
+Professor Dr. Marko Pavliha(2010) “Overview of Marine Insurance
+Law”
+IMO
+International
+Maritime
+Law
+Institute
+(marko.pavliha@fpp.edu)
+The UK Marine Insurance Act,1906 came into force on 1st January,
+1907, had 96 sections and First Schedule- which is the Form of
+Policy: Lloyds S.G. policy and Rules for Construction of policy)
+Second Schedule (Enactments Repealed)
+The United Nations Commission on Trade and Development
+(UNCTAD) was established on December 30, 1965 by a United
+Nations General Assembly Resolution as a permanent organ of
+the General Assembly to promote international trade especially in
+emerging nations.
+See the Norwegian Marine Insurance Plan of 1964 and the Norwegian
+Insurance Plan for the Carriage of goods of 1967.
+http://www.lloydsoflondon.com
+The drafting of clauses for hull and cargo is carried out through the
+Institute of London Underwriters (ILU) Technical & Clauses
+Committee. Its 1982 Clauses significantly make clear and
+accurate some fundamental marine clauses possibly amending the
+old SG Form Clauses. The 1982 Clauses have further been
+reviewed by the Joint Cargo Committee of members of the
+International Underwriting Association and the Lloyds Market in
+2009.See www.imalloyds.com: www.rhlg.com
+
+20
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+UNIT 2
+
+POST–INDEPENDENCE ERA
+
+UNIT STRUCTURE
+2.1
+2.2
+2.3
+2.4
+2.5
+2.6
+
+Introduction
+Learning Outcomes
+Post-Independence Era
+Summary
+References/Further Reading/Web Sources
+Possible Answers to Self-Assessment Exercises
+
+2.1 Introduction
+Shortly after independence, Nigeria enacted a Marine Insurance Act to
+regulate insurance business in Nigeria. This has been followed by the
+establishment of an institutional body charged with regulating the
+insurance sector.
+
+2.2 Learning Outcomes
+By the end of this unit, you will be able to:
+ state the law regulating marine insurance in Nigeria
+ discuss the conduct of business regulations of the insurance industry
+in Nigeria.
+
+2.3 Post-Independence Era
+2.3.1 Nigeria is a coastal nation with very big waters to attract
+maritime activities. Slave trade and the exportation of raw
+materials were largely carried out through marine
+expeditions. Marine Insurance debuted in Nigeria around
+the early 20th century by the British colonialists to cater for
+risks that accompanied commercial activities of the
+European adventurers at the time. These persons effected
+their insurance policies with established insurers in the
+London insurance market. As time went on some British
+insurers appointed Nigerian representatives in the country as
+agents. This later gave way to full branch offices in Nigeria
+of parent companies in Britain. The first insurance company
+to open a full branch office in Nigeria was the Royal
+Exchange Assurance Company in 1921. Others companies
+followed subsequently. In 1969 and 1977 the National
+Insurance Corporation of Nigeria (NICON) and the Nigeria
+Reinsurance Corporation were established respectively. The
+first indigenous law on the subject was the Marine
+Insurance Act, 1961. This was followed by the Insurance
+Decree 1976 and the Insurance Decree 1991. In 1997, the
+21
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+Insurance Decree No.1 and National Insurance Commission
+Decree No. 2 were promulgated and later became known as
+Insurance Act, 1997 and the National Insurance
+Commission Act,1997.
+2.3.2 The Insurance Act, No.1, 1997 provided body of regulation for
+the entire insurance industry and the National Insurance
+Commission Act, No.2. 1997 established the National Insurance
+Commission as the apex regulatory body for insurance in Nigeria.
+These two enactments were subsequently integrated into the
+Laws of the Federation, 2004 as Insurance Act, Cap I18 and the
+National Insurance Commission Act, Cap N53. Instructively,
+section 67(1) of the Insurance Act compelled domestic insurance
+of goods to be imported into Nigeria. This was calculated to
+boost the domestic marine insurance market. The Insurance Act,
+1997 which was integrated into the laws of the Federation, 2004
+was repealed and replaced by the Insurance Act, 2003 which is
+the current law on the subject of insurance in Nigeria.
+2.3.3 The Insurance Act 2003 divides insurance businesses in Nigeria
+into two main classes: life Insurance business and general
+insurance business. Specifically, marine and aviation insurance
+business is a category of general insurance business. Section
+67(1) of the repealed Insurance Act, 1997 was retained under the
+Insurance Act, 2003. The section provides in full:
+(1)
+Subject to subsection 4 of this section, an insurance in
+respect of goods to be imported into Nigeria shall be made
+with an insurer registered under this Act.
+(2)
+Accordingly, the provisions of any law, contract or
+instrument shall be construed with such modifications,
+amendments and omissions, as would bring them into
+conformity with the general intendment of this section.
+(3)
+Without prejudice to the generality of the foregoing, every
+letter of credit or such similar document issued by any bank
+or other financial institution in Nigeria in respect of such
+goods shall be on a carriage and freight basis only.
+(4)
+An importer, broker or agent who effects any insurance
+otherwise than in compliance with the provisions of this
+section commits an offence and is liable on conviction to a
+fine of N500,000 Naira.
+This provision insists on domestic insurance of all goods
+imported into the country. For the bulk of cargo imported through
+ocean liners, such consignments must be insured with insurance
+firms registered under the Insurance Act, 2003. Insurance is an
+item on the Exclusive Legislative List of the Constitution of the
+Federal Republic of Nigeria 1999 as amended. Specifically, items
+22
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+33 and 36 are insurance and maritime shipping and navigation.
+Only the national Assembly can legislate on these matters.
+2.3.4 The legal regimes governing marine insurance are greatly
+impacted upon by the agreement of the parties in the marine
+insurance contract. In several countries applicable statutory rules
+are capable of being displaced by the parties’ contractual terms.
+In such cases, the national legislation is overridden on regular
+basis, either in large part or in its entirety, by provisions in the
+marine insurance contracts: the UK marine Insurance Act, 1906
+is an example. The Nigerian Marine Insurance Act, 2004 allows
+the parties a lot of discretion in the formation of marine insurance
+contract. Under French law however the rules on Insurable
+interest, representation and disclosure, fraud in the making of a
+contract, double insurance, negligence of the assured, disputes as
+to whether loss was caused by maritime or war perils,
+consequence of failure to pay premium are not alterable by
+contracts.
+
+2.4
+
+Summary
+
+The Marine Insurance Act, 1961 was the first law on the subject after
+independence. This was subsequently replaced by the Marine Insurance
+Act, 2004 which is the current law on marine insurance in Nigeria. The
+Marine Insurance Act, 2004 is the current law on marine insurance in
+Nigeria. The Insurance Act, 2003 and the National Insurance
+Commission Act, 2004 provide prudential and conduct of business
+regulation over the entire insurance industry in Nigeria.
+
+2.5
+
+References/Further Readings/Web Sources
+
+Nicholas Berketis The history of Marine Insurance-Its Origin Athen
+University of Economics & Business
+https://eclass.aueb.gr>file.php
+Professor Dr. Marko Pavliha (2010) “Overview of Marine Insurance
+Law” IMO International Maritime Law Institute
+(marko.pavliha@fpp.edu)
+Nwokoro I.A and Ndikom Obed B.C. “An Assessment of the Condition
+of Marine Insurance to the Development of Insurance Markets in
+Nigeria” Journal of Geography and Regional Planning, Vol.5 (8),
+April,
+2012.
+Available
+on
+line
+http://www.academicjournals.org/JGRP.
+See Dr Oluwole Akinyeye “Evaluating Potentials of the Legislative
+Framework Impacting On the Nigerian Marine Insurance
+23
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+Industry” February 2018, Maritime Newsletter, OAL
+Https://oal.law
+Item 33, Exclusive Legislative List, Part 1,Second Schedule,
+Constitution of the Federal Republic of Nigeria,1999 (as
+amended)
+
+24
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+UNIT 3
+
+INSTITUTIONAL FRAMEWORK FOR THE
+REGULATION OF MARINE INSURANCE IN
+NIGERIA
+
+UNIT STRUCTURE
+3.1
+3.2
+3.3
+
+3.4
+3.5
+3.6
+
+Introduction
+Learning Outcomes
+Institutional Framework for the Regulation of Marine Insurance
+in Nigeria
+3.3.1 Insurance Act 2003
+3.3.2 National Insurance Commission (NAICOM)
+3.3.3 Conduct of Insurance Business in Nigeria
+3.3.4 Right to Engage in Insurance Business
+3.3.5 The Nigeria Reinsurance Corporation Act 2004
+3.3.6 National Insurance Corporation of Nigeria
+Summary
+References/Further Reading/Web Sources
+Possible Answers to Self-Assessment Exercises
+
+3.1
+
+Introduction
+
+The National Insurance Commission (NAICOM) has been charged with
+regulating the entire insurance industry including the marine insurance
+subsector. The NAICOM as gate keeper regulates the industry using
+various regulatory tools.
+
+3.2
+
+Learning Outcomes
+
+By the end of this unit, you will be able to:
+ describe how the marine insurance subsector of the economy is
+supervised
+ discuss the limits of the powers of NAICOM over insurers and
+intermediaries are understood and appreciated.
+
+3.3 Institutional Framework for the Regulation of Marine
+Insurance in Nigeria
+3.3.1 Insurance Act 2003
+The Insurance Act, 2003 provides the body of regulation
+for the insurance industry in Nigeria. The National
+Insurance Commission provides the institutional
+regulation. Section 1, National Insurance Commission Act,
+2004 establishes the NAICOM. It is a body corporate with
+perpetual succession and a common seal. The Commission
+25
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+has a governing board which is responsible for managing
+and superintending the affairs of the commission. The
+governing body consists of a part time chairman and
+representatives of the Federal Ministry of Finance and he
+Central Bank of Nigeria not below the rank of Director. A
+representative of the Chartered institute of Insurance and
+the Federal ministry of Commerce and Tourism are also on
+the board. Three part time members on the board shall
+represent the interest of the public. The commissioner of
+Insurance and two Deputy Commissioners of the
+Commission are also members of the governing board. All
+the members except the ex-officio members are appointed
+by the President for an initial renewable term of 4 years.
+3.3.2 National Insurance Commission (NAICOM)
+The principal object of the Commission shall be to ensure the
+effective administration, supervision, regulation and control of
+insurance business in Nigeria. The Commission shall have the
+following functions:
+(a) Establish standards for the conduct of insurance business in
+Nigeria:
+(b) Approve rates of insurance premiums to be paid in respect of all
+classes of insurance business:
+(c) Approve rates of commissions to be paid in respect of all classes
+of insurance business in Nigeria:
+(d) Ensure adequate protection of strategic government assets and
+other properties:
+(e) Regulate transactions between insurers and reinsurers in Nigeria
+and those outside Nigeria:
+(f) Act as adviser to the Federal Government on all related
+insurance matters:
+(g) Approve standards, conditions and warranties applicable to all
+classes of insurance contracts:
+(h) Protect insurance policy holders and beneficiaries and third
+parties to insurance contracts:
+(i) Publish for sale and distribution to the public, annual reports and
+statistics on the insurance industry:
+(j) Liaise with and advise Federal Ministries, Extra Ministerial
+Departments, Statutory bodies and other Government agencies
+on all matters relating to insurance contained in any technical
+agreement to which Nigeria is a signatory;
+(k) Contribute to the educational programmers of the Chartered
+insurance Institute of Nigeria and he West African Insurance
+Institute; and
+(l) Carry out such other activities connected or incidental to its
+functions under the Act.
+26
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+3.3.3 Conduct of Insurance Business in Nigeria
+For the conduct of any business of insurance in Nigeria, section 3,
+Insurance Act, 2003 stipulates that no person shall commence or carry
+on any class of insurance business in Nigeria except: a company duly
+incorporated as a limited liability company under the Companies and
+Allied Matters Act,1990; or a body duly established by or pursuant to
+any other enactment to transact the business of insurance or reinsurance
+[ i.e. National Insurance Corporation of Nigeria or Nigeria Reinsurance
+Corporation]. This effectively shut the door against sole proprietor or
+partnership carrying on the business of marine insurance or any
+insurance business in Nigeria. Is this all that is required to operate as an
+insurance company in Nigeria? No, there are other important
+requirements.
+By section 4(1) Subject to the provisions of this Act, no insurer
+shall commence insurance business in Niger
+unless the insurer is registered by the Commission
+under this Act
+(2) The commission shall not grant approval if it is
+satisfied that it is not in the public interest or the
+interest of policy holders or persons who may
+become policyholders for it to be granted.
+According to section 5
+(1)
+An application for registration as an insurer shall
+made to the Commission in the prescribed form
+and be accompanied by a business plan and such
+other documents or information as the
+Commission may from time to time direct or
+require.
+(2)
+For the purpose of this Act, life insurance and
+general insurance business shall be subject to
+separate application and registration.
+Section 6
+(1)
+The Commission shall before registering an
+insurer be satisfied that(a)
+the class or category of insurance business shall
+be conducted in accordance with sound
+insurance principles;
+(b)
+the applicant being one of the persons referred to
+under section 3 of this Act is duly established
+under the applicable law and has a paid-up share
+capital and statutory deposit for the relevant
+class of insurance business;
+27
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+(c) the arrangements relating to reinsurance
+treaties in respect of the class or category of
+insurance business to be transacted are
+adequate and valid;
+(d) the proposal forms, terms and conditions of
+policies are in order and acceptable;
+(e) There shall be competent and professionally
+qualified persons as may be determined
+from time to time by the Commission to
+manage the company.
+
+3.3.4 Right to Engage in Insurance Business
+Under Part VII, Insurance Act, 2003, no person can carry on
+business as insurance agent, brokers and loss adjusters unless
+such person has been duly registered with the National Insurance
+Commission. Prudential and conduct of business guidelines for
+these professionals are set by the NAICOM.
+SELF-ASSESSMENT EXERCISE 2
+Where can the law of marine insurance in Nigeria be found?
+
+3.3.5 Nigerian Reinsurance Corporation Act Cap N131 LFN
+2004
+The law establishes the Nigerian Reinsurance Corporation to undertake
+the business of reinsurance within and outside Nigeria. The Corporation
+has corporate personality and is empowered to carry on reinsurance of
+any class of insurance business and to reinsure against loss of any kind
+arising from any risk or contingency in respect of any matter
+whatsoever.
+According to section 7(1) registered insurer shall in respect of every
+insurance policy issued or renewed by it reinsure with the corporation an
+amount equal to twenty percent of the sum insured in the policy and the
+registered insurer shall forthwith pay over to the corporation an amount
+equal to twenty percent of the premium received by the registered
+insurer on the issue or renewal of the policy. In respect of reinsurance
+business above the twenty percent legal cession, the corporation shall
+have the right of first refusal of any reinsurance business from Nigeria
+before such business is placed in the international market. Where the
+corporation exercises the right of first refusal, it shall issue a certificate
+to this effect to the insurer before such reinsurance is placed in the
+international market. This law has effect on domesticating reinsurance
+
+28
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+business in Nigeria by increasing the risk retention capacity of the
+country’s insurance industry.
+
+3.3.6 The National Insurance Corporation of Nigeria Act, Cap
+N54 LFN 2004
+This legislation establishes the National Insurance Corporation of
+Nigeria (NICON) as a body corporate. By section 4 of the Act, the
+Corporation shall have power within or outside Nigeria to carry on any
+class of insurance and to insure and reinsure against loss of any kind
+arising from any risk or contingency and in respect of any matter
+whatsoever. The corporation is empowered to insure any property of the
+Government of the Federation or of the Government of any state in the
+Federation or of any statutory corporation; to insure any property in
+which any of the said governments has interest; to accept on reinsurance
+any part of risks undertaken by any other person and to retrocede any
+part of such risks; to act as insurance agent or insurance broker in
+relation to any insurance, and in particular in relation to the insurance of
+any property in which Government of the Federation or of the
+Government of any state in the Federation or of any statutory
+corporation has interest.
+These bodies no doubt can undertake marine insurance or
+reinsurance businesses and are important institutions to have
+recourse to on a serious discussion on the subject of marine
+insurance in Nigeria.
+
+3.4 Summary
+Institutional bodies are necessary to provide the enabling environment
+and supervise the enforcement of standards in the entire insurance
+industry. Aside from regulation, some statutory bodies are empowered
+to undertake insurance businesses to deepen and create liquidity in the
+market. The NAICOM is the apex regulatory body of insurance business
+in Nigeria. It has been charged with providing prudential regulation and
+conduct of business regulation for the insurance business in Nigeria.
+Thus, no person can carry out the business of marine insurance or as a
+marine insurance intermediary without registration by the NAICOM.
+Nigerian Reinsurance Corporation and the NICON can also carry out
+marine insurance business.
+
+3.5 References/Further Readings/Web Sources
+Chibuike U. Uche & B. E. Chikeleze “Reinsurance in Nigeria: The Issue
+of Compulsory
+Legal Cession” The Geneva Papers on Risk and Insurance, Vol. 26,
+No.3 (July2001) 490-504
+29
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+3.6 Possible Answers to Self-Assessment Exercise 2
+a) By reason of historic fact, the Marine Insurance Act, 1906.
+b) The Constitution of the Federal Republic of Nigeria 1999
+(as amended)
+c) The Marine Insurance Act, LFN,CAP M2, 2004.
+
+30
+
+CLL809
+
+MODULE 3
+
+MODULE 3
+UNIT 1
+
+CLASSIFICATION OF MARINE
+INSURANCE
+
+MUTUAL INSURANCE AND COMMERCIAL
+INSURANCE
+
+UNIT STRUCTURE
+1.1
+1.2
+1.3
+
+1.4
+1.5
+1.6
+
+Introduction
+Learning Outcomes
+Mutual Insurance and Commercial Insurance
+1.3.1 Mutual Insurance
+1.3.2 Commercial Insurance
+Capital Requirements
+Summary
+References/Further Reading/Web Sources
+
+1.1
+
+Introduction
+
+There are several marine insurance companies undertaking a variety of
+insurance businesses tailored to meet the needs of their clients and the
+market. This provides the client with flexibility in their choices. Marine
+insurance business can be undertaken for profit or non-profit motives.
+It may be organised on collaborative basis as well very often defined by
+the size of risk in view.
+
+1.2
+
+Learning Outcomes
+
+By the end of this unit, you will be able to:
+ discuss how marine insurance businesses are organised
+ state the motive for setting out mutual or commercial insurance.
+
+1.3
+
+Mutual Insurance and Commercial Insurance
+
+Broadly speaking, the business of marine insurance can be divided into
+mutual Insurance and commercial insurance.
+
+1.3.1 Mutual Insurance
+According to section 86 (1) of the Act “Where two or more persons
+mutually agree to insure each other against marine losses, there is said
+to be mutual insurance” In mutual marine insurance a group of ship
+owners agree in advance to contribute to offset each other’s losses. If
+and when a member sustains a loss, the others contribute ratably to
+mitigate the impact of the loss (hull &Liability) on the member; no
+profit is intended by this transaction. Mutual associations offering
+31
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+insurances for these liabilities are called protection and indemnity (P &
+I) Clubs. This mutual scheme came into prominence after the 1835 case
+of De vaux v. Salvador 111 ER 85 (KB 1836). Since marine risks are
+indeterminate, historically, it was more difficult to find insurers willing
+to underwrite all specie of risks under one policy. As for collision risk,
+underwriters at Lloyds were only willing to insure three-fourths of the
+risk, requiring the ship owner to cover the remaining one-fourths. This
+contributed to the development of ship owner organisations known as
+protection and indemnity clubs (P&I) where members annually
+contribute a call to a risk pool. Club members can then make
+withdrawals from the pool to cover liabilities in accordance with the
+P&I club rules.
+
+1.3.2 Commercial Insurance
+The commercial marine insurers accept premium to provide risk
+coverage and have profit motive. Here, underwriters pool the premium
+received from the insured to pay the few claims and expenses, build
+reserve funds against future expenses and secure a small margin for
+profit. The commercial marine insurance market may be dominated by
+private companies or a combination of public and private sectors and by
+government agencies in the case of the socialist State. The Lloyds of
+London is composed of private companies grouped together in various
+underwriting syndicates. In view of the international contractual
+relationships undertaken by national insurers, some national insurance
+markets are members of the International Union of Marine Insurance
+which serves as an annual international forum for the exchange of ideas
+and sharing of experiences.
+
+1.4
+
+Capital Requirements
+
+1.4.1 Maritime business is capital intensive and considering the huge
+financial exposure risk, the burden of bearing the risk may be
+shared. Marine insurance be undertaken under co-insurance or
+Reinsurance arrangements. An insurance company may spread
+their potential liabilities in relatively small amount in order to
+profit from the probability that only a limited percentage of the
+risks would occur. Different insurers may provide risk covers on
+different parts under a “co-insurance” arrangement. The
+insurance is in effect by a number of insurers based on the
+principle of joint and several liability. Although each insurer
+contracts individually on his own part for a portion of the total
+risk, he does so on the same contractual terms and conditions as
+the first insurer called the lead insurer.
+
+32
+
+CLL809
+
+MODULE 3
+
+1.4.2 On the other hand, the insurer may accept the entirety of the risk
+and then approach another underwriter to accept the entire or
+portion of the risk which the original insurer does not want to
+bear or want ceded. This is called reinsurance. It is the insuring of
+a risk or part of it by the principal insurer with another insurer.
+Reinsurance contract undertaken on case-by-case basis is called
+“Facultative Reinsurance”. A reinsurance that is general in nature
+to cover all or a designated category of subsequent reinsurances
+is called Treaty Reinsurance.
+
+1.5 Summary
+Commercial reason and the size of risks may inform the various
+classification and choice of insurance business. This classification has to
+do with conduct of business by the insurer. There are several
+classifications of marine insurance, namely mutual, commercial, coinsurance or Reinsurance business.
+1.6
+
+References/Further Reading/Web Sources
+
+Howard Benneth, The Law of Marine Insurance. (2nd ed.). Oxford:
+University Press, 2006.
+De Vaux v. Salvador 111 ER 85 (KB 1836): Bank of Nova Scotia v
+Mutual War Risks Association (Bermuda) Ltd [1991] 2 WLR
+1279.
+
+33
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+UNIT 2
+
+KINDS OF MARINE POLICIES
+
+UNIT STRUCTURE
+2.1
+2.2
+2.3
+
+2.4
+2.5
+2.6
+
+2.1
+
+Introduction
+Learning Outcomes
+Kinds of Marine Insurance
+2.3.1 Voyage Policy and Time Policy
+2.3.2 Valued Policy and Unvalued Policy
+2.3.3 Floating and Open Cover Policy
+Summary
+References/Further Reading/Web Sources
+Answers to Self-Assessment Exercises 3
+
+Introduction
+
+Marine insurance policies differ based on the different subject matters or
+purpose of the contract. This classification to some extent bears on
+measure of indemnity.
+
+2.2
+
+Learning Outcome
+
+By the end of this unit, you will be able to:
+ list the various covers the insured can provide to the assured in
+marine insurance
+ describe to a large extent the size of the premium payable by the
+assured and the scope of liability of the insured to the assured in the
+event of the happening of the peril insured against.
+
+2.3
+
+Kinds of Marine Insurance
+
+2.3.1 Voyage Policy and Time Policy
+(Section 27, M.I.A.) A voyage policy relates to one particular
+voyage. It is common for covering cargo in international trade
+transactions. A time policy on the other hand relates to the subject
+matter being covered for a specified time period. A specific date for
+the commencement and termination of the risk must be stated in the
+policy. It is generally understood that a day starts from 00;00 and
+ends at 23:59:59. This is suitable for haulage and machinery cover.
+2.3.2 Valued Policy and Unvalued Policy
+(Sections 29 & 30, M.I.A) A valued policy is one where the agreed
+valued of the subject matter is specified and in the absence of fraud,
+conclusive of the insurable value of the subject matter as between the
+34
+
+CLL809
+
+MODULE 3
+
+insurer and the insured. This policy is very common in marine insurance
+globally. The agreed valued does not necessarily reflect the real value of
+the goods in question. It could include for example an element of
+anticipated profit which however must be disclosed.
+In the case of unvalued policy, the value of the subject matter
+is not specified in the policy but left to be computed in
+accordance with the insurable value which is, the prime cost
+of the property insured, plus the expenses of and incidental to
+shipping and the charge of insurance upon the whole.
+2.3.3 Floating and Open Cover Policy
+Floating and open cover policies are used by merchants who ship on
+regular basis. A floating policy is intended to cover a number of
+consignments setting out the general conditions of the insurance but no
+particulars of the goods to be covered. The particulars are provided by
+the insured to the insurer by way of a declaration. The declarations then
+form an endorsement on the policy. The floating policy will cover
+consignments up to an aggregate value. As each consignment is
+declared, the cover is incrementally reduced. The insured is under a
+statutory obligation to honestly declare the value. It allows the insured to
+insure an unascertained cargo on an unascertained vessel. According to
+section 31, M.I.A. “A floating policy is a policy which describes the
+insurance in general terms, and leaves the name of the ship or ships and
+other particulars to be defined by subsequent declaration”
+An Open cover is similar except that the insurer does not
+issue a policy; he merely undertakes to issue a policy. What
+is provided instead is a certificate. An open cover may be
+time specific or perpetual subject to termination by either
+party by giving of notice.
+SELF-ASSESSMENT EXERCISE 3
+What informs the various classification of marine insurance business?
+
+2.4 Summary
+The subject matter of the insurance may determine the kind of insurance
+policy to be initiated. The insurance policy may be voyage policy, time
+policy, valued policy, unvalued policy, floating or open policy. These
+policies may attach to hull or cargo.
+35
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+2.5 References/Further Reading/Web Sources
+Irving v. Manning (1847)1 HL Cas 287
+Mathie v. The Argonaut Marine Insurance Co. (1925) 21 Ll.l.Rep.145.
+Berger & Light Diffusers Property Ltd v. Pullock (1973)2 Lloyds Rep
+442
+
+36
+
+CLL809
+
+MODULE 3
+
+2.6 Answers to Self-Assessment Exercise 3
+
+a) Member society providing protection for members in the event of
+a loss or damage in their business for instance protection and
+indemnity Clubs through Mutual Insurance Business
+b) Insurance business for profit by charging and collecting premiums
+Commercial insurance Business (alone/co insurance)
+c) Insurance companies ensuring the risk undertaken by them
+through Reinsurance Business
+
+37
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+MODULE 4 - GENERAL PRINCIPLES OF MARINE
+INSURANCE
+UNIT 1
+
+GOOD FAITH (UBERRIMAE FIDEI)
+
+UNIT STRUCTURE
+1.1 Introduction
+1.2 Learning Outcomes
+1.3 The Principle of Good Faith – Uberrimae Fidei
+1.3.1 Common Law Position on the Principle
+1.3.2 Statutory Position on the Principle
+1.4 Summary
+1.5 References/Further Reading/Web Sources
+
+1.1 Introduction
+Some fundamental principles underlie marine insurance. In addition to
+giving the subject its unique feature, these principles distinguish marine
+insurance from other relationships. The presence or otherwise of these
+principles determine the justiciability of a transaction as marine
+insurance. Marine Insurance is a fiduciary contract. It is a relationship
+of confidentiality, and the insured is under a duty to disclose material
+facts about the risk he desires another to assume on his behalf.
+
+1.2 Learning Outcomes
+By the end of this unit, you will be able to:
+
+explain why the breach of the duty of disclosure can avoid the
+contract of marine insurance
+
+state that the fact of information asymmetry compels the parties
+to be of good faith in dealings with each other hence the
+characterisation of marine insurance as a fiduciary relationship.
+
+1.3 Principle of Good Faith (Uberrimae Fidei)
+1.3.1 Common Law Position on the Principle
+1)
+
+38
+
+Contracts of insurance are fiduciary contracts of utmost
+good faith. The utmost good faith is required from both the
+insurer and the assured. This overriding principle requires
+that the parties to marine insurance must be honest to
+themselves. Good faith forbids either party concealing
+crucial information at his disposal on a particular subject to
+induce the other into a bargain on the same subject by the
+other from his ignorance of the fact and his believing the
+
+CLL809
+
+MODULE 4
+
+contrary. The onus of showing lack of good faith is on the
+party alleging it. The reason for this doctrine is to prevent
+overreaching, taking undue advantage owing to information
+asymmetry or even fraud.
+2)
+
+3)
+
+Uberrimae fidei is a fundamental principle of
+insurance law generally and finds expression in the
+requirement for disclosure. The duty to disclose
+means the assured must disclose all material
+circumstance within his knowledge which include
+those he knows and those he ought to know by the
+exercise of due diligence. A circumstance is material
+if it was one which would influence the judgment of
+a prudent insurer in fixing the premium or
+determining whether he would take the risk. It is not
+necessary to show that the disclosure would have had
+a decisive or conclusive influence. The underwriter
+must also show that he was in fact induced to enter
+the contract on the relevant terms.
+The common law doctrine of good faith in insurance
+contract originated in the 18th Century. Lord
+Mansfield is credited with first articulating this
+concept in the case of Carter v. Boehm (1766) 3
+Burr 1905 where a Governor had taken out an
+insurance policy against the loss of Fort Malbourugh
+on the island of Sumatra but did not disclose the
+extent of its vulnerability to aggression or attack.
+According to his lordship
+“The reason for the rule which obliges parties to
+disclose is to prevent fraud, and to encourage
+good faith. It is adapted to such facts as vary the
+nature of the contract; which one privately
+knows, and the other is ignorant of, and has no
+reason to suspect”
+
+4)
+
+A failure to disclose a material fact renders the policy
+avoidable at the instance of the insurer. The policy is
+liable to be avoided whether the non- disclosure is
+due to fraud, carelessness, mistake, error of
+judgment, etc. The insurer is at liberty, after
+becoming aware of the truth, waive the nondisclosure and affirm the policy. Fair and square, the
+obligation to disclose is primarily at the domain of
+the insured. In the Container Transport
+39
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+International v Oceanus Mutual Underwriting
+Association [1984] 1 Lloyds Rep 476 Kerr J stated:
+The principle is that if a certain fact is material
+… so that a failure to draw the underwriter’s
+attention to it distorts the fairness of the brokers
+presentation of the risk, then it is not sufficient
+that this fact could have been abstracted by the
+underwriter from material to which he had access
+or which was cursorily shown to him. On the
+other hand, if the disclosed facts give a fair
+presentation of the risk, then the underwriter
+must inquire if he wishes to have more
+information.
+5)
+
+This decision was thought to have inclined too
+heavily in favour of the insurer who would be at
+liberty to avoid any policy with relative ease for
+non-disclosure of what he considers material fact.
+To strike some balance it was considered fair to
+establish a connection between the risk and the
+information thought to be material. Justice Mustill
+in the case of Pan Atlantic Insurance Company
+Limited v Pinetop Insurance Company [1994] 2
+Lloyds Rep 427,453 stated:
+I have concluded that it is an answer to a defence
+of misrepresentation and non-disclosure that the
+act or omission complained of had no practical
+effect on the decision of the actual underwriter.
+As a matter of common sense however even
+where the underwriter is shown to have been
+careless in other respects the assured has an
+uphill task in persuading the court that the
+withholding or misstatement of circumstances
+satisfying the test of materiality has made no
+difference. There is ample material both in the
+general law and in the specialists’ works on
+insurance to suggest that there is a presumption
+in favour of a causative effect.
+6)
+
+40
+
+The right to rescind enables the innocent party to
+rescind the contract ab initio thereby totally
+nullifying the contract and requiring everything
+done under the contract to be undone, including any
+adjustment of the parties’ financial positions. This
+is appropriate where the lack of good faith preceded
+the formation of the contract. However, where the
+
+CLL809
+
+MODULE 4
+
+lack of good faith arises after the making of the
+contract and during its performance, the aggrieved
+party would not be entitled to avoid the contract
+from its inception. Where the parties are in
+litigation, it is the procedural rules of court that
+governs the extent of disclosure which should be
+given in the litigation and not the marine insurance
+Act provisions on disclosure.
+
+1.3.2 Statutory Position on the Principle
+1)
+
+The principle of good faith and fair dealing in marine insurance
+was prescribed in section 17, Marine Insurance Act, 1906 under
+the heading ‘Disclosure and Representations’. Instructively,
+under the Act, the standard was raised from “good faith” as stated
+in case law to “Utmost Good Faith” indicating the highest degree
+of good faith. In determining good faith, the court must strike a
+balance between the interest of the policy holder in having his
+legitimate claim paid and the interest of the insurer in accepting
+responsibility for the risk they bargained for. The insurer cannot
+keep the policy alive and seek to avoid paying a claim on the
+ground of want of good faith or non-disclosure (West v National
+Motor and Accidental insurance 19551 Lloyds Rep 207). To
+constitute a valid avoidance the insurer must return the premium
+paid by the insured.
+
+2)
+
+According to section 19, M.I.A. “a contract of marine insurance
+is a contract based upon the utmost good faith, and, if the utmost
+good faith is not observed by either party, the contract may be
+avoided by the other party”
+
+3)
+
+Section 20, M.I.A. lays out the scope and substance of the
+disclosure regime.
+(1)
+Subject to the provision of this section, the assured shall
+disclose to the insurer before the contract is concluded,
+every material circumstance which is known to the assured
+and the assured shall be deemed to know every
+circumstance which in the ordinary course of business
+ought to be known by him. If the assured fails to make
+such disclosure, the insurer may avoid the contract.
+(2)
+Every circumstance is material which would influence the
+judgment of a prudent insurer in fixing the premium or
+determining whether he will take the risk.
+(3)
+In the absence of inquiry, the following circumstances
+need not be disclosed namely:
+(a)
+Any circumstance which diminishes the risk
+41
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+(b)
+
+Any circumstance which is known or presumed to
+be known to the insurer, and for the purpose of his
+paragraph, the presumptions shall extend and apply
+to matters of common notoriety or knowledge, and
+to matters which an insurer in the ordinary course
+of his business, as such, ought to know;
+(c)
+Any circumstance as to which information is
+waived;
+(d)
+Any circumstance which is superfluous to
+disclose by reason of any express or implied
+warranty.
+
+For the purpose of this section, “circumstance” includes any
+communication made to, or information received by, the assured; and
+whether any particular circumstance which is not disclosed, is material
+or not is, in each case of a question of fact.
+1.4 Summary
+The insured is under a duty to disclose in good faith material
+circumstances on the risk sought to be insured. Failure to disclose
+required material circumstances will enable the insurer to rescind the
+insurance contract. The insured must disclose all such material
+information that would enable the insurer to decide whether to accept
+the risk or not and the price to undertake the risk.
+
+1.5 References/Further Readings/Web Sources
+Manifest Shipping Co Limited v Unipolaris Insurance Co. Ltd. (The Star
+Sea case)[2001]1Lloyd’s Rep.1
+Pan Atlantic Insurance Co. v Pine Top Insurance Co. Ltd (1995) 1 AC
+501 (HL)-
+
+42
+
+CLL809
+
+UNIT 2
+
+MODULE 4
+
+INSURABLE INTEREST
+
+UNIT STRUCTURE
+2.1 Introduction
+2.2 Learning Outcomes
+2.3 Insurable Interest
+2.3.1 The Nature of Insurable Interest
+2.3.2 Insurable and the Statute
+2.3.3 Insurable in International Marine Insurance
+2.4 Summary
+2.5 References/Further Reading/Web Sources
+2.6 Possible Answers to Self-Assessment Exercises
+
+2.1 Introduction
+A policyholder must stand to benefit from the preservation of a subject
+matter or suffer a direct financial loss in an event that certain undesired
+event insured against occurs. The insured must have a certain legal
+connection to the subject matter of the insurance to insure any risk
+touching on it.
+
+2.2
+
+Learning Outcomes
+
+By the end of this unit, you will be able to:
+ state that insurable interest differentiates marine insurance from
+gambling, wagering or investment schemes
+ explain that marine insurance differs from the other forms of
+insurance on the requirement of when insurable interest must
+exist.
+
+2.3 Insurable Interest
+2.3.1 The Nature of Insurable Interest
+Insurable interest in the subject matter for which insurance
+cover is sought or provided is the cornerstone of the
+insurance contract. The origin of this fundamental concept
+dates back to the Life Assurance Act,1774 which made
+insurable interest a prerequisite for obtaining a life policy.
+This requirement founds its way into the Marine Insurance
+Act, 1788 and later to the Marine Insurance Act,1906. The
+absence of insurable interest renders the transaction a
+wagering or gambling transaction which is expressly
+prohibited in insurance law. According to section 6 M.I.A.
+43
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+1)
+
+Every contract of marine insurance by way of
+gambling or wagering is void.
+2)
+A contract of marine insurance shall be deemed
+to be a gaming or wagering contract
+a) where the assured has not an insurable interest
+as defined by this Act, and the contract is
+entered into with no expectation of acquiring
+such an interest, or
+b) where the policy is made “interest or no
+interest” or without further proof of interest
+than the policy itself’ or “without benefit of
+salvage to the insurer” or subject to any other
+like term.
+Insurable interest in any instance of marine insurance is the interest
+which an assured has in the proposal taken out by him. An assured is
+said to have an insurable interest in a thing if he has a benefit from its
+existence or suffers a prejudice from its destruction. Such interest must
+be an enforceable one. Mere hope of acquiring an interest is not enough.
+The interest must also be real and of a pecuniary nature. Insurable
+interest cannot be said to exist where the assured does not stand to suffer
+any loss from the transaction or event.
+In Broadgrain Commodities Limited v. Continental Casualty
+Company 2017 ONSC 4721: 2018 ONCA 438 the plaintiff sold 26
+containers of sesame seeds to be transported from Nigeria to Xingang,
+China. The sale was on terms “CIF Xingang” meaning the plaintiff was
+to obtain insurance but the risk of loss or damage passed to the buyer
+upon shipment. The goods were insured under an open cargo policy with
+the defendant and were declared under the open policy. During the
+course of carriage of the goods from Nigeria to China, the good were
+damaged. All the 26 containers were declared unfit for human
+consumption and were sold for salvage. Even though the plaintiff had
+been paid in full by the buyer, it filed a claim with the defendant insurer
+which denied liability on the basis that the cause of the damage was
+condensation or sweat, a non-transit related fortuity. At the plaintiff’s
+suit, the insurer contended that the plaintiff had no insurable interest in
+the subject matter having been paid in full by the buyer. The court held
+that the plaintiff having received payment for the consignment had no
+insurable interest to protect.
+
+2.3.2 Insurable Interest and the Statute
+Under the provisions of the M.I.A, every person has an insurable interest
+who is interested in a marine adventure. By section 7(2)
+
+44
+
+CLL809
+
+MODULE 4
+
+“In particular a person is interested in marine
+adventure where he stands in any legal or equitable
+relation to the adventure or to any insurable
+property at risk therein, in consequence of which he
+may benefit by the safety or due arrival of insurable
+property or may be prejudiced by its loss or damage
+thereto, or by the detention thereof or may incur
+liability in respect thereof.
+For the purpose of insurable interest, insurance contracts are categorised
+into three-Indemnity, non-indemnity and Marine insurance contracts. In
+marine insurance, it is sufficient if the insured has interest in the subject
+matter insured at the time of the loss and it is immaterial whether or not
+he has interest at the time when the contract was gone into. However,
+where the subject matter is insured “loss or not lost” the insured may
+recover although he may not have acquired his interest until after the
+loss. Defeasible, contingent or partial interests are insurable. A reinsurer
+has insurable interest in the risk reinsured. (See sections 9,10,11 M.I.A)
+
+2.3.3 Insurable Interest in International Marine Insurance
+It is not unusual practice in international marine insurance practice to
+find issued policies which do not require the need for proof of insurable
+interest. P.P.I (Policy Proof of Interest) or F.I.A (Full Interest Admitted)
+contracts are used to insure interests where it is difficult to prove that
+insurable interest exist or difficult to prove the amount at risk. Despite
+their commercial convenience, they are equated with gambling or
+wagering and thus considered void under the M.I.A.
+
+2.4 Summary
+In marine insurance, the insured must have insurable interest in the
+subject matter insured at the time of the loss. An insured must have an
+insurable interest in the marine insurance contract. A person has
+insurable interest where he stands in any legal or equitable relation to
+the adventure or to any insurable property at risk therein, in consequence
+of which he may benefit by the safety or due arrival of insurable
+property, or may be prejudiced by its loss, damage, detention or incur
+any liability in respect thereof
+
+2.5 References/Further Reading/Web Sources
+Oyeniyi Ajiboye, “A Review of the Doctrine of Insurable Interest under
+the Marine Insurance Act in Nigeria” The Gravitas Review of
+Business and Property Law, Sept. 2016, Vol.7, No.3, 15.
+
+45
+
+CLL809
+
+UNIT 3
+
+LAW OF MARINE INSURANCE I
+
+SUBROGATION
+
+UNIT STRUCTURE
+3.1 Introduction
+3.2 Learning Outcome
+3.3 Subrogation
+3.4 Summary
+3.5 References for Further Reading
+
+3.1 Introduction
+Where the insured has been indemnified, the insurer succeeds to his
+rights against the wrong doer. This is an exception to the rule of privity
+of contract.
+
+3.2 Learning Outcome
+By the end of this unit, you will be able to:
+ to explain that a third party who may have caused the peril insured
+against could still be liable for the wrong done notwithstanding the
+fact that the insurer has assumed the responsibility to make good the
+loss.
+
+3.3
+
+Subrogation
+
+3.3.1 This is a procedure where the insurer on payment of the loss is
+entitled to be placed in the position of the insured by succeeding
+to all his rights and remedies against third parties in respect of the
+subject matter of the insurance. In this situation, since the insurer
+has made good the loss, he is then entitled to claim or be
+indemnified by the third party. The right of subrogation rests
+upon the ground that the insurer’s contract is in the nature of a
+contract of indemnity and that he is, therefore, entitled, upon
+paying a sum for which others are primarily liable to the assured,
+to be proportionately subrogated to the right of action of the
+assured against them. The insurance principle of subrogation
+reinforces the indemnity character of insurance. According to
+section 80(1) M.I.A,
+Where the insurer pays for a total loss, either of the
+whole, or in the case of goods of any apportionable
+part of the subject matter insured, he shall
+thereupon become entitled to take over the interest
+of the assured in whatever may remain of the
+subject matter so paid for, and shall thereby be
+subrogated to all the rights and remedies of the
+46
+
+CLL809
+
+MODULE 4
+
+assured in and in respect of the subject matter as
+from the time of the casualty causing the loss.
+This section enunciates two fundamental principles of insurance law and
+rights of an insurer in an insurance contract: the right of subrogation and
+the salvage principle. Where the loss is caused by the fault of another or
+where by contract another person is liable to bear the loss insured
+against if the insured claim from the insurer and he is paid, the insurer
+then succeeds to the rights of the insured against the third party. Where
+the insured obtains any remedy from a third party for the same loss, he
+must revert to the insurer. Being paid by the insurer does not preclude
+him from seeking reliefs from the wrongdoer who caused the loss. He
+does this on behalf of the insurer who is said to be subrogated to his
+rights.
+3.3.2 The principle of subrogation comes into effect when the assured
+receives satisfaction from his insurer; whatever he receives
+thereafter he holds in trust for the insurer. Subrogation rests on
+the ground that the insurer’s contract is one of indemnity and is
+therefore entitle upon paying the sum for which others are
+primarily liable to the assured to be proportionately subrogated to
+the right of the assured. In practice, at times the Insurer will
+require the assured to sign a subrogation form to assist the insurer
+press claim against third parties: very often such forms are
+worded thus “In consideration for the payment of the sum of…for
+the loss of… I hereby abandon to you all my rights, title and
+interest in the said…”
+3.3.3 It must be noted that the right does not arise unless and until the
+insurer has admitted the insured’s claim under the policy and has
+paid the sum payable under the policy. Furthermore, the insurer
+cannot recover more than the amount it has paid. In
+YORKSHIRE INS. CO. LTD. v. NISBET SHPPING CO.
+LTD. (1961) 1 Lloyd’s Rep 479, a ship was insured under a
+valued policy for E72,000(pounds). It became a total loss as a
+result of a collision with another vessel. The insurer paid the
+valued policy of E72,000(pounds) to the assured. The assured
+claimed damages from the Canadian government and recovered
+E127,000(pounds). The assured repaid E72,000(pounds) to the
+insurer and kept the excess. The Court held that the insurer was
+not entitled to recover the excess from the assured.
+
+3.4
+
+Summary
+
+Subrogation enables the insurer succeeds to the rights of the insured
+against third person(s) that have caused the loss for which the insurer
+has indemnified the insured. Subrogation strengthens the indemnity
+47
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+character of insurance. Where the insurer pays a loss insured against, he
+shall be subrogated to all the rights and remedies of the assured in
+respect of the subject matter. The insurer must have paid the claim and
+is entitled to what has been paid out to the assured.
+
+3.5 References/Further Reading/Web Sources
+See British India General Insurance Co. Ltd v. Kalla (1965) 1 All NLR
+20.
+
+48
+
+CLL809
+
+MODULE 4
+
+UNIT 4
+
+DOUBLE INSURANCE AND CONTRIBUTION
+
+UNIT STRUCTURE
+4.1
+Introduction
+4.2
+Learning Outcome
+4.3
+Double Insurance and Contribution
+4.3.1 The Concept of Double Insurance
+4.3.2 Principle of Contribution
+4.4
+Summary
+4.5
+References/Further Reading/Web Sources
+4.6
+Possible Answers to Self-Assessment Exercises
+
+4.1 Introduction
+Where the marine risk is insured with more than one insurer, the insurers
+will proportionately bear the burden of the risk in the event of a loss or
+damage.
+
+4.2 Learning Outcome
+By the end of this unit, you will be able to:
+ explain that in the event of over insurance, equity seeks a fair
+distribution of the risk among the various insurers.
+
+4.3
+
+Double Insurance and Contribution
+
+4.3.1 The Concept of Double Insurance
+The concept of double insurance allows an insured under a coinsurance arrangement to insure the same subject matter of the
+insurance with more than one insurance company. In the event of
+the occurrence of the event insured against, he is free to claim
+payment from his insurers in such order as he thinks fit until he has
+received the full amount for his loss (Section 33, M.I.A). In
+exercising this right, the insured is free to call upon any of his
+insurers to pay him in full and the fact that others are also liable
+will not afford the insurer any defence. Effectually, once the
+insured receives full payment from one insurer, he cannot receive
+further payment from other insurers.
+4.3.2 Principle of Contribution
+As a corollary to the duty of an insurer to pay in case of double
+insurance, is the right of such an insurer to call upon the other insurer(s)
+to contribute their share in indemnifying the assured for the loss, to the
+insurer. This right is known as the right to contribution. According to
+49
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+section 81(1), M.I.A “Where the assured is over insured by double
+insurance, each insurer shall be bound, as between himself and the
+other insurers, to contribute ratably to the loss in proportion to the
+amount for which he is liable under his contract. Before a right of
+contribution can be enforced, the following conditions must be satisfied.
+(a)
+There must be a subject matter common to all the policies
+taken by the insured. Once the insurer can show that the
+subject matter insured with him has also been insured with
+another insurer, he can call on the latter to contribute
+ratably to the discharge of the obligation under the policy.
+(b)
+The loss must be due to a risk or peril common to all the
+policies. The loss and the cause of the loss must have been
+covered by the several policies.
+(c)
+All the policies must be enforceable. If any of the policies
+cannot be legally enforced against the insurer, as a result
+of a breach of a condition or non-disclosure by the insured,
+such a policy will not give rise to a right to contribution,
+even if the insurer had paid the insured under such a
+policy.
+
+50
+
+CLL809
+
+MODULE 4
+
+SELF-ASSESSMENT EXERCISES
+1. A marine insurance is a contract of good faith because
+a. It is fiduciary in nature
+b. It is a contract of Uberimae fidei
+c. the insured is required to disclose all material facts on the
+subject matter of the insurance to the insurer
+d. All of the above is correct.
+2. By insurable interest the assured is expected to
+a. Own the property sought to be insured at all times before
+the policy of insurance is issued.
+b. Benefit from the existence of the property and suffer a
+prejudice from its destruction.
+c. Insure the property at all times with Lloyds of London
+Insurance market.
+d. Reinsure the property for twice its value.
+3. Subrogation enables the
+a. Insurer on payment of a claim to succeed to the rights of
+the insured against third parties that caused the loss.
+b. Insurer to make profit by making a double claim against
+third parties.
+c. Insurer to avoid the contract with the insured
+d. Insured to sue third parties and the insurer.
+4. Marine insurance is a contract of indemnity because
+a. The insured can freely speculate on possible profit from
+the contract.
+b. As a matter of fact, the insured is gambling with the risk
+in view.
+c. The law allows the assured to engage in a scheme of
+wager as far as the risk insured against is concerned.
+d. The insured is sought to be restored as near as possible to
+the position he was before the loss insured against.
+5. Double insurance enables the
+a. The insured to claim from all the insurers far and above
+his loss.
+b. Insured obtain reinsurance of the risk contemplated.
+c. National Insurance Commission to also regulate the
+banking industry in Nigeria.
+d. One insurer in a co-insurance arrangement to obtain
+ratable contributions from other insurers for the loss it
+has indemnified the assured.
+51
+
+CLL809
+
+LAW OF MARINE INSURANCE I
+
+4.4 Summary
+The principle of double insurance and the right to contribution
+reinforces the character of marine insurance as essentially an indemnity
+contract. Where the assured is over insured by double insurance, each
+insurer shall be bound, as between himself and the other insurers, to
+contribute ratably to the loss in proportion to the amount for which he is
+liable under his contract. Before a right of contribution can be enforced,
+there must be a subject matter common to all the policies taken by the
+insured; the loss must be due to a risk or peril common to all the policies
+and all the policies must be enforceable.
+
+4.5 References/Further Reading/Web Sources
+Susan Hodges, Law of Marine Insurance, Cavendish Publishing
+Limited, Great Britain, 1996.
+Rose F.D. Marine Insurance Law and Practice, Lloyd’s of London Press.
+London,2004.
+Reference Book of Marine Insurance Clauses, 69thed, Witherby & CO.
+Ltd., London, 1997.
+Interesting websites:
+http://www.bmla.org.uk.
+http://www.1malloyds.com
+
+52
+
+CLL809
+
+MODULE 4
+
+4.6 Possible Answers to Self-Assessment Exercises
+
+1. d
+2. b
+3. a
+4. d
+5. d
+
+53
+
+
